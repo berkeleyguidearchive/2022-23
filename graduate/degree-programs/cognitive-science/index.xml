@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Cognitive Science</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<abouttheprogramtext name="About the Program">
+<![CDATA[
+<p>The Designated Emphasis (DE) in Cognitive Science trains student in the breadth of interdisciplinary approaches to the science of the mind as well as in computational thinking. Cognitive Science is characterized by a focus on classic foundational questions about the mind, for example: What aspects of knowledge are innate? What aspects of thought are uniquely human? Is human thought rational? And it pursues these unifying core questions through methods drawn from a variety of disciplines, most commonly psychology, linguistics, computer science, neuroscience, anthropology, and philosophy.</p>
+<p>Within this overall picture, there is one aspect of cognitive science that is theoretically central: computation. Computation serves both as a model of the mind, and as a set of precise tools for investigating it. Cognitive science thus represents an engagement with fundamental questions of the mind that is computationally oriented but is focused on human rather than artificial intelligence. In today’s environment, cognitive science has the potential to prepare students and citizens for a world in which the intersection of minds, machines, data, and inference is increasingly important, yet in which the centrality of the human mind to that intersection is sometimes obscured, or treated only superficially. Computational principles also serve as a shared lingua franca that allows psychologists, linguists, anthropologists, neuroscientists, and others to communicate with each other.</p>
+]]>
+</abouttheprogramtext>
+<admissionstext name="Admissions">
+<![CDATA[
+<p><span id="docs-internal-guid-fe1178fe-7fff-cc47-78dc-e186212d7a31">PhD students in any department may apply. All applications must be reviewed and approved by the Executive Committee of the Graduate Group. To apply, students must submit a form listing their prior preparation in the field and their projected pathway through the program, along with a (maximum) on-page essay stating their interest and reasoning for applying. A CV and a letter of recommendation from a faculty member in the student’s home department indicating how and why the student would benefit from the DE. Students must be admitted to the DE prior to taking the Qualifying Exam. </span></p>
+<p><span style="font-size:1em">Admission will be determined by the members of the Executive Committee on the basis of the student’s background and preparation, and of how well the student has articulated the value of the DE for their larger course of study and career goals.</span></p>
+]]>
+</admissionstext>
+<designatedemphasisrequirementstext name="Designated Emphasis Requirements">
+<![CDATA[
+<p><span id="docs-internal-guid-968853f1-7fff-7240-5473-b679859a0892">DE students will be required to take three courses: one to fulfill a </span>computational requirement, and two to fulfill a breadth requirement. Courses that fulfill these requirements are listed below. Students may petition the DE Executive Committee to have other classes added to these lists. Students will have to meet the prerequisites for the specific classes they wish to take. In addition, although it is not an official requirement, DE students will be encouraged to regularly attend and participate in the <a href="https://icbs.berkeley.edu/">ICBS</a> colloquia. </p>
+<h4><span id="docs-internal-guid-968853f1-7fff-7240-5473-b679859a0892">Computational Cognitive Science</span></h4>
+<p>DE students should take one course in computational cognitive science. There are several options for fulfilling this requirement:</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="COG SCI 131">COG SCI 131</span></td><td>Computational Models of Cognition</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 188">COMPSCI 188</span></td><td>Introduction to Artificial Intelligence</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI C280">COMPSCI C280</span></td><td>Computer Vision</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI C281A">COMPSCI C281A</span></td><td>Statistical Learning Theory</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI C281B">COMPSCI C281B</span></td><td>Advanced Topics in Learning and Decision Making</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 282A">COMPSCI 282A</span></td><td>Designing, Visualizing and Understanding Deep Neural Networks</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 285">COMPSCI 285</span></td><td>Deep Reinforcement Learning, Decision Making, and Control</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 287">COMPSCI 287</span></td><td>Advanced Robotics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 287H">COMPSCI 287H</span></td><td>Algorithmic Human-Robot Interaction</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 288">COMPSCI 288</span></td><td>Natural Language Processing</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 289A">COMPSCI 289A</span></td><td>Introduction to Machine Learning</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EDUC 244">EDUC 244</span></td><td>Data Mining and Analytics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="EDUC C260F">EDUC C260F</span></td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG 225D">EL ENG 225D</span></td><td>Audio Signal Processing in Humans and Machines</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="LINGUIS 243">LINGUIS 243</span></td><td>Language, Computation, and Cognition</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="LINGUIS 252">LINGUIS 252</span></td><td>COMPUTATIONAL LINGUISTICS</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PSYCH 208">PSYCH 208</span></td><td>Methods in Computational Modeling for Cognitive Science</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="VIS SCI 265">VIS SCI 265</span></td><td>Neural Computation</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<h4><span style="color:rgb(35, 31, 32); font-family:freight-micro-pro,serif; font-size:1.4em">Breadth</span></h4>
+<p>DE students should take two cognitive-science-relevant courses each of which is in a department or program other than their own, and other than the department or program offering the course that the student chose to fulfill the computational requirement. The breadth courses need not be primarily computational in focus, but they may be. The courses may be drawn from the computational bin shown above, or from the following additional courses:</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="ANTHRO 107">ANTHRO 107</span></td><td>Evolution of the Human Brain</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EDUC 203">EDUC 203</span></td><td>Cultivating Cognitive Development: From Sensorimotor Intelligence to Embodied STEM Concepts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="LINGUIS 205">LINGUIS 205</span></td><td>Advanced Cognitive Linguistics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="LINGUIS 208">LINGUIS 208</span></td><td>Advanced Psycholinguistics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="LINGUIS 210">LINGUIS 210</span></td><td>Advanced Phonetics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PSYCH 210A">PSYCH 210A</span></td><td>Proseminar: Cognition, Brain, and Behavior</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="PSYCH 240A">PSYCH 240A</span></td><td>Proseminar: Biological, Cognitive, and Language Development</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+]]>
+</designatedemphasisrequirementstext>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><h4>Affiliated Faculty</h4><p class="facitem"><strong>Dor Abrahamson, <i>Professor, Education</i>. </strong></p><p class="facitem"><strong>Gasper Begus , <i>Assistant Professor, Linguistics, </i>. </strong></p><p class="facitem"><strong>Anne Collins, <i>Assistant Professor, Psychology</i>. </strong></p><p class="facitem"><strong>Terrence Deacon, <i>Professor, Anthropology</i>. </strong></p><p class="facitem"><strong>Alexei Efros, <i>Professor, EECS</i>. </strong></p><p class="facitem"><strong>Susanne Gahl, <i>Professor, Linguistics</i>. </strong></p><p class="facitem"><strong>Jack Gallant, <i>Professor, Psychology</i>. </strong></p><p class="facitem"><strong>Ming Hsu, <i> Associate Professor, Business Administration</i>. </strong></p><p class="facitem"><strong>Richard Ivry, <i>Professor, Psychology</i>. </strong></p><p class="facitem"><strong>Keith Johnson, <i>Professor, Linguistics</i>. </strong></p><p class="facitem"><strong>Celeste Kidd, <i> Assistant Professor, Psychology</i>. </strong></p><p class="facitem"><strong>Jitendra Malik, <i>Professor, EECS</i>. </strong></p><p class="facitem"><strong>Zachary Pardos, <i>Associate Professor, Education</i>. </strong></p><p class="facitem"><strong>Steven Piantadosi, <i>Assistant Professor, Psychology</i>. </strong></p><p class="facitem"><strong>Michael Ranney, <i>Professor, Education</i>. </strong></p><p class="facitem"><strong>Terry Regier, <i>Professor, Linguistics</i>. </strong></p><p class="facitem"><strong>Stuart Russell, <i>Professor, EECS</i>. </strong></p><p class="facitem"><strong>Mahesh Srinivasan, <i>Associate Professor, Psychology</i>. </strong></p><p class="facitem"><strong>Eve Sweetser, <i>Professor, Linguistics</i>. </strong></p><p class="facitem"><strong>Frederic Theunissen, <i>Professor, Psychology</i>. </strong></p><p class="facitem"><strong>David Whitney, <i>Professor, Psychology</i>. </strong></p><p class="facitem"><strong>Linda Wilbrecht, <i>Associate Professor, Psychology</i>. </strong></p><p class="facitem"><strong>Fei Xu, <i>Professor, Psychology</i>. </strong></p>]]>
+</faculty>
+</courseleaf>
+

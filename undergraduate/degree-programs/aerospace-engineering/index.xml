@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Aerospace Engineering</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<abouttheprogramtext name="About the Program">
+<![CDATA[
+<p>Leonardo da Vinci wrote, “Once you have tasted flight, you will forever walk the earth with your eyes turned skyward. For there you have been, and there you will always long to return.” Perhaps, like da Vinci, you’ve always been obsessed with airborne machines: Gliders and lighter-than-air craft. Fixed-wing airplanes and jets. Autogyros and helicopters. Or even rockets, satellites, and spacecraft. Aeronautical engineers generally design aircraft to fly within the Earth’s atmosphere, while astronautical engineers design the technology for spacecraft to fly beyond the atmosphere. Either way, the sky’s the limit.</p>
+<h3><span>Major Program</span></h3>
+<p><span>At Berkeley Engineering, we offer a modern aerospace engineering major that combines comprehensive topical coverage, technical rigor and practical relevance. This major has been designed from the ground up for students who aspire to become leaders in an emerging era of aerospace technologies, including sustainable aviation, autonomous flight and space exploration. With a UC Berkeley aerospace engineering degree, you can find employment in industry — such as multinational corporations that design and manufacture aerospace systems at scale, or mid-size and small private companies that develop targeted technologies — or in federal government agencies such as NASA, the FAA or federal defense organizations.</span></p>
+<p>The aerospace engineering degree program will begin instruction with an inaugural freshman class in Fall 2022. </p>
+<h3>Minor Program</h3>
+<p><span>To declare your intention to pursue the Aerospace Minor, please use your Berkeley email address/calnet ID and fill out the following </span><a href="https://docs.google.com/forms/d/e/1FAIpQLSc5GQhRPAoxKuc0rm2_Dylp1hlPl3P84Pt78lYL6NL_2SdWoQ/viewform?usp=sf_link">application to declare</a><span> form.</span></p>
+<p>Non-Mechanical Engineering major students can declare their intention to complete the minor after completing prerequisite courses <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span> Introduction to Solid Mechanics</span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 106">MEC ENG 106</span> Fluid Mechanics</span>, and <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 132">MEC ENG 132</span> Dynamic Systems and Feedback</span>. Mechanical Engineering majors are allowed to overlap prerequisite courses. Students must have a minimum overall grade-point average of 3.0, as well as a minimum grade-point average of 3.0 in the prerequisite courses, in order to be admitted to the minor program.</p>
+<div><br/>
+ </div>
+]]>
+</abouttheprogramtext>
+<majorrequirementstext name="Major Requirements">
+<![CDATA[
+<p><span style="font-size:1em">For more detailed information regarding the courses listed below (e.g., elective information, GPA requirements, etc.), please see the College Requirements and Major Requirements tabs.</span></p>
+<h3><span id="docs-internal-guid-2a752425-7fff-b8e9-ab49-7d5078d6ee44">General Guidelines</span></h3>
+<ol>
+	<li>
+	<p><span id="docs-internal-guid-2a752425-7fff-b8e9-ab49-7d5078d6ee44">All technical courses taken in satisfaction of major requirements must be taken for a letter grade.</span></p>
+	</li>
+	<li>
+	<p><span id="docs-internal-guid-2a752425-7fff-b8e9-ab49-7d5078d6ee44">A minimum overall grade point average (GPA) of 2.0 is required for all work undertaken at UC Berkeley.</span></p>
+	</li>
+	<li>
+	<p><span id="docs-internal-guid-2a752425-7fff-b8e9-ab49-7d5078d6ee44">A minimum GPA of 2.0 is required for all upper division technical courses taken in satisfaction of major requirements.</span></p>
+	</li>
+</ol>
+<p><span id="docs-internal-guid-2a752425-7fff-b8e9-ab49-7d5078d6ee44">For information regarding residence requirements and unit requirements, please see the College Requirements tab.</span></p>
+<p><span id="docs-internal-guid-2a752425-7fff-b8e9-ab49-7d5078d6ee44">For a detailed plan of study by year and semester, please see the Plan of Study tab.</span></p>
+<h3><span id="docs-internal-guid-2a752425-7fff-b8e9-ab49-7d5078d6ee44">Lower Division Requirements</span></h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="AERO ENG 1">AERO ENG 1</span></td><td>Aerospace Engineering 1 Seminar</td><td class="hourscol">1</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="AERO ENG 2">AERO ENG 2</span></td><td>Aerospace Engineering 2 Seminar</td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="AERO ENG 10">AERO ENG 10</span></td><td>Introduction to Aerospace Engineering Design</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG C30">CIV ENG C30</span></td><td>Introduction to Solid Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span></td><td colspan="2"> Introduction to Solid Mechanics</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI 61A</span></td><td>The Structure and Interpretation of Computer Programs</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span></td><td colspan="2"> Introduction to Computer Programming for Scientists and Engineers</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 40">ENGIN 40</span></td><td>Engineering Thermodynamics</td><td class="hourscol">3-4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="MEC ENG 40">MEC ENG 40</span></td><td colspan="2"> Thermodynamics</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span></td><td>Properties of Materials</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span></td><td>Multivariable Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></td><td>Linear Algebra and Differential Equations (recommended)</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="PHYSICS 89">PHYSICS 89</span></td><td colspan="2"> Introduction to Mathematical Physics</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Science Elective</span> <sup>1</sup></td><td class="hourscol">4-5</td></tr>
+</tbody></table>
+
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent">Choose one of the following: ASTRON 7A, 10; BIOLOGY 1A+1AL, 1B; CHEM 1A/1AL, 1B, 3A/3AL, 3B/3BL, 4A, 4B; MCELLBI 32; PHYSICS 7C. Some of these courses require prerequisites and would therefore be more appropriately taken in a later semester.</p></dd></dl>
+<div>
+<h3><strong>Upper Division Requirements</strong></h3>
+</div>
+<p><span id="docs-internal-guid-2a752425-7fff-b8e9-ab49-7d5078d6ee44">Students must complete the Upper Division Core Requirements and four Technical Electives. </span></p>
+<h4><span id="docs-internal-guid-2a752425-7fff-b8e9-ab49-7d5078d6ee44">Upper Division Core Requirements</span></h4>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="AERO ENG 100">AERO ENG 100</span></td><td>Course Not Available</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG 93">CIV ENG 93</span></td><td>Engineering Data Analysis</td><td class="hourscol">3-4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="DATA C100">DATA C100</span></td><td colspan="2"> Principles &amp; Techniques of Data Science</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="ENGIN 178">ENGIN 178</span></td><td colspan="2"> Statistics and Data Science for Engineers</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG 126">CIV ENG 126</span></td><td>Engineering Dynamics and Vibrations</td><td class="hourscol">3</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="MEC ENG 104">MEC ENG 104</span></td><td colspan="2"> Engineering Mechanics II</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 100">MEC ENG 100</span></td><td>Electronics for the Internet of Things</td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="EL ENG 120">EL ENG 120</span></td><td colspan="2"> Signals and Systems</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="EECS 149">EECS 149</span></td><td colspan="2"> Introduction to Embedded and Cyber Physical Systems</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 103">MEC ENG 103</span></td><td>Experimentation and Measurements</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 106">MEC ENG 106</span></td><td>Fluid Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 132">MEC ENG 132</span></td><td>Dynamic Systems and Feedback</td><td class="hourscol">3</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="EL ENG C128">EL ENG C128</span></td><td colspan="2"> Feedback Control Systems</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="MEC ENG C134">MEC ENG C134</span></td><td colspan="2"> Feedback Control Systems</td></tr>
+<tr class="odd lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 163">MEC ENG 163</span></td><td>Engineering Aerodynamics</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<h4><span id="docs-internal-guid-2a752425-7fff-b8e9-ab49-7d5078d6ee44">Technical Electives</span></h4>
+<p><span id="docs-internal-guid-2a752425-7fff-b8e9-ab49-7d5078d6ee44">Students must take four elective courses from two of the areas listed below.</span></p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Communications Systems</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 168">COMPSCI 168</span></td><td>Introduction to the Internet: Architecture and Protocols</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG 117">EL ENG 117</span></td><td>Electromagnetic Fields and Waves</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG 121">EL ENG 121</span></td><td>Introduction to Digital Communication Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG 122">EL ENG 122</span></td><td>Introduction to Communication Networks</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG 142">EL ENG 142</span></td><td>Integrated Circuits for Communications</td><td class="hourscol">4</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Computational Tools</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG C133">CIV ENG C133</span></td><td>Engineering Analysis Using the Finite Element Method</td><td class="hourscol">3</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="MEC ENG C180">MEC ENG C180</span></td><td colspan="2"> Engineering Analysis Using the Finite Element Method</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 150">ENGIN 150</span></td><td>Basic Modeling and Simulation Tools for Industrial Research Applications</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 174">IND ENG 174</span></td><td>Simulation for Enterprise-Scale Systems</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="NUC ENG 155">NUC ENG 155</span></td><td>Introduction to Numerical Simulations in Radiation Transport</td><td class="hourscol">3</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Control, Autonomy, &amp; Artificial Intelligence</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 188">COMPSCI 188</span></td><td>Introduction to Artificial Intelligence</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 189">COMPSCI 189</span></td><td>Introduction to Machine Learning</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG C106A">EL ENG C106A</span></td><td>Introduction to Robotics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG C106B">EL ENG C106B</span></td><td>Robotic Manipulation and Interaction</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 142">IND ENG 142</span></td><td>Introduction to Machine Learning and Data Analytics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 136">MEC ENG 136</span></td><td>Introduction to Control of Unmanned Aerial Vehicles</td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Design</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG 192">EL ENG 192</span></td><td>Mechatronic Design Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 135">MEC ENG 135</span></td><td>Design of Microprocessor-Based Mechanical Systems</td><td class="hourscol">4</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Dynamical Systems</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 170">MEC ENG 170</span></td><td>Engineering Mechanics III</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 175">MEC ENG 175</span></td><td>Intermediate Dynamics</td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Humans and Automation</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG 190">CIV ENG 190</span></td><td>Special Topics in Civil and Environmental Engineering ((Aviation control topics))</td><td class="hourscol">1-4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COG SCI 131">COG SCI 131</span></td><td>Computational Models of Cognition</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 160">COMPSCI 160</span></td><td>User Interface Design and Development</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 170">IND ENG 170</span></td><td>Industrial Design and Human Factors</td><td class="hourscol">3</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Manufacturing</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 130">IND ENG 130</span></td><td>Methods of Manufacturing Improvement</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 121">MAT SCI 121</span></td><td>Metals Processing</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 122">MEC ENG 122</span></td><td>Processing of Materials in Manufacturing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 127">MEC ENG 127</span></td><td>Introduction to Composite Materials</td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Materials </span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 102">MAT SCI 102</span></td><td>Bonding, Crystallography, and Crystal Defects</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 104">MAT SCI 104</span><br/><span style="margin-left:20px;" class="blockindent">&amp; <span class="code_bubble" data-code-bubble="MAT SCI 104L">104L</span></span></td><td>Materials Characterization<br/><span style="margin-left:20px;" class="blockindent">and Materials Characterization Laboratory</span></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 112">MAT SCI 112</span></td><td>Corrosion (Chemical Properties)</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 113">MAT SCI 113</span></td><td>Mechanical Behavior of Engineering Materials</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 136">MAT SCI 136</span></td><td>Materials in Energy Technologies</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 108">MEC ENG 108</span></td><td>Mechanical Behavior of Engineering Materials</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 127">MEC ENG 127</span></td><td>Introduction to Composite Materials</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="NUC ENG 120">NUC ENG 120</span></td><td>Nuclear Materials</td><td class="hourscol">4</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Mechanics</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG 132">CIV ENG 132</span></td><td>Applied Structural Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 184">MEC ENG 184</span></td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 185">MEC ENG 185</span></td><td>Introduction to Continuum Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Operations and Project Management</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG 167">CIV ENG 167</span></td><td>Engineering Project Management</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 120">ENGIN 120</span></td><td>Principles of Engineering Economics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 130">IND ENG 130</span></td><td>Methods of Manufacturing Improvement</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 150">IND ENG 150</span></td><td>Production Systems Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 153">IND ENG 153</span></td><td>Logistics Network Design and Supply Chain Management</td><td class="hourscol">3</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Optimization</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="EECS 127">EECS 127</span></td><td>Optimization Models in Engineering</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 160">IND ENG 160</span></td><td>Nonlinear and Discrete Optimization</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 162">IND ENG 162</span></td><td>Linear Programming and Network Flows</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 164">IND ENG 164</span></td><td>Introduction to Optimization Modeling</td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Power</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG 190">CIV ENG 190</span></td><td>Special Topics in Civil and Environmental Engineering ((Power topics))</td><td class="hourscol">1-4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 140">MEC ENG 140</span></td><td>Combustion Processes</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 146">MEC ENG 146</span></td><td>Energy Conversion Principles</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 154">MEC ENG 154</span></td><td>Thermophysics for Applications</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="NUC ENG 150">NUC ENG 150</span></td><td>Introduction to Nuclear Reactor Theory</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="NUC ENG 161">NUC ENG 161</span></td><td>Nuclear Power Engineering</td><td class="hourscol">4</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Propulsion</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="AERO ENG 143">AERO ENG 143</span></td><td>Course Not Available</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 109">MEC ENG 109</span></td><td>Heat Transfer</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 140">MEC ENG 140</span></td><td>Combustion Processes</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 151A">MEC ENG 151A</span></td><td>Conductive and Radiative Transport</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 151B">MEC ENG 151B</span></td><td>Convective Transport and Computational Methods</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 154">MEC ENG 154</span></td><td>Thermophysics for Applications</td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Risk Management</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG 193">CIV ENG 193</span></td><td>Engineering Risk Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 165">IND ENG 165</span></td><td>Engineering Statistics, Quality Control, and Forecasting</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 166">IND ENG 166</span></td><td>Decision Analytics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span></td><td>Probability and Risk Analysis for Engineers</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="NUC ENG 167">NUC ENG 167</span></td><td>Risk-Informed Design for Advanced Nuclear Systems</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="NUC ENG 175">NUC ENG 175</span></td><td>Methods of Risk Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Space Technologies</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="NUC ENG 140">NUC ENG 140</span></td><td>Course Not Available</td><td class="hourscol"/></tr>
+<tr class="odd lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="NUC ENG 162">NUC ENG 162</span></td><td>Radiation Biophysics and Dosimetry</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+]]>
+</majorrequirementstext>
+<minorrequirementstext name="Minor Requirements">
+<![CDATA[
+<p>Students can receive an aerospace minor by successfully completing the following courses:</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 127">MEC ENG 127</span></td><td>Introduction to Composite Materials</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 136">MEC ENG 136</span></td><td>Introduction to Control of Unmanned Aerial Vehicles</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 163">MEC ENG 163</span></td><td>Engineering Aerodynamics</td><td class="hourscol">3</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Prequisite Courses </span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span></td><td>Introduction to Solid Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 106">MEC ENG 106</span></td><td>Fluid Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 132">MEC ENG 132</span></td><td>Dynamic Systems and Feedback</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<p>Non-Mechanical Engineering majors can declare their intention to complete the minor after completing prerequisite courses <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 106">MEC ENG 106</span></span>, and <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG 132">MEC ENG 132</span></span>. Mechanical Engineering majors are allowed to overlap prerequisite courses.</p>
+<p>Students must have a minimum overall grade-point average of 3.0, as well as a minimum grade-point average of 3.0 in the prerequisite courses, in order to be admitted to the minor program. Students outside of the Mechanical Engineering major must take all 6 courses (the pre-requisite courses and the minor courses) to complete the minor. Students must have a minimum of 2.00 grade-point average in the minor courses at graduation. Completion of the minor cannot delay graduation.</p>
+]]>
+</minorrequirementstext>
+<collegerequirementstext name="College Requirements">
+<![CDATA[
+ <h3><strong>Students in the College of Engineering must complete no fewer than 120 semester units with the following provisions: </strong></h3> <ol> 	<li>Completion of the requirements of <a href="https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/major-programs/" target="_blank">one engineering major program</a> of study. </li> 	<li>A minimum overall grade point average of 2.00 (C average) and a minimum 2.00 grade point average in upper division technical coursework required of the major.</li> 	<li>The final 30 units and two semesters must be completed in residence in the College of Engineering on the Berkeley campus.</li> 	<li>All technical courses (math, science, and engineering) that can fulfill requirements for the student's major must be taken on a letter graded basis (unless they are only offered P/NP). </li> 	<li>Entering freshmen are allowed a maximum of eight semesters to complete their degree requirements. Entering junior transfers are allowed five semesters to complete their degree requirements. Summer terms are optional and do not count toward the maximum. Students are responsible for planning and satisfactorily completing all graduation requirements within the maximum allowable semesters. </li> 	<li>Adhere to all <a href="https://engineering.berkeley.edu/students/undergraduate-guide/policies-procedures/" target="_blank">college policies and procedures </a>as they complete degree requirements.</li> 	<li>Complete the lower division program before enrolling in upper division engineering courses. </li> </ol> <h3><strong>Humanities and Social Sciences (H/SS) Requirement</strong></h3> <p style="margin-left:22.5pt">To promote a rich and varied educational experience outside of the technical requirements for each major, the College of Engineering has a six-course <a href="http://engineering.berkeley.edu/student-services/degree-requirements/humanities-and-social-sciences" target="_blank">Humanities and Social Sciences breadth requirement</a>, which must be completed to graduate. This requirement, built into all the engineering programs of study, includes two Reading and Composition courses (R&amp;C), and four additional courses within which a number of specific conditions must be satisfied. See the <a href="https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/humanities-and-social-sciences/" target="_blank">humanities and social sciences</a> section of our website for details.</p> <h3><strong>Class Schedule Requirements</strong></h3> <ul> 	<li>Minimum units per semester: 12.0</li> 	<li>Maximum units per semester:  20.5</li> 	<li>Minimum technical courses: College of Engineering undergraduates must include at least two letter graded technical courses (of at least 3 units each) in their semester program. Every semester students are expected to make satisfactory progress in their declared major. Satisfactory progress is determined by the student's Engineering Student Services Advisor. (Note: For most majors, <a href="https://engineering.berkeley.edu/academics/undergraduate-guide/policies-procedures/scholarship-progress#ac12282" target="_blank">normal progress</a> will require enrolling in 3-4 technical courses each semester). Students who are not in compliance with this policy by the end of the fifth week of the semester are subject to a registration block that will delay enrollment for the following semester. </li> 	<li>All technical courses (math, science, engineering) that satisfy requirements for the major must be taken on a letter-graded basis (unless only offered as P/NP).</li> </ul> <h3><strong>Minimum Academic (Grade) Requirements</strong></h3> <ul> 	<li>Minimum overall and semester grade point averages of 2.00 (C average) are required of engineering undergraduates. Students will be subject to dismissal from the University if during any fall or spring semester their overall UC GPA falls below a 2.00, or their semester GPA is less than 2.00. </li> 	<li>Students must achieve a minimum grade point average of 2.00 (C average) in upper division technical courses required for the major curriculum each semester.</li> 	<li>A minimum overall grade point average of 2.00 and a minimum 2.00 grade point average in upper division technical course work required for the major are required to earn a Bachelor of Science in the College of Engineering.</li> </ul> <h3><strong>Unit Requirements</strong></h3> <p>To earn a Bachelor of Science in Engineering, students must complete at least 120 semester units of courses subject to certain guidelines:</p> <ul> 	<li>Completion of the requirements of one engineering<a href="https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/major-programs/" target="_blank"> major program</a> of study. </li> 	<li>A maximum of 16 units of special studies coursework (courses numbered 97, 98, 99, 197, 198, or 199) is allowed to count towards the B.S. degree, and no more than 4 units in any single term can be counted.</li> 	<li>A maximum of 4 units of physical education from any school attended will count towards the 120 units.</li> 	<li> 	<p>Passed (P) grades may account for no more than one third of the total units completed at UC Berkeley, Fall Program for Freshmen (FPF), UC Education Abroad Program (UCEAP), or UC Berkeley Washington Program (UCDC) toward the 120 overall minimum unit requirement. <span>Transfer credit is not factored into the limit. This includes transfer units from outside of the UC system, other UC campuses, credit-bearing exams, as well as UC Berkeley Extension XB units.</span></p> 	</li> </ul> <h3><strong>Normal Progress</strong></h3> <p>Students in the College of Engineering must enroll in a full-time program and make <a href="https://engineering.berkeley.edu/students/undergraduate-guide/policies-procedures/scholarship-progress/#ac12282" target="_blank">normal progress</a> each semester toward the bachelor's degree. The continued enrollment of students who fail to achieve minimum academic progress shall be subject to the approval of the dean. (Note: Students with official accommodations established by the Disabled Students' Program, with health or family issues, or with other reasons deemed appropriate by the dean may petition for an exception to normal progress rules.) </p>
+]]>
+</collegerequirementstext>
+<ucandcampusrequirementstext name="UC and Campus Requirements">
+<![CDATA[
+ <h3>University of California Requirements</h3> <p><a href="http://guide.berkeley.edu/2022-23/undergraduate/education/#earningyourdegreetext" target="_blank">Entry Level Writing</a></p> <p>All students who will enter the University of California as freshmen must demonstrate their command of the English language by satisfying the Entry Level Writing Requirement (ELWR). <span style="font-size:1em">The </span><a href="https://admission.universityofcalifornia.edu/elwr/requirements/test-scores-grades.html" style="font-size: 1em;">UC Entry Level Writing Requirement website</a><span style="font-size:1em"> provides information on how to satisfy the requirement</span></p> <p><a href="http://guide.berkeley.edu/2022-23/undergraduate/education/#earningyourdegreetext" target="_blank">American History and American Institutions</a></p> <p>The American History and Institutions (AH&amp;I) requirements are based on the principle that a US resident graduated from an American university should have an understanding of the history and governmental institutions of the United States.</p> <h3>Campus Requirement</h3> <p><a href="http://guide.berkeley.edu/2022-23/undergraduate/education/#earningyourdegreetext" target="_blank">American Cultures</a></p> <p><span id="docs-internal-guid-c47924ad-7fff-1b30-99f8-3c345cb2b997">The American Cultures requirement is a Berkeley campus requirement, one that all undergraduate students at Berkeley need to pass in order to graduate. You satisfy the requirement by passing, with a grade not lower than C- or P, an American Cultures course. You may take an American Cultures course any time during your undergraduate career at Berkeley. The requirement was instituted in 1991 to introduce students to the diverse cultures of the United States through a comparative framework. Courses are offered in more than fifty departments in many different disciplines at both the lower and upper division level.</span></p> <div> </div>
+]]>
+</ucandcampusrequirementstext>
+<planofstudytext name="Plan of Study">
+<![CDATA[
+<p><span>For more detailed information regarding the courses listed below (</span><em>e.g.</em><span>, elective information, GPA requirements, </span><em>etc</em><span>.), please see the College Requirements and Major Requirements tabs.</span></p>
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="2">Freshman</th></tr><tr class="plangridterm"><th align="right" style="width: 80%;">Fall</th><th style="width: 20%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span></td><td class="hourscol">3</td></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="AERO ENG 1">AERO ENG 1</span></td><td class="hourscol">1</td></tr><tr class="odd">
+<td class="codecol">Science Elective<sup>1</sup></td><td class="hourscol">3-5</td></tr><tr class="even">
+<td class="codecol">Reading &amp; Composition Part A Course<sup>2</sup></td><td class="hourscol">4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">15-17</td></tr><tr class="plangridtotal lastrow"><td colspan="2">Total Units: 15-17</td></tr></table>
+<div align="left" dir="ltr" style="margin-left:0pt">
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="2">Freshman</th></tr><tr class="plangridterm"><th align="right" style="width: 80%;">Spring</th><th style="width: 20%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span></td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span> or <span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI  61A</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="AERO ENG 2">AERO ENG 2</span></td><td class="hourscol">1</td></tr><tr class="even">
+<td class="codecol">Reading &amp; Composition Part B Course<sup>2</sup></td><td class="hourscol">4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">17</td></tr><tr class="plangridtotal lastrow"><td colspan="2">Total Units: 17</td></tr></table>
+</div>
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="2">Sophomore</th></tr><tr class="plangridterm"><th align="right" style="width: 80%;">Fall</th><th style="width: 20%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span> or <span class="code_bubble" data-code-bubble="PHYSICS 89">PHYSICS  89</span> (recommended)</td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span></td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="AERO ENG 10">AERO ENG 10</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">Humanities/Social Sciences Course<sup>2</sup></td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">15-16</td></tr><tr class="plangridtotal lastrow"><td colspan="2">Total Units: 15-16</td></tr></table>
+<div align="left" dir="ltr" style="margin-left:0pt">
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="2">Sophomore</th></tr><tr class="plangridterm"><th align="right" style="width: 80%;">Spring</th><th style="width: 20%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG C30">CIV ENG C30</span> or <span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG  C85</span></td><td class="hourscol">3</td></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 40">ENGIN 40</span> or <span class="code_bubble" data-code-bubble="MEC ENG 40">MEC ENG  40</span></td><td class="hourscol">3-4</td></tr><tr class="odd">
+<td class="codecol">Humanities/Social Sciences Course<sup>2</sup></td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">13-15</td></tr><tr class="plangridtotal lastrow"><td colspan="2">Total Units: 13-15</td></tr></table>
+</div>
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="2">Junior</th></tr><tr class="plangridterm"><th align="right" style="width: 80%;">Fall</th><th style="width: 20%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 106">MEC ENG 106</span></td><td class="hourscol">3</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG 126">CIV ENG 126</span> or <span class="code_bubble" data-code-bubble="MEC ENG 104">MEC ENG  104</span></td><td class="hourscol">3</td></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG C128">EL ENG C128</span>, <span class="code_bubble" data-code-bubble="MEC ENG C134">MEC ENG  C134</span>, or <span class="code_bubble" data-code-bubble="MEC ENG 132">MEC ENG  132</span></td><td class="hourscol">3-4</td></tr><tr class="odd">
+<td class="codecol">Humanities/Social Sciences Course<sup>2</sup></td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">12-14</td></tr><tr class="plangridtotal lastrow"><td colspan="2">Total Units: 12-14</td></tr></table>
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="2">Junior</th></tr><tr class="plangridterm"><th align="right" style="width: 80%;">Spring</th><th style="width: 20%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG 93">CIV ENG 93</span>, <span class="code_bubble" data-code-bubble="DATA C100">DATA  C100</span>, or <span class="code_bubble" data-code-bubble="ENGIN 178">ENGIN  178</span></td><td class="hourscol">3-4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 100">MEC ENG 100</span>, <span class="code_bubble" data-code-bubble="EL ENG 120">EL ENG  120</span>, or <span class="code_bubble" data-code-bubble="EECS 149">EECS  149</span></td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 163">MEC ENG 163</span></td><td class="hourscol">3</td></tr><tr class="odd">
+<td class="codecol">Humanities/Social Sciences Course<sup>2</sup></td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">13-15</td></tr><tr class="plangridtotal lastrow"><td colspan="2">Total Units: 13-15</td></tr></table>
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="2">Senior</th></tr><tr class="plangridterm"><th align="right" style="width: 80%;">Fall</th><th style="width: 20%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG 103">MEC ENG 103</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">Technical Elective 1<sup>3</sup></td><td class="hourscol">3-4</td></tr><tr class="even">
+<td class="codecol">Technical Elective 2<sup>3</sup></td><td class="hourscol">3-4</td></tr><tr class="odd">
+<td class="codecol">Free Elective</td><td class="hourscol">2-4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">12-16</td></tr><tr class="plangridtotal lastrow"><td colspan="2">Total Units: 12-16</td></tr></table>
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="2">Senior</th></tr><tr class="plangridterm"><th align="right" style="width: 80%;">Spring</th><th style="width: 20%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="AERO ENG 100">AERO ENG 100</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">Technical Elective 3<sup>3</sup></td><td class="hourscol">3-4</td></tr><tr class="even">
+<td class="codecol">Technical Elective 4<sup>3</sup></td><td class="hourscol">3-4</td></tr><tr class="odd">
+<td class="codecol">Free Elective</td><td class="hourscol">2-4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">12-16</td></tr><tr class="plangridtotal lastrow"><td colspan="2">Total Units: 12-16</td></tr></table>
+<div align="left" dir="ltr" style="margin-left:0pt">
+<table>
+	<colgroup>
+		<col/>
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>Total Units: 120 (minimum)</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent">Choose one of the following: ASTRON 7A, 10; BIOLOGY 1A+1AL, 1B; CHEM 1A/1AL, 1B, 3A/3AL, 3B/3BL, 4A, 4B; MCELLBI 32; PHYSICS 7C. Some of these courses require prerequisites and would therefore be more appropriately taken in a later semester.</p></dd><dt> <sup> 2 </sup> </dt><dd start-indent="3%"><p class="noindent">The Humanities/Social Sciences (H/SS) requirement includes two approved Reading &amp; Composition (R&amp;C) courses and four additional approved courses, with which a number of specific conditions must be satisfied. R&amp;C courses must be taken for a letter grade (C- or better required). The first half (R&amp;C Part A) must be completed by the end of the freshman year; the second half (R&amp;C Part B) must be completed by no later than the end of the sophomore year. The remaining courses may be taken at any time during the program. See engineering.berkeley.edu/hss for complete details and a list of approved courses.</p></dd><dt> <sup> 3 </sup> </dt><dd start-indent="3%"><p class="noindent">Students must take four technical elective courses chosen from two of the areas listed on the Major Requirements page.</p></dd></dl>
+]]>
+</planofstudytext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

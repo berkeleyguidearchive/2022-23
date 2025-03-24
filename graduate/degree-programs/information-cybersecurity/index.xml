@@ -1,0 +1,431 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Information and Cybersecurity: MICS</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<abouttheprogramtext name="About the Program">
+<![CDATA[
+<p><a href="https://cybersecurity.berkeley.edu/form/" target="_blank">The Master of Information and Cybersecurity (MICS)</a> is an online, part-time professional degree program that provides the technical skills and contextual knowledge students need to assume leadership positions in private sector technology companies as well as government and military organizations. The interdisciplinary program offers students mastery of core technical skills and fluency in the business, political, and legal context for cybersecurity, as well as managing cyber risk in the service of strategic decision making.</p>
+<p>Students attend weekly live (&quot;synchronous&quot;) sessions with classmates and instructors via an online platform as well as engaging with online (&quot;asynchronous&quot;) videos and assignments on their own time. </p>
+<p>The core MICS curriculum includes cryptography, secure programming, systems security, and the ethical, legal, and economic framework of cybersecurity. In addition, students may select from a wide variety of electives covering topics such as privacy engineering, managing cyber risk, and usable security. MICS features a project-based approach to learning and encourages the pragmatic application of a variety of different tools and methods to solve complex problems.</p>
+<p>Graduates of the program will be able to:</p>
+<ul>
+	<li>Understand the ethical and legal requirements associated with cybersecurity and data privacy;</li>
+	<li>Know how to build secure systems and applications;</li>
+	<li>Prepare to lead, manage, and contribute to building cybersecurity solutions; and</li>
+	<li>Gain hands-on, practical cybersecurity experience.</li>
+</ul>
+<p>The I School also offers a master's in <a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/information-data-science/">Information and Data Science</a> (MIDS), a master's in <a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/information-management-systems/">Information Management and Systems </a>(MIMS), and a doctoral degree <a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/information-management-systems-phd/">(PhD) program in Information Science</a>.</p>
+]]>
+</abouttheprogramtext>
+<mastersdegreerequirementsmicstext name="Masters Degree Requirements (MICS)">
+<![CDATA[
+<h4>Unit Requirements</h4>
+<p>The Master of Information and Cybersecurity is designed to be completed in 20 months. Students will complete 27 units of course work over five terms, taking two courses (6 units) per term for four terms and a one 3-unit capstone course in their final term. MICS classes are divided into foundation courses (9 units), a systems security requirement (3 units), advanced courses (12 units), and a synthetic capstone (3 units). Students will also complete an immersion at the UC Berkeley campus.</p>
+<h4>Curriculum</h4>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td colspan="2"><span class="courselistcomment">Foundation Courses</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 200">CYBER 200</span></td><td>Beyond the Code: Cybersecurity in Context</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 202">CYBER 202</span></td><td>Cryptography for Cyber and Network Security</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 206">CYBER 206</span></td><td>Programming Fundamentals for Cybersecurity</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 204">CYBER 204</span></td><td>Software Security</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Systems Security Courses</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 210">CYBER 210</span></td><td>Network Security</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 211">CYBER 211</span></td><td>Operating System Security</td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Advanced Courses</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 207">CYBER 207</span></td><td>Applied Machine Learning for Cybersecurity</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 215">CYBER 215</span></td><td>Usable Privacy and Security</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 220">CYBER 220</span></td><td>Managing Cyber Risk</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 233">CYBER 233</span></td><td>Privacy Engineering</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 242">CYBER 242</span></td><td>New Domains of Competition: Cybersecurity and Public Policy</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 289">CYBER 289</span></td><td>Public Interest Cybersecurity: The Citizen Clinic Practicum</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 290">CYBER 290</span></td><td>Special Topics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Capstone Course</span></td><td class="hourscol"/></tr>
+<tr class="odd lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 295">CYBER 295</span></td><td>Capstone</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<h4>Immersion</h4>
+<p><span>As a Master of Information and Cybersecurity (MICS) student, the immersion is your opportunity to meet faculty and peers in person on the UC Berkeley campus. You will have the opportunity to gain on-the-ground perspectives from faculty and industry leaders, meet with cybersecurity professionals, and soak up more of the School of Information (I School) culture. Offered twice a year, each four- to five-day immersion will be custom-crafted to deliver additional learning, networking, and community-building opportunities. </span></p>
+<p><span>Please refer to the <a href="https://cybersecurity.berkeley.edu/academics/" target="_blank">cybersecurity@berkeley website</a> for more information.</span></p>
+]]>
+</mastersdegreerequirementsmicstext>
+<additionaladmissionsinformationtext name="Admissions">
+<![CDATA[
+ <h4>Minimum Requirements for Admission</h4> <p>The following minimum requirements apply to all graduate programs and will be verified by the Graduate Division:</p> <ol> 	<li>A bachelor’s degree or recognized equivalent from an accredited institution;</li> 	<li>A grade point average of B or better (3.0);</li> 	<li>If the applicant has completed a basic degree from a country or political entity (e.g., Quebec) where English is not the official language, adequate proficiency in English to do graduate work, as evidenced by a TOEFL score of at least 90 on the iBT test, 570 on the paper-and-pencil test, or an IELTS Band score of at least 7 on a 9-point scale (note that individual programs may set higher levels for any of these); and</li> 	<li>Sufficient undergraduate training to do graduate work in the given field.</li> </ol> <h4>Applicants Who Already Hold a Graduate Degree</h4> <p>The Graduate Council views academic degrees not as vocational training certificates, but as evidence of broad training in research methods, independent study, and articulation of learning. Therefore, applicants who already have academic graduate degrees should be able to pursue new subject matter at an advanced level without the need to enroll in a related or similar graduate program.</p> <p>Programs may consider students for an additional academic master’s or professional master’s degree only if the additional degree is in a distinctly different field.</p> <p>Applicants admitted to a doctoral program that requires a master’s degree to be earned at Berkeley as a prerequisite (even though the applicant already has a master’s degree from another institution in the same or a closely allied field of study) will be permitted to undertake the second master’s degree, despite the overlap in field.</p> <p>The Graduate Division will admit students for a second doctoral degree only if they meet the following guidelines:</p> <ol> 	<li>Applicants with doctoral degrees may be admitted for an additional doctoral degree only if that degree program is in a general area of knowledge distinctly different from the field in which they earned their original degree. For example, a physics PhD could be admitted to a doctoral degree program in music or history; however, a student with a doctoral degree in mathematics would not be permitted to add a PhD in statistics.</li> 	<li>Applicants who hold the PhD degree may be admitted to a professional doctorate or professional master’s degree program if there is no duplication of training involved.</li> </ol> <p>Applicants may apply only to one single degree program or one concurrent degree program per admission cycle.</p> <h4>Required Documents for Applications</h4> <ol> 	<li><strong>Transcripts: </strong>Applicants may upload <em>unofficial </em>transcripts with your application for the departmental initial review. Unofficial transcripts must contain specific information including the name of the applicant, name of the school, all courses, grades, units, &amp; degree conferral (if applicable). </li> 	<li><strong>Letters of recommendation:</strong> Applicants may request online letters of recommendation through the online application system. Hard copies of recommendation letters must be sent directly to the program, by the recommender, not the Graduate Admissions.</li> 	<li> 	<p><strong><span id="docs-internal-guid-7a006b7d-7fff-5bf6-e871-4a34569dad42">Evidence of English language proficiency:</span> </strong>All applicants who have completed a basic degree from a country or political entity in which the official language is not English are required to submit official evidence of English language proficiency. This applies to institutions from Bangladesh, Burma, Nepal, India, Pakistan, Latin America, the Middle East, the People’s Republic of China, Taiwan, Japan, Korea, Southeast Asia, most European countries, and Quebec (Canada). However, applicants who, at the time of application, have already completed at least one year of full-time academic course work with grades of B or better at a US university may submit an official transcript from the US university to fulfill this requirement. The following courses will not fulfill this requirement:</p> 	<ul> 		<li> 		<p><span id="docs-internal-guid-7a006b7d-7fff-5bf6-e871-4a34569dad42">courses in English as a Second Language,</span></p> 		</li> 		<li> 		<p><span id="docs-internal-guid-7a006b7d-7fff-5bf6-e871-4a34569dad42">courses conducted in a language other than English,</span></p> 		</li> 		<li> 		<p><span id="docs-internal-guid-7a006b7d-7fff-5bf6-e871-4a34569dad42">courses that will be completed after the application is submitted, and</span></p> 		</li> 		<li> 		<p><span id="docs-internal-guid-7a006b7d-7fff-5bf6-e871-4a34569dad42">courses of a non-academic nature.</span></p> 		</li> 	</ul> 	</li> </ol> <p style="margin-left:30pt"><span><span id="docs-internal-guid-7a006b7d-7fff-5bf6-e871-4a34569dad42">Applicants who have previously applied to Berkeley must also submit new test scores that meet the current minimum requirement from one of the standardized tests. Official TOEFL score reports must be sent directly from Educational Test Services (ETS). The institution code for Berkeley is 4833 for Graduate Organizations. Official IELTS score reports must be sent electronically from the testing center to University of California, Berkeley, Graduate Division, Sproul Hall, Rm 318 MC 5900, Berkeley, CA 94720. TOEFL and IELTS score reports are only valid for two years prior to beginning the graduate program at UC Berkeley. </span></span>Note: score reports can not expire before the month of June.</p> <div> </div> <h4>Where to Apply</h4> <p>Visit the Berkeley Graduate Division <a href="http://grad.berkeley.edu/admissions/apply/" target="_blank">application page</a>. </p>
+<h3>Admission to the Program</h3>
+<p>Applications are evaluated holistically on a combination of prior academic performance, work experience, essays, letters of recommendation, and goals that are a good fit for the program.</p>
+<p>The UC Berkeley School of Information seeks students with the academic abilities to meet the demands of a rigorous graduate program.</p>
+<p>To be eligible to apply to the <strong>Master of Information and Cybersecurity</strong> program, applicants must meet the following requirements:</p>
+<ul>
+	<li>A bachelor’s degree or its recognized equivalent from an accredited institution.</li>
+	<li>Superior scholastic record, normally well above a 3.0 GPA.</li>
+	<li>A high level of quantitative ability as conveyed by significant work experience that demonstrates your quantitative abilities and/or academic coursework that demonstrates quantitative aptitude</li>
+	<li>A high level of analytical reasoning ability and a problem-solving mindset as demonstrated in academic and/or professional performance.</li>
+	<li>An understanding of – or, a proven aptitude for and commitment to learning – data structures and discrete mathematics which can be demonstrated by at least one of the following qualifications: ​<span>Completed coursework in data structures and discrete mathematics; w<span>ork experience that demonstrates understanding of data structures and discrete mathematics; proven technical aptitude, demonstrated by high level technical work experience or academic coursework; and/or proven commitment to learning concepts, demonstrated by review of MICS self-assessment and preparatory resources, and clear indication in application of progress made towards gaining this foundational knowledge.</span></span></li>
+	<li>The ability to communicate effectively, as demonstrated by academic performance, professional experience, and/or strong essays that demonstrate effective communication skills.</li>
+	<li>Knowledge of at least one, and ideally two, programming languages, such as C, C++, Python, Java, Javascript, or machine/assembly language as demonstrated by work experience or coursework. Applicants who lack this experience in their academic or work background but meet all other admission requirements will be required to take the Programming Fundamentals for Cybersecurity course in their first term.</li>
+	<li><strong>Not Required</strong>: <a href="http://www.princetonreview.com/mids/" target="_blank">Official Graduate Record Examination (GRE)</a> General Test or <a href="http://www.princetonreview.com/mids/" target="_blank">Graduate Management Admission Test (GMAT)</a> scores. As of Fall 2020, we have eliminated the GRE/GMAT requirement. We recommend you put your time and effort towards the required application materials.</li>
+	<li><a href="http://www.toefl.org/" target="_blank">Official Test of English as a Foreign Language (TOEFL)</a> scores for applicants whose academic work has been in a country other than the US, UK, Australia, or English-speaking Canada.</li>
+</ul>
+<p>For more information and application instructions, prospective MICS students should visit the <a href="https://ischoolonline.berkeley.edu/admissions/" target="_blank">cybersecurity@berkeley Admissions Overview</a>.</p>
+]]>
+</additionaladmissionsinformationtext>
+<relatedcoursestext name="Related Courses">
+<![CDATA[
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber200" data-toggle="#cb_cyber200">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 200</span> 
+<span class="title">Beyond the Code: Cybersecurity in Context</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber200">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+This course explores the most important elements beyond technology that shape the playing field on which cybersecurity problems emerge and are managed. The course emphasizes how ethical, legal, and economic frameworks enable and constrain security technologies and policies. It introduces some of the most important macro-elements (such as national security considerations and interests of nation-states) and micro-elements (such as behavioral</span><span class="deschide"> economic insights into how people understand and interact with security features). Specific topics include policymaking, business models, legal frameworks, national security considerations, ethical issues, standards making, and the roles of users, government, and industry.</span><br/>
+ <a href="" class="btn-readmore"><span>Beyond the Code: Cybersecurity in Context:</span> Read More [+]</a></p>
+<div id="777" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W200</p></div>
+<p><a href="" class="btn-readless"><span>Beyond the Code: Cybersecurity in Context:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber202" data-toggle="#cb_cyber202">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 202</span> 
+<span class="title">Cryptography for Cyber and Network Security</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber202">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+This course focuses on both mathematical and practical foundations of cryptography. The course discusses asymmetric and symmetric cryptography, Kerchkoff’s Principle, chosen and known plaintext attacks, public key infrastructure, X.509, SSL/TLS (https), and authentication protocols. The course will include an in-depth discussion of many different cryptosystems including the RSA, Rabin, DES, AES, Elliptic Curve, and SHA family cryptosystems.</span><span class="deschide"> This course also introduces advanced topics of applied cryptography, including a brief introduction to homomorphic encrypted computation and secure multi-party computation to protect sensitive data during arbitrary computation, cryptocurrency and its cryptographic building blocks, and quantum computing.</span><br/>
+ <a href="" class="btn-readmore"><span>Cryptography for Cyber and Network Security:</span> Read More [+]</a></p>
+<div id="306" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for CYBER W202 after completing <span class="code_bubble" data-code-bubble="CYBER 202">CYBER 202</span>. A deficient grade in CYBER W202 may be removed by taking <span class="code_bubble" data-code-bubble="CYBER 202">CYBER 202</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W202</p></div>
+<p><a href="" class="btn-readless"><span>Cryptography for Cyber and Network Security:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber204" data-toggle="#cb_cyber204">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 204</span> 
+<span class="title">Software Security</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber204">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+The course presents the challenges, principles, mechanisms and tools to make software secure. We will discuss the main causes of vulnerabilities and the means to avoid and defend against them. The focus is on secure programming practice, including specifics for various languages, but also covering system-level defenses (architectural approaches and run-time enforcement). We will also apply software analysis and vulnerability detection tools</span><span class="deschide"> in different scenarios.</span><br/>
+ <a href="" class="btn-readmore"><span>Software Security:</span> Read More [+]</a></p>
+<div id="739" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> *Apply and manage secure coding practices throughout software project development<br/>
+<br/>*Gain a good comprehension of the landscape of software security vulnerabilities, with specifics for various programming languages and types of software applications<br/>
+<br/>*Gain the ability to analyze the security of a software system and convincingly advocate about the significance of vulnerabilities<br/>
+<br/>*Know representative tools for software security analysis and testing, use them in practice and understand their capabilities and limitations<br/>
+<br/>*Recognize insecure programming patterns and know how to replace them with secure alternatives<br/></p><p><strong>Student Learning Outcomes:</strong> Students will be able to apply and manage secure coding practices throughout software project development<br/>
+Students will be able to recognize insecure programming patterns and know how to replace them with secure alternatives<br/>
+Students will gain a good comprehension of the landscape of software security vulnerabilities, with specifics for various programming languages and types of software applications<br/>
+Students will gain the ability to analyze the security of a software system and convincingly advocate about the significance of vulnerabilities<br/>
+Students will know representative tools for software security analysis and testing, use them in practice and understand their capabilities and limitations</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. <span class="code_bubble" data-code-bubble="CYBER 202">CYBER 202</span> must be taken prior to or concurrently with <span class="code_bubble" data-code-bubble="CYBER 204">CYBER 204</span>. Knowledge of at least one non-scripting programming language (e.g. C, C++, or Java); fundamental knowledge of information systems (review of operating systems notions)</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for CYBER W204 after completing <span class="code_bubble" data-code-bubble="CYBER 204">CYBER 204</span>. A deficient grade in CYBER W204 may be removed by taking <span class="code_bubble" data-code-bubble="CYBER 204">CYBER 204</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W204</p></div>
+<p><a href="" class="btn-readless"><span>Software Security:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber206" data-toggle="#cb_cyber206">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 206</span> 
+<span class="title">Programming Fundamentals for Cybersecurity</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber206">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+This course is designed to provide students with the foundational math and programming skills required to be successful in the Master of Information and Cybersecurity (MICS) program. Upon completion of this course, students will be able to write programs in Python and will gain experience reading and interpreting C programs. Students will receive a comprehensive overview of algebraic principles and will explore quantitative concepts needed</span><span class="deschide"> for cryptography. Additionally, this course will prepare students to apply logical thinking and decompose complex problems to create programmatic solutions.</span><br/>
+ <a href="" class="btn-readmore"><span>Programming Fundamentals for Cybersecurity:</span> Read More [+]</a></p>
+<div id="223" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W206</p></div>
+<p><a href="" class="btn-readless"><span>Programming Fundamentals for Cybersecurity:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber207" data-toggle="#cb_cyber207">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 207</span> 
+<span class="title">Applied Machine Learning for Cybersecurity</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber207">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+Machine learning is a rapidly growing field at the intersection of computer science and statistics concerned with finding patterns in data. It is responsible for tremendous advances in technology, from personalized product recommendations to speech recognition in cell phones. This course provides a broad introduction to the key ideas in machine learning, with a focus on applications and concepts relevant to cybersecurity. The emphasis will</span><span class="deschide"> be on intuition and practical examples rather than theoretical results, though some experience with probability, statistics, and linear algebra will be important.</span><br/>
+ <a href="" class="btn-readmore"><span>Applied Machine Learning for Cybersecurity:</span> Read More [+]</a></p>
+<div id="600" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. Experience with probability and statistics. Intermediate competency in Python, C, or Java, and competency in Linux, GitHub, and relevant Python libraries; or permission of instructor. Linear algebra is recommended</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for CYBER W207 after completing <span class="code_bubble" data-code-bubble="CYBER 207">CYBER 207</span>. A deficient grade in CYBER W207 may be removed by taking <span class="code_bubble" data-code-bubble="CYBER 207">CYBER 207</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W207</p></div>
+<p><a href="" class="btn-readless"><span>Applied Machine Learning for Cybersecurity:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber210" data-toggle="#cb_cyber210">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 210</span> 
+<span class="title">Network Security</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber210">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+Introduction to networking and security as applied to networks. Exercises cover network programming in a language of the student's choice, understanding and analyzing packet traces using tools like wireshark and mitmproxy, as well as applying security principles to analyze and determine network security. After this course, the student will have a fundamental understanding of networking, TLS and security as it applies to networked systems.</span><br/>
+ <a href="" class="btn-readmore"><span>Network Security:</span> Read More [+]</a></p>
+<div id="417" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. Basic understanding of internet network protocols</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for CYBER W210 after completing <span class="code_bubble" data-code-bubble="CYBER 210">CYBER 210</span>. A deficient grade in CYBER W210 may be removed by taking <span class="code_bubble" data-code-bubble="CYBER 210">CYBER 210</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W210</p></div>
+<p><a href="" class="btn-readless"><span>Network Security:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber211" data-toggle="#cb_cyber211">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 211</span> 
+<span class="title">Operating System Security</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber211">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+This survey of operating system security compares approaches to security taken among several modern operating systems. The course will teach how to conceptualize design issues, principles, and good practices in securing systems in today’s increasingly diverse and complex computing ecosystem, which extends from things and personal devices to enterprises, with processing increasingly in the cloud. We will approach operating systems individually</span><span class="deschide"> and then build on them so that students learn techniques for establishing trust across a set of interoperating systems.</span><br/>
+ <a href="" class="btn-readmore"><span>Operating System Security:</span> Read More [+]</a></p>
+<div id="123" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. <span class="code_bubble" data-code-bubble="CYBER 200">CYBER 200</span>, <span class="code_bubble" data-code-bubble="CYBER 202">CYBER 202</span>, <span class="code_bubble" data-code-bubble="CYBER 204">CYBER 204</span>, and <span class="code_bubble" data-code-bubble="CYBER 210">CYBER 210</span>. Working knowledge of at least one object-oriented programming language and computer architecture (e.g. Intel x86-64bit)</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for CYBER W211 after completing <span class="code_bubble" data-code-bubble="CYBER 211">CYBER 211</span>. A deficient grade in CYBER W211 may be removed by taking <span class="code_bubble" data-code-bubble="CYBER 211">CYBER 211</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W211</p></div>
+<p><a href="" class="btn-readless"><span>Operating System Security:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber215" data-toggle="#cb_cyber215">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 215</span> 
+<span class="title">Usable Privacy and Security</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber215">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Fall 2022<br/>
+Security and privacy systems can be made more usable by designing them with the user in mind, from the ground up. In this course, you will learn many of the common pitfalls of designing usable privacy and security systems, techniques for designing more usable systems, and how to evaluate privacy and security systems for usability. Through this course, you will learn methods for designing software systems that are more secure because they minimize the potential</span><span class="deschide"> for human error.</span><br/>
+ <a href="" class="btn-readmore"><span>Usable Privacy and Security:</span> Read More [+]</a></p>
+<div id="301" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. <span class="code_bubble" data-code-bubble="CYBER 200">CYBER 200</span> and <span class="code_bubble" data-code-bubble="CYBER 202">CYBER 202</span></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for CYBER W215 after completing <span class="code_bubble" data-code-bubble="CYBER 215">CYBER 215</span>. A deficient grade in CYBER W215 may be removed by taking <span class="code_bubble" data-code-bubble="CYBER 215">CYBER 215</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W215</p></div>
+<p><a href="" class="btn-readless"><span>Usable Privacy and Security:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber220" data-toggle="#cb_cyber220">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 220</span> 
+<span class="title">Managing Cyber Risk</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber220">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+This course offers valuable perspective for both the non-technical business manager and the technical cybersecurity or IT manager. It is the vital connector between the technical world of threats, vulnerabilities, and exploits, and the business world of board-level objectives, enterprise risk management, and organizational leadership. Now more than ever, managers have a need and responsibility to understand cyber risk. Just as financial risks</span><span class="deschide"> and other operational risks have to be effectively managed within an organization, cyber risk has to be managed. It spans far beyond information technology, with broad implications in the areas of organizational behavior, financial risk modeling, legal issues, and executive leadership.</span><br/>
+ <a href="" class="btn-readmore"><span>Managing Cyber Risk:</span> Read More [+]</a></p>
+<div id="431" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Compare and employ approaches to cyber risk management and measurement.<br/>
+Develop a basic cybersecurity strategic plan and understand how it aligns with the core business value of the company.<br/>
+Navigate corporate structures to create a strong cyber security program and obtain senior leadership buy-in.<br/>
+Understand security product verticals, identify common use cases for those products, and define requirements for acquiring solutions relevant to a business use case.<br/>
+Understand the basic principles and best practices of responding to a cybersecurity incident<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for CYBER W220 after completing <span class="code_bubble" data-code-bubble="CYBER 220">CYBER 220</span>. A deficient grade in CYBER W220 may be removed by taking <span class="code_bubble" data-code-bubble="CYBER 220">CYBER 220</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W220</p></div>
+<p><a href="" class="btn-readless"><span>Managing Cyber Risk:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber233" data-toggle="#cb_cyber233">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 233</span> 
+<span class="title">Privacy Engineering</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber233">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Fall 2022<br/>
+This course surveys privacy mechanisms applicable to systems engineering, with a particular focus on the inference threat arising due to advancements in artificial intelligence and machine learning. We will briefly discuss the history of privacy and compare two major examples of general legal frameworks for privacy from the United States and the European Union. We then survey three design frameworks of privacy that may be used to guide the design of privacy-aware</span><span class="deschide"> information systems. Finally, we survey threat-specific technical privacy frameworks and discuss their applicability in different settings, including statistical privacy with randomized responses, anonymization techniques, semantic privacy models, and technical privacy mechanisms.</span><br/>
+ <a href="" class="btn-readmore"><span>Privacy Engineering:</span> Read More [+]</a></p>
+<div id="586" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Students should be able to implement such privacy paradigms, and embed them in information systems during the design process and the implementation phase.<br/>
+Students should be familiar with the different technical paradigms of privacy that are applicable for systems engineering.<br/>
+Students should develop critical thinking about the strengths and weaknesses of the different privacy paradigms.<br/>
+Students should possess the ability to read literature in the field to stay updated about the state of the art.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for CYBER W233 after completing <span class="code_bubble" data-code-bubble="CYBER 233">CYBER 233</span>. A deficient grade in CYBER W233 may be removed by taking <span class="code_bubble" data-code-bubble="CYBER 233">CYBER 233</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W233</p></div>
+<p><a href="" class="btn-readless"><span>Privacy Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber242" data-toggle="#cb_cyber242">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 242</span> 
+<span class="title">New Domains of Competition: Cybersecurity and Public Policy</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber242">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+Cybersecurity is a primary national security and public policy concern. The government, military and private sector have various roles and responsibilities with regard to the protection of the cyber domain. In this course, students critically evaluate these roles and responsibilities, the manner in which government networks, systems, and data are secured, and the ability of national and international cybersecurity strategies and partnerships</span><span class="deschide"> to mitigate the security risks introduced by society’s increased reliance on information.</span><br/>
+ <a href="" class="btn-readmore"><span>New Domains of Competition: Cybersecurity and Public Policy:</span> Read More [+]</a></p>
+<div id="321" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Critically assess national and international cybersecurity strategies<br/>Describe and evaluate national and international public-private partnerships.<br/>Discuss the developments in the cyber domain and and its protection within the context of national security.<br/>
+<br/>Identify lessons learned and recommend ways to improve national and international approaches to cybersecurity.<br/>Identify the roles and responsibilities of the military, government, and the private sector in cybersecurity.<br/>Utilize an evidence-based approach to analyze the security of government networks and systems and privacy of retained data.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. <span class="code_bubble" data-code-bubble="CYBER 200">CYBER 200</span> and <span class="code_bubble" data-code-bubble="CYBER 202">CYBER 202</span></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for CYBER W242 after completing <span class="code_bubble" data-code-bubble="CYBER 242">CYBER 242</span>. A deficient grade in CYBER W242 may be removed by taking <span class="code_bubble" data-code-bubble="CYBER 242">CYBER 242</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W242</p></div>
+<p><a href="" class="btn-readless"><span>New Domains of Competition: Cybersecurity and Public Policy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber252" data-toggle="#cb_cyber252">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 252</span> 
+<span class="title">Security Operations</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber252">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+This course will focus on understanding key areas within Security Operations from a management perspective. Upon completion of this course, students will understand implementation and maintenance best practices for security operations services such as incident response, internal investigations, security analysis, threat intelligence and digital forensics. Students will not only get hands-on experience within each discipline but will also understand how</span><span class="deschide"> to recruit and train others within a security operations center or security team.</span><br/>
+ <a href="" class="btn-readmore"><span>Security Operations:</span> Read More [+]</a></p>
+<div id="278" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Demonstrate data analysis as it pertains to identifying and responding to cyber-attacks.<br/>Effectively apply knowledge in simulated real-world conditions to protect and defend complex networks and infrastructures, including in the cloud. <br/>Implement incident response and digital forensics techniques.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. <span class="code_bubble" data-code-bubble="CYBER 200">CYBER 200</span>, <span class="code_bubble" data-code-bubble="CYBER 204">CYBER 204</span>, and <span class="code_bubble" data-code-bubble="CYBER 210">CYBER 210</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Security Operations:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber284" data-toggle="#cb_cyber284">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 284</span> 
+<span class="title">Web Application Security Assessment</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber284">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+Web applications play a vital role in every modern organization. If an organization does not properly test its web applications to identify security flaws, adversaries may be able to compromise these applications damaging functionality and accessing sensitive data. The focus of this course is on developing practical web application security testing skills required to assess a web application's security posture and convincingly demonstrate the business</span><span class="deschide"> impact of discovered vulnerabilities, if exploited. The course includes both lectures and a variety of demonstrations and hands-on exercises in finding web application security vulnerabilities. During the course, students learn about assessment tools and methodologies.</span><br/>
+ <a href="" class="btn-readmore"><span>Web Application Security Assessment:</span> Read More [+]</a></p>
+<div id="811" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Develop skills in writing web application security assessment reports<br/>Discover and exploit key web application flaws<br/>Gain a good comprehension of web application security vulnerabilities<br/>Learn to apply a repeatable methodology to deliver enterprise-level web application security assessment<br/>Learn to explain potential impact of web application vulnerabilities</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. <span class="code_bubble" data-code-bubble="CYBER 204">CYBER 204</span></p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Web Application Security Assessment:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber289" data-toggle="#cb_cyber289">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 289</span> 
+<span class="title">Public Interest Cybersecurity: The Citizen Clinic Practicum</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber289">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Fall 2022<br/>
+This course provides students with real-world experience assisting politically vulnerable organizations and persons around the world to develop and implement sound cybersecurity practices. In the classroom, students study basic theories and practices of digital security, intricacies of protecting largely under-resourced organizations, and tools needed to manage risk in complex political, sociological, legal, and ethical contexts. In the clinic, students</span><span class="deschide"> work in teams supervised by Clinic staff to provide direct cybersecurity assistance to civil society organizations. We emphasize pragmatic, workable solutions that take into account the unique needs of each partner organization.</span><br/>
+ <a href="" class="btn-readmore"><span>Public Interest Cybersecurity: The Citizen Clinic Practicum:</span> Read More [+]</a></p>
+<div id="670" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for CYBER W289 after completing <span class="code_bubble" data-code-bubble="CYBER 289">CYBER 289</span>. A deficient grade in CYBER W289 may be removed by taking <span class="code_bubble" data-code-bubble="CYBER 289">CYBER 289</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W289</p></div>
+<p><a href="" class="btn-readless"><span>Public Interest Cybersecurity: The Citizen Clinic Practicum:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber290" data-toggle="#cb_cyber290">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 290</span> 
+<span class="title">Special Topics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber290">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2022, Summer 2022, Fall 2021<br/>
+Specific topics, may vary from section to section, year to year.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics:</span> Read More [+]</a></p>
+<div id="671" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Students may enroll in multiple sections of this course within the same semester.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber295" data-toggle="#cb_cyber295">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 295</span> 
+<span class="title">Capstone</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber295">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+This capstone course will cement skills and knowledge learned throughout the Master of Information and Cybersecurity program: core cybersecurity technical skills, understanding of the societal factors that impact the cybersecurity domain and how cybersecurity issues impact humans, and professional skills such as problem-solving, communication, influencing, collaboration, and group management – to prepare students for success in the field. The</span><span class="deschide"> centerpiece is a semester-long group project in which teams of students propose and select a complex cybersecurity issue and apply multi-faceted analysis and problem-solving to identify, assess, and manage risk and deliver impact.</span><br/>
+ <a href="" class="btn-readmore"><span>Capstone:</span> Read More [+]</a></p>
+<div id="170" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Engage in a highly collaborative process of idea generation, information sharing, and feedback that replicates key aspects of managing cybersecurity in an organizational setting.<br/>
+Learn or reinforce communication, influencing, and management skills.<br/>
+Practice using multi-faceted problem-solving skills to address complex cybersecurity issues.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. <span class="code_bubble" data-code-bubble="CYBER 200">CYBER 200</span>, <span class="code_bubble" data-code-bubble="CYBER 202">CYBER 202</span>, and <span class="code_bubble" data-code-bubble="CYBER 204">CYBER 204</span>. Must be taken in final term of the MICS program</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information and Cybersecurity W295</p></div>
+<p><a href="" class="btn-readless"><span>Capstone:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+]]>
+</relatedcoursestext>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><h4>Faculty</h4><p class="facitem"><strong>Chris Jay Hoofnagle, <i>Adjunct Professor</i>. </strong>Internet law, information privacy, consumer protection, cybersecurity, computer crime, regulation of technology, edtech.</p><h4>Lecturers</h4><p class="facitem"><strong>Federico Castillo, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Daniel Aranki, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Fattaneh Bayatbabolghani, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Cristian Bravo-Lillo, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Quincy Brown, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Ebrima N Ceesay, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Clarence Chio, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Dean Christakos, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Kevin Crook, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Aaron Crouch, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Danielle Cummings, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Serge Egelman, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Amit Elazari, <i>Adjunct Professor</i>. </strong></p><p class="facitem"><strong>Jordan Fischer, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Matthew Garrett, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Dan Gillick, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Nathaniel Stanley Good, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Sebastian Goodwin, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Davis Hake, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Maximilian Hills, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Jennia Hizver, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Maritza Johnson, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Sajad Khorsandroo, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Jason Kichen, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Saranga Komanduri, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Ryan Liu, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Marie-Helen Maras, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Marius Minea, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Roin Nance, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Marcel Neunhoeffer, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Tiffany Rad, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Philip Reiner, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Sekhar Sarrukai, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Stuart Schechter, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Mark Seiden, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Stephen Trush, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Kemba Walden, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Steve Weber, <i>Lecturer</i>. </strong></p>]]>
+</faculty>
+</courseleaf>
+

@@ -1,0 +1,1068 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Engineering Mathematics and Statistics</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<abouttheprogramtext name="About the Program">
+<![CDATA[
+<h3>Bachelor of Science (BS)</h3>
+<p>The Engineering Mathematics and Statistics major offered through the Engineering Science Program offers students an opportunity to study pure and applied mathematics as essential components of modern engineering. By combining courses in pure mathematics, applied mathematics, statistics, the physical sciences, and engineering, a student may individualize a program of study, of theory, or of applications of both. It provides a broad foundation for graduate studies in theoretical branches of engineering, as well as in mathematics, and can prepare students for a career in specific sectors of industry or business.</p>
+<h3>Admission to the Major</h3>
+<p>Prospective undergraduates to the College of Engineering will apply for admission to a specific program in the college. For further information, please see the <a href="http://coe.berkeley.edu/students/prospective-students/admissions.html">College of Engineering's website</a>.</p>
+<p>Admission to Engineering Science degree programs via a Change of College application for current UC Berkeley students is competitive as there are few — if any — spaces available in this major for students admitted to other colleges at UC Berkeley. For further information regarding a Change to College of Engineering, please see the <a href="http://coe.berkeley.edu/students/current-undergraduates/change-of-college">College's website</a>.</p>
+<h3>Minor Program</h3>
+<p>There is no minor program in Engineering Mathematics and Statistics.</p>
+<h3>Other Majors offered by the Engineering Science Program</h3>
+<p><a href="http://guide.berkeley.edu/2022-23/undergraduate/degree-programs/energy-engineering/">Energy Engineering</a> (Major and Minor)<br/>
+<a href="http://guide.berkeley.edu/2022-23/undergraduate/degree-programs/engineering-physics/">Engineering Physics</a> (Major)<br/>
+<a href="http://guide.berkeley.edu/2022-23/undergraduate/degree-programs/environmental-engineering-science/">Environmental Engineering Science</a> (Major)</p>
+]]>
+</abouttheprogramtext>
+<majorrequirementstext name="Major Requirements">
+<![CDATA[
+<p>In addition to the University, campus, and college requirements, students must fulfill the below requirements specific to their major program.</p>
+<h3>General Guidelines</h3>
+<ol>
+	<li>
+	<p>All technical courses taken in satisfaction of major requirements must be taken for a letter grade.</p>
+	</li>
+	<li>
+	<p>No more than one upper division course may be used to simultaneously fulfill requirements for a student’s major and minor programs.</p>
+	</li>
+	<li>
+	<p>A minimum overall grade point average (GPA) of 2.0 is required for all work undertaken at UC Berkeley.</p>
+	</li>
+	<li>
+	<p>A minimum GPA of 2.0 is required for all technical courses taken in satisfaction of major requirements.</p>
+	</li>
+</ol>
+<p>For information regarding residence requirements and unit requirements, please see the College Requirements tab.</p>
+<p>For a detailed plan of study by year and semester, please see the Plan of Study tab.</p>
+<h3>Lower Division Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span></td><td>Multivariable Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></td><td>Linear Algebra and Differential Equations</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CHEM 4A">CHEM 4A</span></td><td>General Chemistry and Quantitative Analysis <sup>1</sup></td><td class="hourscol">5</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="CHEM 1A">CHEM 1A</span><br/><span style="margin-left:20px;" class="blockindent">&amp; <span class="code_bubble" data-code-bubble="CHEM 1AL">1AL</span></span></td><td colspan="2"> General Chemistry<br/><span style="margin-left:20px;" class="blockindent">and General Chemistry Laboratory</span></td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7C">PHYSICS 7C</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span></td><td>Introduction to Computer Programming for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI 61A</span></td><td colspan="2"> The Structure and Interpretation of Computer Programs</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 177">ENGIN 177</span></td><td>Advanced Programming with MATLAB</td><td class="hourscol">3-4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="COMPSCI 61B">COMPSCI 61B</span></td><td colspan="2"> Data Structures</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="COMPSCI 61BL">COMPSCI 61BL</span></td><td colspan="2"> Data Structures and Programming Methodology</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Lower division technical electives</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Select two from the following:</span> <sup>2</sup></div></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI C8">COMPSCI C8</span></div></td><td>Foundations of Data Science [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI 61A</span></div></td><td>The Structure and Interpretation of Computer Programs [4] <sup>3</sup></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 61B">COMPSCI 61B</span></div></td><td>Data Structures [4] <sup>3</sup></td><td class="hourscol"/></tr>
+<tr class="orclass even"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <span class="code_bubble" data-code-bubble="COMPSCI 61BL">COMPSCI 61BL</span></div></td><td colspan="2"> Data Structures and Programming Methodology</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 61C">COMPSCI 61C</span></div></td><td>Great Ideas of Computer Architecture (Machine Structures) [4]</td><td class="hourscol"/></tr>
+<tr class="orclass odd"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <span class="code_bubble" data-code-bubble="COMPSCI 61CL">COMPSCI 61CL</span></div></td><td colspan="2"> Machine Structures (Lab-Centric)</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 70">COMPSCI 70</span></div></td><td>Discrete Mathematics and Probability Theory [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EECS 16A">EECS 16A</span></div></td><td>Designing Information Devices and Systems I [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EECS 16B">EECS 16B</span></div></td><td>Designing Information Devices and Systems II [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span></div></td><td>Introduction to Computer Programming for Scientists and Engineers [4] <sup>3</sup></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ENGIN 29">ENGIN 29</span></div></td><td>Manufacturing and Design Communication [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span><br/><span style="margin-left:20px;" class="blockindent">&amp; <span class="code_bubble" data-code-bubble="MAT SCI 45L">45L</span></span></div></td><td>Properties of Materials<br/><span style="margin-left:20px;" class="blockindent">and Properties of Materials Laboratory</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 55">MATH 55</span></div></td><td>Discrete Mathematics [4]</td><td class="hourscol"/></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85/CIV ENG C30</span></div></td><td>Introduction to Solid Mechanics [3]</td><td class="hourscol"/></tr>
+</tbody></table>
+
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent"><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="CHEM 4A">CHEM 4A</span></span> is intended for students majoring in chemistry or a closely-related field.</p></dd><dt> <sup> 2 </sup> </dt><dd start-indent="3%"><p class="noindent">Other courses may be used if approved by a faculty adviser.</p></dd><dt> <sup> 3 </sup> </dt><dd start-indent="3%"><p class="noindent">This course may only be used as a lower division technical elective if not being used to satisfy other requirements above.</p></dd></dl>
+<h3>Upper Division Requirements</h3>
+<p>Due to the interdisciplinary nature of this major, electives must be selected and approved in consultation with a faculty adviser.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 110">MATH 110</span></td><td>Linear Algebra</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 104">MATH 104</span></td><td>Introduction to Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 105">MATH 105</span></td><td>Second Course in Analysis</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="MATH 185">MATH 185</span></td><td colspan="2"> Introduction to Complex Analysis</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 128A">MATH 128A</span></td><td>Numerical Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span></td><td>Concepts of Probability</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="EECS 126">EECS 126</span></td><td colspan="2"> Probability and Random Processes</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="STAT C140">STAT C140</span></td><td colspan="2"> Probability for Data Science</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span></td><td colspan="2"> Probability and Risk Analysis for Engineers</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select three math/statistics technical electives</span></td><td class="hourscol">10-12</td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Select one course in mathematics, one course in statistics, and one course from either, from the following:</span></div></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH H104">MATH H104</span></div></td><td>Honors Introduction to Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 105">MATH 105</span></div></td><td>Second Course in Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH H113">MATH H113</span></div></td><td>Honors Introduction to Abstract Algebra [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 113">MATH 113</span></div></td><td>Introduction to Abstract Algebra [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 114">MATH 114</span></div></td><td>Second Course in Abstract Algebra [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 115">MATH 115</span></div></td><td>Introduction to Number Theory [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 116">MATH 116</span></div></td><td>Cryptography [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 118">MATH 118</span></div></td><td>Fourier Analysis, Wavelets, and Signal Processing [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 121A">MATH 121A</span></div></td><td>Mathematical Tools for the Physical Sciences [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 121B">MATH 121B</span></div></td><td>Mathematical Tools for the Physical Sciences [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 123">MATH 123</span></div></td><td>Ordinary Differential Equations [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 124">MATH 124</span></div></td><td>Programming for Mathematical Applications [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 126">MATH 126</span></div></td><td>Introduction to Partial Differential Equations [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 127">MATH 127</span></div></td><td>Mathematical and Computational Methods in Molecular Biology [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 128B">MATH 128B</span></div></td><td>Numerical Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 130">MATH 130</span></div></td><td>Groups and Geometries [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 136">MATH 136</span></div></td><td>Incompleteness and Undecidability [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 140">MATH 140</span></div></td><td>Metric Differential Geometry [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 141">MATH 141</span></div></td><td>Elementary Differential Topology [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 142">MATH 142</span></div></td><td>Elementary Algebraic Topology [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 143">MATH 143</span></div></td><td>Elementary Algebraic Geometry [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 151">MATH 151</span></div></td><td>Mathematics of the Secondary School Curriculum I [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 152">MATH 152</span></div></td><td>Mathematics of the Secondary School Curriculum II [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 170">MATH 170</span></div></td><td>Mathematical Methods for Optimization [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 172">MATH 172</span></div></td><td>Combinatorics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH H185">MATH H185</span></div></td><td>Honors Introduction to Complex Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 185">MATH 185</span></div></td><td>Introduction to Complex Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 189">MATH 189</span></div></td><td>Mathematical Methods in Classical and Quantum Mechanics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ENGIN 117">ENGIN 117</span></div></td><td>Methods of Engineering Analysis [3] (counts as a Math Elective)</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 135">STAT 135</span></div></td><td>Concepts of Statistics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 150">STAT 150</span></div></td><td>Stochastic Processes [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 151A">STAT 151A</span></div></td><td>Linear Modelling: Theory and Applications [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 152">STAT 152</span></div></td><td>Sampling Surveys [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 153">STAT 153</span></div></td><td>Introduction to Time Series [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 154">STAT 154</span></div></td><td>Modern Statistical Prediction and Machine Learning [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 157">STAT 157</span></div></td><td>Seminar on Topics in Probability and Statistics [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 158">STAT 158</span></div></td><td>Experimental Design [4]</td><td class="hourscol"/></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Additional upper division technical electives: select 16 units of upper division engineering courses, in consultation with faculty adviser</span> <sup>1</sup></td><td class="hourscol">16</td></tr>
+</tbody></table>
+
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent">Technical electives must include 16 units of upper division engineering courses, selected in consultation with the student's faculty adviser, in order to provide depth in an area of engineering with high mathematical content—typically, most of these courses will come from a single engineering department, but courses that complement each other from different departments are also permissible. Engineering courses cannot include: any course taken on a P/NP basis; BIO ENG 100, DES INV courses (except <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="DES INV 190E">DES INV 190E</span></span>), ENGIN 125, ENGIN 157AC, ENGIN 180, ENGIN 183 series, ENGIN 185, ENGIN 187, ENGIN 195 series, IND ENG 172, IND ENG 185, IND ENG 186, IND ENG 190 series, IND ENG 191, IND ENG 192, IND ENG 195, MEC ENG 190K, 191AC, 191K. Graded research units (such as H194 or 196) are reviewed on a case by case basis and may be petitioned.</p></dd></dl>
+]]>
+</majorrequirementstext>
+<collegerequirementstext name="College Requirements">
+<![CDATA[
+ <h3><strong>Students in the College of Engineering must complete no fewer than 120 semester units with the following provisions: </strong></h3> <ol> 	<li>Completion of the requirements of <a href="https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/major-programs/" target="_blank">one engineering major program</a> of study. </li> 	<li>A minimum overall grade point average of 2.00 (C average) and a minimum 2.00 grade point average in upper division technical coursework required of the major.</li> 	<li>The final 30 units and two semesters must be completed in residence in the College of Engineering on the Berkeley campus.</li> 	<li>All technical courses (math, science, and engineering) that can fulfill requirements for the student's major must be taken on a letter graded basis (unless they are only offered P/NP). </li> 	<li>Entering freshmen are allowed a maximum of eight semesters to complete their degree requirements. Entering junior transfers are allowed five semesters to complete their degree requirements. Summer terms are optional and do not count toward the maximum. Students are responsible for planning and satisfactorily completing all graduation requirements within the maximum allowable semesters. </li> 	<li>Adhere to all <a href="https://engineering.berkeley.edu/students/undergraduate-guide/policies-procedures/" target="_blank">college policies and procedures </a>as they complete degree requirements.</li> 	<li>Complete the lower division program before enrolling in upper division engineering courses. </li> </ol> <h3><strong>Humanities and Social Sciences (H/SS) Requirement</strong></h3> <p style="margin-left:22.5pt">To promote a rich and varied educational experience outside of the technical requirements for each major, the College of Engineering has a six-course <a href="http://engineering.berkeley.edu/student-services/degree-requirements/humanities-and-social-sciences" target="_blank">Humanities and Social Sciences breadth requirement</a>, which must be completed to graduate. This requirement, built into all the engineering programs of study, includes two Reading and Composition courses (R&amp;C), and four additional courses within which a number of specific conditions must be satisfied. See the <a href="https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/humanities-and-social-sciences/" target="_blank">humanities and social sciences</a> section of our website for details.</p> <h3><strong>Class Schedule Requirements</strong></h3> <ul> 	<li>Minimum units per semester: 12.0</li> 	<li>Maximum units per semester:  20.5</li> 	<li>Minimum technical courses: College of Engineering undergraduates must include at least two letter graded technical courses (of at least 3 units each) in their semester program. Every semester students are expected to make satisfactory progress in their declared major. Satisfactory progress is determined by the student's Engineering Student Services Advisor. (Note: For most majors, <a href="https://engineering.berkeley.edu/academics/undergraduate-guide/policies-procedures/scholarship-progress#ac12282" target="_blank">normal progress</a> will require enrolling in 3-4 technical courses each semester). Students who are not in compliance with this policy by the end of the fifth week of the semester are subject to a registration block that will delay enrollment for the following semester. </li> 	<li>All technical courses (math, science, engineering) that satisfy requirements for the major must be taken on a letter-graded basis (unless only offered as P/NP).</li> </ul> <h3><strong>Minimum Academic (Grade) Requirements</strong></h3> <ul> 	<li>Minimum overall and semester grade point averages of 2.00 (C average) are required of engineering undergraduates. Students will be subject to dismissal from the University if during any fall or spring semester their overall UC GPA falls below a 2.00, or their semester GPA is less than 2.00. </li> 	<li>Students must achieve a minimum grade point average of 2.00 (C average) in upper division technical courses required for the major curriculum each semester.</li> 	<li>A minimum overall grade point average of 2.00 and a minimum 2.00 grade point average in upper division technical course work required for the major are required to earn a Bachelor of Science in the College of Engineering.</li> </ul> <h3><strong>Unit Requirements</strong></h3> <p>To earn a Bachelor of Science in Engineering, students must complete at least 120 semester units of courses subject to certain guidelines:</p> <ul> 	<li>Completion of the requirements of one engineering<a href="https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/major-programs/" target="_blank"> major program</a> of study. </li> 	<li>A maximum of 16 units of special studies coursework (courses numbered 97, 98, 99, 197, 198, or 199) is allowed to count towards the B.S. degree, and no more than 4 units in any single term can be counted.</li> 	<li>A maximum of 4 units of physical education from any school attended will count towards the 120 units.</li> 	<li> 	<p>Passed (P) grades may account for no more than one third of the total units completed at UC Berkeley, Fall Program for Freshmen (FPF), UC Education Abroad Program (UCEAP), or UC Berkeley Washington Program (UCDC) toward the 120 overall minimum unit requirement. <span>Transfer credit is not factored into the limit. This includes transfer units from outside of the UC system, other UC campuses, credit-bearing exams, as well as UC Berkeley Extension XB units.</span></p> 	</li> </ul> <h3><strong>Normal Progress</strong></h3> <p>Students in the College of Engineering must enroll in a full-time program and make <a href="https://engineering.berkeley.edu/students/undergraduate-guide/policies-procedures/scholarship-progress/#ac12282" target="_blank">normal progress</a> each semester toward the bachelor's degree. The continued enrollment of students who fail to achieve minimum academic progress shall be subject to the approval of the dean. (Note: Students with official accommodations established by the Disabled Students' Program, with health or family issues, or with other reasons deemed appropriate by the dean may petition for an exception to normal progress rules.) </p>
+]]>
+</collegerequirementstext>
+<uctext name="UC and Campus Requirements">
+<![CDATA[
+ <h3>University of California Requirements</h3> <p><a href="http://guide.berkeley.edu/2022-23/undergraduate/education/#earningyourdegreetext" target="_blank">Entry Level Writing</a></p> <p>All students who will enter the University of California as freshmen must demonstrate their command of the English language by satisfying the Entry Level Writing Requirement (ELWR). <span style="font-size:1em">The </span><a href="https://admission.universityofcalifornia.edu/elwr/requirements/test-scores-grades.html" style="font-size: 1em;">UC Entry Level Writing Requirement website</a><span style="font-size:1em"> provides information on how to satisfy the requirement</span></p> <p><a href="http://guide.berkeley.edu/2022-23/undergraduate/education/#earningyourdegreetext" target="_blank">American History and American Institutions</a></p> <p>The American History and Institutions (AH&amp;I) requirements are based on the principle that a US resident graduated from an American university should have an understanding of the history and governmental institutions of the United States.</p> <h3>Campus Requirement</h3> <p><a href="http://guide.berkeley.edu/2022-23/undergraduate/education/#earningyourdegreetext" target="_blank">American Cultures</a></p> <p><span id="docs-internal-guid-c47924ad-7fff-1b30-99f8-3c345cb2b997">The American Cultures requirement is a Berkeley campus requirement, one that all undergraduate students at Berkeley need to pass in order to graduate. You satisfy the requirement by passing, with a grade not lower than C- or P, an American Cultures course. You may take an American Cultures course any time during your undergraduate career at Berkeley. The requirement was instituted in 1991 to introduce students to the diverse cultures of the United States through a comparative framework. Courses are offered in more than fifty departments in many different disciplines at both the lower and upper division level.</span></p> <div> </div>
+]]>
+</uctext>
+<sampleplanofstudytext name="Plan of Study">
+<![CDATA[
+<p>For more detailed information regarding the courses listed below (e.g., elective information, GPA requirements, etc.), please see the College Requirements and Major Requirements tabs.</p>
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="4">Freshman</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="CHEM 4A">CHEM 4A</span> or <span class="code_bubble" data-code-bubble="CHEM 1A"> 1A</span> <i><b>and</b></i> <span class="code_bubble" data-code-bubble="CHEM 1AL"> 1AL</span><sup>1</sup></td><td class="hourscol">5</td><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span></td><td class="hourscol">4</td><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span></td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol">Reading &amp; Composition Part A Course<sup>5</sup></td><td class="hourscol">4</td><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span> or <span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI  61A</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">Humanities/Social Sciences Course<sup>5</sup></td><td class="hourscol">3-4</td><td class="codecol">First Lower Division Technical Elective<sup>2</sup></td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">16-17</td><td> </td><td class="hourscol">15-16</td></tr><tr class="plangridyear"><th align="right" colspan="4">Sophomore</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span></td><td class="hourscol">4</td><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span></td><td class="hourscol">4</td><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7C">PHYSICS 7C</span></td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol">Second Lower Division Technical Elective<sup>2</sup></td><td class="hourscol">3-4</td><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 177">ENGIN 177</span>, <span class="code_bubble" data-code-bubble="COMPSCI 61B">COMPSCI  61B</span>, or <span class="code_bubble" data-code-bubble="COMPSCI 61BL">COMPSCI  61BL</span></td><td class="hourscol">3-4</td></tr><tr class="odd">
+<td class="codecol">Reading &amp; Composition Part B Course<sup>5</sup></td><td class="hourscol">4</td><td class="codecol">Humanities/Social Sciences Course<sup>5</sup></td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">15-16</td><td> </td><td class="hourscol">14-16</td></tr><tr class="plangridyear"><th align="right" colspan="4">Junior</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MATH 104">MATH 104</span></td><td class="hourscol">4</td><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 105">MATH 105</span> or <span class="code_bubble" data-code-bubble="MATH 185"> 185</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MATH 110">MATH 110</span></td><td class="hourscol">4</td><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 128A">MATH 128A</span></td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span>, <span class="code_bubble" data-code-bubble="EECS 126">EECS  126</span>, <span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG  172</span>, or <span class="code_bubble" data-code-bubble="STAT C140">STAT  C140</span></td><td class="hourscol">4</td><td class="codecol">Upper Division Technical Elective<sup>3,4</sup></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">Humanities/Social Science Course<sup>5</sup></td><td class="hourscol">3-4</td><td class="codecol">Humanities/Social Science Course<sup>5</sup></td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">15-16</td><td> </td><td class="hourscol">15-16</td></tr><tr class="plangridyear"><th align="right" colspan="4">Senior</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol">Upper Division Technical Electives<sup>3,4</sup></td><td class="hourscol">10-12</td><td class="codecol">Upper Division Technical Electives<sup>3,4</sup></td><td class="hourscol">12</td></tr><tr class="odd">
+<td class="codecol">Free Electives</td><td class="hourscol">4-5</td><td class="codecol">Free Electives</td><td class="hourscol">4-5</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">14-17</td><td> </td><td class="hourscol">16-17</td></tr><tr class="plangridtotal lastrow"><td colspan="4">Total Units: 120-131</td></tr></table>
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent"><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="CHEM 4A">CHEM 4A</span></span> is intended for students majoring in chemistry or a closely-related field.</p></dd><dt> <sup> 2 </sup> </dt><dd start-indent="3%"><p class="noindent">Two lower division courses in engineering, mathematics, or statistics, chosen in consultation with the faculty adviser; options include <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="CIV ENG C30">CIV ENG C30</span></span>/<span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="COMPSCI C8">COMPSCI C8</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI 61A</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="COMPSCI 61B">COMPSCI 61B</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="COMPSCI 61BL">COMPSCI 61BL</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="COMPSCI 61C">COMPSCI 61C</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="COMPSCI 61CL">COMPSCI 61CL</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="COMPSCI 70">COMPSCI 70</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="ENGIN 29">ENGIN 29</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span></span> plus <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MAT SCI 45L">MAT SCI 45L</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MATH 55">MATH 55</span></span>, but other courses may also be used if approved by a faculty adviser. Courses used to satisfy the two computer science course requirements may NOT also be used for lower division technical electives. They can only be used to complete one requirement.</p></dd><dt> <sup> 3 </sup> </dt><dd start-indent="3%"><p class="noindent"><span id="docs-internal-guid-a0733986-7fff-5fa4-e081-06da75da7b5e">Technical electives must include 16 units of upper division engineering courses, selected in consultation with the student's faculty adviser, in order to provide depth in an area of engineering with high mathematical content—typically, most of these courses will come from a single engineering department, but courses that complement each other from different departments are also permissible. Engineering courses cannot include: any course taken on a P/NP basis; BIO ENG 100, </span>DES INV courses (except <a href="http://guide.berkeley.edu/2022-23/search/?P=DES%20INV%20190E">DES INV 190E</a>), ENGIN 125, ENGIN 157AC, ENGIN 180, ENGIN 183 series, ENGIN 185, ENGIN 187, ENGIN 195 series, IND ENG 172, IND ENG 185, IND ENG 186, IND ENG 190 series, IND ENG 191, IND ENG 192, IND ENG 195, MEC ENG 190K, MEC ENG 191AC, MEC ENG 191K. Graded research units (such as H194 or 196) are reviewed on a case by case basis and may be petitioned.</p></dd><dt> <sup> 4 </sup> </dt><dd start-indent="3%"><p class="noindent"><span id="docs-internal-guid-44bb0b31-7fff-fcee-a17c-aa134d70d3c7">Three additional upper division technical courses as follows: One in mathematics, one in statistics and one from either math or statistics from among: all upper division Math courses (except MATH C103, 125A, 135, 160, and any course numbered 191 or higher) and </span><a href="http://guide.berkeley.edu/2022-23/search/?P=ENGIN%20117">ENGIN 117</a> (counts as a math elective); <a href="http://guide.berkeley.edu/2022-23/search/?P=STAT%20135">STAT 135</a>, <a href="http://guide.berkeley.edu/2022-23/search/?P=STAT%20150">STAT 150</a>, <a href="http://guide.berkeley.edu/2022-23/search/?P=STAT%20151A">STAT 151A</a>, <a href="http://guide.berkeley.edu/2022-23/search/?P=STAT%20152">STAT 152</a>, <a href="http://guide.berkeley.edu/2022-23/search/?P=STAT%20153">STAT 153</a>, <a href="http://guide.berkeley.edu/2022-23/search/?P=STAT%20154">STAT 154</a>, <a href="http://guide.berkeley.edu/2022-23/search/?P=STAT%20157">STAT 157</a>, <a href="http://guide.berkeley.edu/2022-23/search/?P=STAT%20158">STAT 158</a>.</p></dd><dt> <sup> 5 </sup> </dt><dd start-indent="3%"><p class="noindent">The Humanities/Social Sciences (H/SS) requirement includes two approved Reading &amp; Composition (R&amp;C) courses and four additional approved courses, with which a number of specific conditions must be satisfied. R&amp;C courses must be taken for a letter grade (C- or better required). The first half (R&amp;C Part A) must be completed by the end of the freshman year; the second half (R&amp;C Part B) must be completed by no later than the end of the sophomore year. The remaining courses may be taken at any time during the program. See <a href="https://engineering.berkeley.edu/academics/undergraduate-guide/degree-requirements/humanities-and-social-sciences">engineering.berkeley.edu/hss</a> for complete details and a list of approved courses.</p></dd></dl>
+]]>
+</sampleplanofstudytext>
+<majormaptext name="Major Map">
+<![CDATA[
+<p>Major Maps help undergraduate students discover academic, co-curricular, and discovery opportunities at UC Berkeley based on intended major or field of interest. Developed by the Division of Undergraduate Education in collaboration with academic departments, these experience maps will help you:</p>
+<ul>
+	<li>
+	<p><strong>Explore</strong> your major and gain a better understanding of your field of study</p>
+	</li>
+	<li>
+	<p><strong>Connect</strong> with people and programs that inspire and sustain your creativity, drive, curiosity and success</p>
+	</li>
+	<li>
+	<p><strong>Discover</strong> opportunities for independent inquiry, enterprise, and creative expression</p>
+	</li>
+	<li>
+	<p><strong>Engage</strong> locally and globally to broaden your perspectives and change the world</p>
+	</li>
+	<li><strong>Reflect</strong> on your academic career and prepare for life after Berkeley</li>
+</ul>
+<p><span id="docs-internal-guid-d71893c3-7fff-0026-643a-dcc4d58f355a">Use the major map below as a guide to planning your undergraduate journey and designing your own unique Berkeley experience.</span></p>
+<p><strong><span id="docs-internal-guid-d71893c3-7fff-0026-643a-dcc4d58f355a"><a href="https://ue.berkeley.edu/sites/default/files/engineering_science.pdf">View the Engineering Mathematics and Statistics Major Map PDF.</a></span></strong></p>
+]]>
+</majormaptext>
+<coursestext name="Courses">
+<![CDATA[
+<h3>Engineering Mathematics and Statistics</h3>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin1" data-toggle="#cb_engin1">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 1</span> 
+<span class="title">Engineering Your Life: Skills for Leadership, Discovery and Service</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin1">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+This course provides the framework for engineering an empowered life through leadership, discovery and service. The class focuses on development of self, emotional intelligence, strategic thinking, problem solving, teamwork, diversity, and service learning. Skills include developing of self-awareness; understanding our unique strengths; debunking the imposter syndrome; creating plans of action and setting goals; giving and receiving assessments;</span><span class="deschide"> interpreting body language; managing time and life-balance; and creating mission statements. Teamwork skills include methods for inspiring others; variations in leadership styles and team dynamics; rhythm of action for projects and teams; difficult conversations and conflict resolution; mechanisms.</span><br/>
+ <a href="" class="btn-readmore"><span>Engineering Your Life: Skills for Leadership, Discovery and Service:</span> Read More [+]</a></p>
+<div id="253" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> This course offers the requisite framework for engineering an empowered life. The course provides students with requisite skills for authentic leadership, self-discovery and societal service. These attributes are in alignment with the mission of the College of Engineering and the Berkeley campus.</p><p><strong>Student Learning Outcomes:</strong> Students will learn how to assess personal strengths, implement plans of action and develop mission statements. Students will learn how to optimize their knowledge with assessment of learning styles along with key communication tools necessary for conflict resolution and inspiration of others (teamwork). Through a series of active exercises and self-reflection activities the students will learn requisite skills for self-discovery and the creation of a personal leadership plan.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Designed for engineering freshmen, the class is open to all students in the College of Engineering or by permission of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Alternative to final exam. </p><p><strong>Instructor:</strong> Pruitt</p></div>
+<p><a href="" class="btn-readless"><span>Engineering Your Life: Skills for Leadership, Discovery and Service:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin7" data-toggle="#cb_engin7">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 7</span> 
+<span class="title">Introduction to Computer Programming for Scientists and Engineers</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin7">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Summer 2023 10 Week Session, Spring 2023<br/>
+Elements of procedural and object-oriented programming. Induction, iteration, and recursion. Real functions and floating-point computations for engineering analysis. Introduction to data structures. Representative examples are drawn from mathematics, science, and engineering. The course uses the MATLAB programming language. Sponsoring departments: Civil and Environmental Engineering and Mechanical Engineering.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Computer Programming for Scientists and Engineers:</span> Read More [+]</a></p>
+<div id="669" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span> (may be taken concurrently)</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Engineering 7 after completing Engineering W7. A deficient grade in Engineering W7 may be repeated by taking Engineering 7.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture, 1 hour of discussion, and 4 hours of laboratory per week</p><p><strong>Summer:</strong> 10 weeks - 3 hours of lecture, 1.5 hours of discussion, and 6 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Lecture, One hour of Discussion, and Four hours of Laboratory per week for 15 weeks. Three hours of Lecture, One and one-half hours of Discussion, and Six hours of Laboratory per week for 10 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> 77</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Computer Programming for Scientists and Engineers:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_enginw7" data-toggle="#cb_enginw7">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN W7</span> 
+<span class="title">Introduction to Computer Programming for Scientists and Engineers</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_enginw7">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2021 10 Week Session, Summer 2016 10 Week Session, Summer 2015 10 Week Session<br/>
+Elements of procedural and object-oriented programming. Induction, iteration, and recursion. Real functions and floating-point computations for engineering analysis. Introduction to data structures. Representative examples are drawn from mathematics, science, and engineering. The course uses the MATLAB programming language.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Computer Programming for Scientists and Engineers:</span> Read More [+]</a></p>
+<div id="803" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span> (may be taken concurrently)</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Engineering W7 after completing Engineering 7 or 77. A deficient grade in Engineering 7 or 77 may be removed by taking Engineering W7.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of web-based lecture, 4 hours of laboratory, and 1 hour of web-based discussion per week</p><p><strong>Summer:</strong> 10 weeks - 6 hours of web-based lecture, 0 hours of laboratory, and 7.5 hours of web-based discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web lecture, one and one-half hours of web discussion, and six hours of web laboratory per week for ten weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Papadopoulos</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Computer Programming for Scientists and Engineers:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin11" data-toggle="#cb_engin11">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 11</span> 
+<span class="title">A Hands-on Introduction to Radiation Detection: Getting to know our Radioactive World</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin11">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Fall 2021<br/>
+Introduction to basic concepts in radiation detection and radioactivity, electrical circuits, and data analytics. Lectures provide the theoretical foundation of the work being performed in the accompanying laboratory. The course will contain three sections: introduction to how radiation interacts with matter and radiation detection technologies; development of the tools (mathematical and computational) needed for analyzing various types of radiation</span><span class="deschide"> and environmental data; and building of a basic radiation sensor system.</span><br/>
+ <a href="" class="btn-readmore"><span>A Hands-on Introduction to Radiation Detection: Getting to know our Radioactive World:</span> Read More [+]</a></p>
+<div id="229" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> The course is suitable for Nuclear Engineering students, other Engineering majors, and any students interested in gaining a general understanding of radiation detection.<br/> The focus of this course will be on the application of the nuclear science, radiation detection, and data analysis concepts covered to the building of a multi-sensor radiation detection system, following a template for the required data acquisition software and circuit integration. <br/>Fieldwork related to a chosen research topic will be carried out in small groups, with group oral presentations and final reports. Students will be introduced to research opportunities on campus and at nearby lab facilities through tours of lab spaces throughout the department and field trips to LBNL and LLNL.<br/>
+<br/>Students will be introduced to core concepts in nuclear science, statistical analysis, and computation, while being given practical experience applying those concepts to radiation detection and data analysis.<br/>The objective of this course is to provide Freshman and Sophomore students with an introduction to the fundamentals of nuclear radiation and radiation detection through a hands-on approach.<br/></p><p><strong>Student Learning Outcomes:</strong> Be able to outline and carry out a research project, prepare written and oral presentations of that work, and demonstrate how the sensors they built work.<br/>
+By the end of this course, students should be able to:<br/>
+Identify types of radioactivity, radiation detection methods and sources of environmental radiation,<br/>
+<br/>
+Create simple circuit designs making use of standard circuitry components, demonstrate basic soldering skills, and demonstrate a familiarity with printed circuit board design tools,<br/>
+Make use of software tools including the Python programming language, version control with git, and shell environments,<br/>
+Perform statistical analysis of large data sets and quantify statistical and systematic uncertainties in experimental data,<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="ENGIN 11">ENGIN 11</span> after completing <span class="code_bubble" data-code-bubble="ENGIN 11">ENGIN 11</span>. A deficient grade in <span class="code_bubble" data-code-bubble="ENGIN 11">ENGIN 11</span> may be removed by taking <span class="code_bubble" data-code-bubble="ENGIN 11">ENGIN 11</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture and three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructor:</strong> Hanks</p></div>
+<p><a href="" class="btn-readless"><span>A Hands-on Introduction to Radiation Detection: Getting to know our Radioactive World:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin24" data-toggle="#cb_engin24">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 24</span> 
+<span class="title">Freshman Seminar</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin24">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+The Berkeley Seminar Program is designed to provide students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Berkeley Seminars are offered in all college departments, and topics vary from department to department and semester to semester.</span><br/>
+ <a href="" class="btn-readmore"><span>Freshman Seminar:</span> Read More [+]</a></p>
+<div id="14" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture/discussion/seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin25" data-toggle="#cb_engin25">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 25</span> 
+<span class="title">Visualization for Design</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin25">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2020, Spring 2020, Fall 2019<br/>
+Development of 3-dimensional visualization skills for engineering design. Sketching as a tool for design communication. Presentation of 3-dimensional geometry with 2-dimensional engineering drawings. This course will introduce the use of 2-dimensional CAD on computer workstations as a major graphical analysis and design tool. A group design project is required. Teamwork and effective communication are emphasized.</span><br/>
+ <a href="" class="btn-readmore"><span>Visualization for Design:</span> Read More [+]</a></p>
+<div id="657" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Improve 3-dimensional visualization skills; enable a student to create and understand engineering drawings; introduce 2-dimensional computer-aided geometry modeling as a visualization, design, and analysis tool; enhance critical thinking and design skills; emphasize communication skills, both written and oral; develop teamwork skills; offer experience in hands-on engineering projects; develop early abilities in identifying, formulating, and solving engineering problems; introduce students to the societal context of engineering practice.</p><p><strong>Student Learning Outcomes:</strong> Upon completion of the course, students shall be able to communicate 3-dimensional geometry effectively using sketches; operate 2-dimensional CAD software with a high degree of skill and confidence; understand and create engineering drawings; visualize 3-dimensional geometry from a series of 2-dimensional drawings.</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture and two hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Lieu, McMains</p></div>
+<p><a href="" class="btn-readless"><span>Visualization for Design:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin26" data-toggle="#cb_engin26">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 26</span> 
+<span class="title">Three-Dimensional Modeling for Design</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin26">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+Three-dimensional modeling for engineering design. This course will emphasize the use of CAD on computer workstations as a major graphical analysis and design tool. Students develop design skills, and practice applying these skills. A group design project, design and fabrication (3D print) of the tower and rotor is required. Hands-on creativity, teamwork, and effective communication are emphasized.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Three-Dimensional Modeling for Design:</span> Read More [+]</a></p>
+<div id="977" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Develop teamwork skills; offer experience in hands-on, creative engineering projects.<br/>Enhance critical thinking and design skills; emphasize communication skills, both written and oral. <br/>Introduce computer-based solid, parametric, and assembly modeling as a tool for engineering design. <br/>Reinforce the societal context of engineering practice; develop early abilities in identifying, formulating, and solving engineering problems.</p><p><strong>Student Learning Outcomes:</strong> Create a 3D solid model of a complicated object with high degree of confidence.<br/>
+Extract 2D orthographic views from the 3D model for fabrication.<br/>
+Extract section and auxiliary views.<br/>
+Specify the proper dimensions, according to industry standards, for parts to be fabricated.<br/>
+<br/>
+Understand the basics of assembly and associative constraints.<br/>
+Understand the basics of rapid prototyping, in particular 3D printing.<br/>
+Understand the engineering design process and the implementation of different design phases.<br/>
+Work effectively as a member of a design team.</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture and two hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Youssefi, Mcmains</p></div>
+<p><a href="" class="btn-readless"><span>Three-Dimensional Modeling for Design:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin27" data-toggle="#cb_engin27">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 27</span> 
+<span class="title">Introduction to Manufacturing and Tolerancing</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin27">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2021 10 Week Session, Fall 2020, Summer 2020 10 Week Session<br/>
+Geometric dimensioning and tolerancing (GD&amp;T), tolerance analysis for fabrication, fundamentals of manufacturing processes (metal cutting, welding, joining, casting, molding, and layered manufacturing).</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Manufacturing and Tolerancing:</span> Read More [+]</a></p>
+<div id="827" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Enable a student to create and understand tolerances in engineering drawings; enhance critical thinking and design skills; emphasize communication skills, both written and oral; offer hands-on experience in manufacturing; develop abilities in identifying, formulating, and solving engineering problems; introduce students to the context of engineering practice.</p><p><strong>Student Learning Outcomes:</strong> Upon completion of the course, students shall be able to fabricate basic parts in the machine shop; understand and communicate tolerance requirements in engineering drawings using industry standard GD&amp;T; use metrology tools to evaluate if physical parts are within specified tolerances; demonstrate familiarity with manufacturing processes; and design parts that can be fabricated realistically and economically using these processes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="ENGIN 25">ENGIN 25</span> (may be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 2 hours of laboratory per week</p><p><strong>Summer:</strong> 10 weeks - 1.5 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture and two hours of laboratory per week. One and one-half hours of lecture and three hours of laboratory per week for 10 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> McMains, Lieu, Taylor</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Manufacturing and Tolerancing:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin29" data-toggle="#cb_engin29">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 29</span> 
+<span class="title">Manufacturing and Design Communication</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin29">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Summer 2023 10 Week Session, Spring 2023<br/>
+An introduction to manufacturing process technologies and the ways in which dimensional requirements for manufactured objects are precisely communicated, especially through graphical means. Fundamentals of cutting, casting, molding, additive manufacturing, and joining processes are introduced. Geometric dimensioning and tolerancing (GD&amp;T), tolerance analysis for fabrication, concepts of process variability, and metrology</span><span class="deschide"> techniques are introduced and practiced. 3-D visualization skills for engineering design are developed via sketching and presentation of 3-D geometries with 2-D engineering drawings. Computer-aided design software is used. Teamwork and effective communication are emphasized through lab activities and a design project.</span><br/>
+ <a href="" class="btn-readmore"><span>Manufacturing and Design Communication:</span> Read More [+]</a></p>
+<div id="112" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Develop early abilities in identifying, formulating, and solving engineering problems.<br/>Emphasize communication skills, both written and oral; develop teamwork skills.<br/>Enable a student to create and understand tolerances in engineering drawings.<br/>Enhance critical thinking and design skills.<br/>Improve 3-dimensional visualization skills; enable a student to create and understand engineering drawings.<br/>Introduce 2-dimensional computer-aided geometry modeling as a visualization, design, and analysis tool.<br/>Introduce students to the societal context of engineering practice.<br/>Offer an experience in hands-on engineering projects.</p><p><strong>Student Learning Outcomes:</strong> A knowledge of contemporary issues.<br/>
+A recognition of the need for, and an ability to engage in life-long learning.<br/>
+An ability to apply knowledge of mathematics, science, and engineering.<br/>
+An ability to communicate effectively.<br/>
+An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability.<br/>
+An ability to design and conduct experiments, as well as to analyze and interpret data.<br/>
+An ability to identify, formulate, and solve engineering problems.<br/>
+An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.<br/>
+An understanding of professional and ethical responsibility.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="ENGIN 26">ENGIN 26</span> or equivalent experience in three-dimensional solid modeling (e.g. Solidworks, Fusion 360) is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p><p><strong>Summer:</strong> 10 weeks - 4.5 hours of lecture and 4.5 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of laboratory per week. Four and one-half hours of lecture and four and one-half hours of laboratory per week for 10 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructors:</strong> Taylor, Hayden, Mcmains, Sarah, Stuart, Hannah</p></div>
+<p><a href="" class="btn-readless"><span>Manufacturing and Design Communication:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin39b" data-toggle="#cb_engin39b">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 39B</span> 
+<span class="title">Freshman/Sophomore Seminar</span> 
+<span class="hours">1.5 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin39b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2010, Spring 2009, Spring 2008<br/>
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25.</span><br/>
+ <a href="" class="btn-readmore"><span>Freshman/Sophomore Seminar:</span> Read More [+]</a></p>
+<div id="144" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1.5-4 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of seminar per week per unit.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman/Sophomore Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin39e" data-toggle="#cb_engin39e">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 39E</span> 
+<span class="title">Freshman/Sophomore Seminar</span> 
+<span class="hours">1.5 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin39e">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2010, Spring 2009, Spring 2008<br/>
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25.</span><br/>
+ <a href="" class="btn-readmore"><span>Freshman/Sophomore Seminar:</span> Read More [+]</a></p>
+<div id="329" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1.5-4 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of seminar per week per unit.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman/Sophomore Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin39f" data-toggle="#cb_engin39f">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 39F</span> 
+<span class="title">Freshman/Sophomore Seminar</span> 
+<span class="hours">1.5 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin39f">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2010<br/>
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25.</span><br/>
+ <a href="" class="btn-readmore"><span>Freshman/Sophomore Seminar:</span> Read More [+]</a></p>
+<div id="342" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1.5-4 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of seminar per week per unit.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman/Sophomore Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin40" data-toggle="#cb_engin40">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 40</span> 
+<span class="title">Engineering Thermodynamics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin40">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+Fundamental laws of thermodynamics for simple substances; application to flow processes and to nonreacting mixtures; statistical thermodynamics of ideal gases and crystalline solids; chemical and materials thermodynamics; multiphase and multicomponent equilibria in reacting systems; electrochemistry. Sponsoring Departments: Materials Science and Engineering and Nuclear Engineering.</span><br/>
+ <a href="" class="btn-readmore"><span>Engineering Thermodynamics:</span> Read More [+]</a></p>
+<div id="71" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span> and <span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span>. <span class="code_bubble" data-code-bubble="CHEM 1B">CHEM 1B</span> recommended</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Engineering 40 after taking Engineering 115, Chemical Engineering 141 or Mechanical Engineering 40.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Bolind, Persson</p></div>
+<p><a href="" class="btn-readless"><span>Engineering Thermodynamics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin47" data-toggle="#cb_engin47">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 47</span> 
+<span class="title">Supplementary Work in Lower Division Engineering</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin47">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2022, Fall 2016, Fall 2012<br/>
+May be taken only with permission of the Dean of the College of Engineering. Students with partial credit in a lower division engineering course may complete the work under this heading.</span><br/>
+ <a href="" class="btn-readmore"><span>Supplementary Work in Lower Division Engineering:</span> Read More [+]</a></p>
+<div id="733" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Limited to students who must make up a fraction of a required lower division course</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><p><strong>Summer:</strong> 8 weeks - 1.5-5.5 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Zero hours of Independent study per week for 15 weeks. One and one-half to Five and one-half hours of Independent study per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Supplementary Work in Lower Division Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin92" data-toggle="#cb_engin92">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 92</span> 
+<span class="title">Perspectives in Engineering</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin92">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+This series of lectures provides students, especially undeclared Engineering students, with information on the various engineering disciplines to guide them toward choice of major. Lecturers describe research activities, how they made their own career choices, and indicate future opportunities. Recommended for all Engineering Science students and required for Engineering undeclared students.</span><br/>
+ <a href="" class="btn-readmore"><span>Perspectives in Engineering:</span> Read More [+]</a></p>
+<div id="17" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Perspectives in Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin93" data-toggle="#cb_engin93">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 93</span> 
+<span class="title">Energy Engineering Seminar</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin93">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+Weekly seminar with different speakers on energy-related topics. The goal is to expose students to a broad range of energy issues.</span><br/>
+ <a href="" class="btn-readmore"><span>Energy Engineering Seminar:</span> Read More [+]</a></p>
+<div id="567" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p><p><strong>Instructor:</strong> Zohdi</p></div>
+<p><a href="" class="btn-readless"><span>Energy Engineering Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin98" data-toggle="#cb_engin98">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 98</span> 
+<span class="title">Directed Group Studies for Lower Division Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin98">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+Seminars for group study of selected topics, which will vary from year to year. Intended for students in the lower division.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Studies for Lower Division Undergraduates:</span> Read More [+]</a></p>
+<div id="652" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>6 weeks - 2.5-10 hours of directed group study per week<br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1.5-7.5 hours of directed group study per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-6 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> Format varies with offering.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Studies for Lower Division Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin117" data-toggle="#cb_engin117">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 117</span> 
+<span class="title">Methods of Engineering Analysis</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin117">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2019, Fall 2017<br/>
+Methods of theoretical engineering analysis; techniques for analyzing partial differential equations and the use of special functions related to engineering systems. Sponsoring Department: Mechanical Engineering.</span><br/>
+ <a href="" class="btn-readmore"><span>Methods of Engineering Analysis:</span> Read More [+]</a></p>
+<div id="549" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span> and <span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Methods of Engineering Analysis:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin120" data-toggle="#cb_engin120">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 120</span> 
+<span class="title">Principles of Engineering Economics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin120">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Spring 2022<br/>
+Economic analysis for engineering decision making: Capital flows, effect of time and interest rate. Different methods of evaluation of alternatives. Minimum-cost life and replacement analysis. Depreciation and taxes. Uncertainty; preference under risk; decision analysis. Capital sources and their effects. Economic studies.</span><br/>
+ <a href="" class="btn-readmore"><span>Principles of Engineering Economics:</span> Read More [+]</a></p>
+<div id="160" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Completion of 60 units of an approved engineering curriculum</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Engineering 120 after taking Industrial Engineering 120.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> 8 weeks - 4 hours of lecture and 2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Lecture and One hour of Discussion per week for 15 weeks. Four hours of Lecture and Two hours of Discussion per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Adler</p></div>
+<p><a href="" class="btn-readless"><span>Principles of Engineering Economics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin125" data-toggle="#cb_engin125">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 125</span> 
+<span class="title">Ethics, Engineering, and Society</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin125">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+How should engineers analyze and resolve the ethical issues inherent in engineering? This seminar-style course provides an introduction to how theories, concepts, and methods from the humanities and social science can be applied to ethical problems in engineering. Assignments incorporate group and independent research designed to provide students an opportunity to contribute novel findings to the emerging field of engineering ethics while</span><span class="deschide"> building their analytical and communication skills. This course cannot be used to fulfill any engineering technical requirements (units or courses).</span><br/>
+ <a href="" class="btn-readmore"><span>Ethics, Engineering, and Society:</span> Read More [+]</a></p>
+<div id="511" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>6 weeks - 5 hours of lecture and 3 hours of discussion per week<br/><span style="width: 15px; display: inline-block;"/>8 weeks - 4 hours of lecture and 2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Lecture and One hour of Discussion per week for 15 weeks. Four hours of Lecture and Two hours of Discussion per week for 8 weeks. Five hours of Lecture and Three hours of Discussion per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Ethics, Engineering, and Society:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin128" data-toggle="#cb_engin128">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 128</span> 
+<span class="title">Advanced Engineering Design Graphics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin128">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+Advanced graphics tools for engineering design. Parametric solid modeling. Assembly modeling. Presentation using computer animation and multimedia techniques.</span><br/>
+ <a href="" class="btn-readmore"><span>Advanced Engineering Design Graphics:</span> Read More [+]</a></p>
+<div id="185" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="ENGIN 26">ENGIN 26</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture and one hour discussion per week plus drop in laboratory.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructor:</strong> Lieu</p></div>
+<p><a href="" class="btn-readless"><span>Advanced Engineering Design Graphics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin147" data-toggle="#cb_engin147">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 147</span> 
+<span class="title">Supplementary Work in Upper Division Engineering</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin147">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2016, Fall 2015, Spring 2015<br/>
+May be taken only with permission of the Dean of the College of Engineering. Students with partial credit in an upper division engineering course may complete the work under this heading.</span><br/>
+ <a href="" class="btn-readmore"><span>Supplementary Work in Upper Division Engineering:</span> Read More [+]</a></p>
+<div id="895" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Limited to students who must make up a fraction of a required upper division course</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Zero hours of Independent study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Supplementary Work in Upper Division Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin150" data-toggle="#cb_engin150">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 150</span> 
+<span class="title">Basic Modeling and Simulation Tools for Industrial Research Applications</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin150">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2021, Fall 2019, Fall 1997<br/>
+The course emphasizes elementary modeling, numerical methods &amp; their implementation on physical problems motivated by phenomena that students are likely to encounter in their careers, involving biomechanics, heat-transfer, structural analysis, control theory, fluid-flow, electrical conduction, diffusion, etc. This will help students develop intuition about the strengths and weaknesses of a variety of modeling &amp; numerical methods, as well</span><span class="deschide"> as develop intuition about modeling physical systems &amp; strengths and weaknesses of a variety of numerical methods, including: Discretization of differential equations, Methods for solving nonlinear systems, Gradient-based methods and machine learning algorithms for optimization, stats &amp; quantification</span><br/>
+ <a href="" class="btn-readmore"><span>Basic Modeling and Simulation Tools for Industrial Research Applications:</span> Read More [+]</a></p>
+<div id="563" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span> or <span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI 61A</span>, <span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span>, <span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span>, and <span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="ENGIN 150">ENGIN 150</span> after completing <span class="code_bubble" data-code-bubble="ENGIN 150">ENGIN 150</span>. A deficient grade in <span class="code_bubble" data-code-bubble="ENGIN 150">ENGIN 150</span> may be removed by taking <span class="code_bubble" data-code-bubble="ENGIN 150">ENGIN 150</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Basic Modeling and Simulation Tools for Industrial Research Applications:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin151" data-toggle="#cb_engin151">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 151</span> 
+<span class="title">Modeling and Simulation of Infectious Diseases</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin151">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Prior to 2007<br/>
+The course emphasizes elementary modeling, numerical methods and their implementation on physical problems motivated by real-world phenomena involving various aspects of infection diseases. This course is broken into five parts: part 1-modeling and simulation of the infection zone from respiratory emission, part 2-rapid simulation of viral decontamination efficacy with uv irradiation, part 3-an agent-based computational framework for simulation of global pandemic</span><span class="deschide"> and social response, part 4-machine learning and parameter identification, part 5-deep dive into advanced models: continuum mechanics, solid-fluid interaction and electromagnetism.</span><br/>
+ <a href="" class="btn-readmore"><span>Modeling and Simulation of Infectious Diseases:</span> Read More [+]</a></p>
+<div id="542" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Comprised of an introduction to essential mathematical modeling and simulation tools needed for various aspects of the modeling and simulation of infectious diseases. Six capstone projects, drawn from Parts 1-5 are assigned, applying the modeling and simulation tools.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span>, <span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI 61A</span>, or <span class="code_bubble" data-code-bubble="DATA C8">DATA C8</span> + COMPSCI 88; and <span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span>; and <span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span> AND MATH 54</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Tarek Zohdi</p></div>
+<p><a href="" class="btn-readless"><span>Modeling and Simulation of Infectious Diseases:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin157ac" data-toggle="#cb_engin157ac">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 157AC</span> 
+<span class="title">Engineering, The Environment, and Society</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin157ac">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+This course engages students at the intersection of environmental justice, social justice, and engineering to explore how problems that are commonly defined in technical terms are at their roots deeply socially embedded. Through partnerships with community-based organizations, students are trained to recognize the socio-political nature of technical problems so that they may approach solutions in ways that prioritize social justice. Topics</span><span class="deschide"> covered include environmental engineering as it relates to air, water, and soil contamination; race, class, and privilege; expertise; ethics; and engaged citizenship. This course cannot be used to complete any engineering technical unit requirements.</span><br/>
+ <a href="" class="btn-readmore"><span>Engineering, The Environment, and Society:</span> Read More [+]</a></p>
+<div id="608" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Also listed as:</strong> IAS 157AC</p></div>
+<p><a href="" class="btn-readless"><span>Engineering, The Environment, and Society:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin177" data-toggle="#cb_engin177">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 177</span> 
+<span class="title">Advanced Programming with MATLAB</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin177">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2017, Spring 2015, Spring 2014<br/>
+The course builds an understanding, demonstrates engineering uses, and provides hand-on experience for object-oriented programming as well as exposes a practical knowledge of advanced features available in MATLAB. The course will begin with a brief review of basic MATLAB features and quickly move to class organization and functionality. The introduced concepts are reinforced by examining the advanced graphical features of MATLAB. The material</span><span class="deschide"> will also include the effective use of programs written in C and FORTRAN, and will cover SIMULINK, a MATLAB toolbox providing for an effective ways of model simulations. Throughout the course, the emphasis will be placed on examples and homework assignments from engineering disciplines.</span><br/>
+ <a href="" class="btn-readmore"><span>Advanced Programming with MATLAB:</span> Read More [+]</a></p>
+<div id="923" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span>, <span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span> and <span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span> (one of these math courses may be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one voluntary discussion/computer laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Frenklach, Packard</p></div>
+<p><a href="" class="btn-readless"><span>Advanced Programming with MATLAB:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin178" data-toggle="#cb_engin178">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 178</span> 
+<span class="title">Statistics and Data Science for Engineers</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin178">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+This course provides a foundation in data science with emphasis on the application of statistics and machine learning to engineering problems. The course combines theoretical topics in probability and statistical inference with practical methods for solving problems in code. Each topic is demonstrated with examples from engineering. These include hypothesis testing, principal component analysis, clustering, linear regression, time series analysis</span><span class="deschide">, classification, and deep learning. Math 53 and 54 are recommended before Engin 178, Math 53 and 54 are allowed concurrently.</span><br/>
+ <a href="" class="btn-readmore"><span>Statistics and Data Science for Engineers:</span> Read More [+]</a></p>
+<div id="494" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> To demonstrate the use of data science in engineering tasks. <br/>To enable students to import, clean, visualize, and interpret data sets using modern computer languages.<br/>To familiarize students with a range of techniques for building models from data.<br/>To introduce the concepts of quantitative statistics and probability.<br/>To provide a theoretical and conceptual basis for students to understand the role of data in engineering.<br/>To teach students how to build and train machine learning models.</p><p><strong>Student Learning Outcomes:</strong> A knowledge of contemporary issues.<br/>
+An ability to apply knowledge of mathematics, science, and engineering.<br/>
+An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability.<br/>
+An ability to design and conduct experiments, as well as to analyze and interpret data.<br/>
+An ability to identify, formulate, and solve engineering problems.<br/>
+An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.<br/>
+The broad education necessary to understand the impact of engineering solutions in a global, economic, environmental, and societal context.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span>, <span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span>, <span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span> <span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span>, and <span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span> (may be taken concurrently)</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="ENGIN 178">ENGIN 178</span> after completing ENGIN 78. A deficient grade in <span class="code_bubble" data-code-bubble="ENGIN 178">ENGIN 178</span> may be removed by taking ENGIN 78.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Papadopoulos</p></div>
+<p><a href="" class="btn-readless"><span>Statistics and Data Science for Engineers:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin180" data-toggle="#cb_engin180">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 180</span> 
+<span class="title">Preparing for the Fields and Jobs of the Future</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin180">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018<br/>
+The course is concerned with giving students the tools to prepare for the fields and jobs of the future.<br/>
+Across all university departments and majors, the numbers of students who do not work in the fields in which they’ve received their degrees is not only significant, but growing. For example, anywhere from 20-40% of STEM graduates do not work in the fields in which they received their degrees.<br/>
+This does not mean that students shouldn’t major in STEM, but</span><span class="deschide"> that one of the primary purposes of higher education is learning how to learn. Accordingly, this course presents a number of frameworks that are critical for thinking about that which has not yet been invented.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Preparing for the Fields and Jobs of the Future:</span> Read More [+]</a></p>
+<div id="303" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternate method of final assessment during regularly scheduled final exam group (e.g., presentation, final project, etc.). </p><p><strong>Instructor:</strong> Ian I. Mitroff</p></div>
+<p><a href="" class="btn-readless"><span>Preparing for the Fields and Jobs of the Future:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin183" data-toggle="#cb_engin183">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 183</span> 
+<span class="title">Special Topics in Technology Innovation and Entrepreneurship</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin183">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+This course will explore various topics around technology innovation and entrepreneurship. Topics will vary by semester.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics in Technology Innovation and Entrepreneurship:</span> Read More [+]</a></p>
+<div id="531" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>6 weeks - 2.5-10 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1.5-7.5 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-6 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One to four hours of seminar per week. One and one-half to six hours of seminar per week for 10 weeks. One and one-half to seven and one-half hours of seminar per week for 8 weeks. Two and one-half to ten hours of seminar per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> Industrial Engin and Oper Research 190E</p></div>
+<p><a href="" class="btn-readless"><span>Special Topics in Technology Innovation and Entrepreneurship:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin183a" data-toggle="#cb_engin183a">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 183A</span> 
+<span class="title">A. Richard Newton Lecture Series</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin183a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+This lecture series serves as an entry point for undergraduate and graduate curriculum sequences in entrepreneurship and innovation. The series, established in 2005, is named in honor of A. Richard Newton, a visionary technology industry leader and late dean of the University of California Berkeley College of Engineering. The course features a selection of high-level industry speakers who share their insights on industry developments, leadership</span><span class="deschide">, and innovation based on their careers.</span><br/>
+ <a href="" class="btn-readmore"><span>A. Richard Newton Lecture Series:</span> Read More [+]</a></p>
+<div id="440" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1.5 hours of colloquium per week</p><!--<p class=""><strong>Additional Format:</strong> One and one-half hours of colloquium per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Alternative to final exam. </p><p><strong>Formerly known as:</strong> Industrial Engin and Oper Research 195</p></div>
+<p><a href="" class="btn-readless"><span>A. Richard Newton Lecture Series:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin183b" data-toggle="#cb_engin183b">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 183B</span> 
+<span class="title">Berkeley Method of Entrepreneurship Bootcamp</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin183b">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Summer 2023 Second 6 Week Session, Spring 2023<br/>
+This course offers the opportunity to understand the Berkeley Method of Entrepreneurship (BME) in an intensive format. The BME curriculum conveys the latest approaches for training global technology entrepreneurs. This method leverages insights on strategy, tactics, culture, and psychology with an accompanying entrepreneurial infrastructure. The curriculum is structured to provide an optimal global entrepreneurship experience</span><span class="deschide"> from real life experiences.</span><br/>
+ <a href="" class="btn-readmore"><span>Berkeley Method of Entrepreneurship Bootcamp:</span> Read More [+]</a></p>
+<div id="232" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> * To understand and make use of the value of diversity in idea generation and new venture creation.<br/>Student should become aware of the infrastructure available through UC Berkeley that an support them in developing new ventures.<br/>To understand common tactics in starting new ventures including a lean learning cycle.<br/>To understand the mindset of an entrepreneur, including the soft skills, behaviors, and psychological factors most likely to be needed to develop a new venture.</p><p><strong>Student Learning Outcomes:</strong> Students should be able to consider a greater number of ideas for global entrepreneurship by observing the effect of background diversity in the class.<br/>
+Students should be able to follow a process of idea generation, rapid prototyping / venture story development, attraction of stakeholders, data collection, and hypothesis testing and regeneration.<br/>
+Students should become aware of the mindset and behaviour required for entreprenurship and be able to reinforce some of these behavious (eg rejection tolerance, comfort with failing or being wrong, inductive learning, venture story telling/communication abilities) through excercizes in the program.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 1 weeks - 30 hours of lecture and 20 hours of discussion per week</p><p><strong>Summer:</strong> 1 weeks - 30 hours of lecture and 20 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Thirty hours of lecture and twenty hours of discussion per week for one week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Formerly known as:</strong> Industrial Engin and Oper Research 192</p></div>
+<p><a href="" class="btn-readless"><span>Berkeley Method of Entrepreneurship Bootcamp:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin183c" data-toggle="#cb_engin183c">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 183C</span> 
+<span class="title">Challenge Lab</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin183c">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Summer 2023 First 6 Week Session, Summer 2023 Second 6 Week Session<br/>
+This course is meant for students in engineering and other disciplines who seek a challenging, interactive, team-based, and hands-on learning experience in entrepreneurship and technology. In this highly experiential course, students work in simulated start-up teams to create products or start-up ideas to address a broadly-defined need of an industry partner or social challenge.</span><br/>
+ <a href="" class="btn-readmore"><span>Challenge Lab:</span> Read More [+]</a></p>
+<div id="443" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> 1)<br/>
+To catalyze learning through experiential entrepreneurship <br/>2)<br/>
+To help students understand the entrepreneurial context, and how it can create better outcomes.<br/>3)<br/>
+To help students identify the best role for themselves within an entrepreneurial organization.</p><p><strong>Student Learning Outcomes:</strong> 1)<br/>
+Gain experience with effectively refining ideas and pivoting based on feedback and external factors.<br/>
+2)<br/>
+Gain experience building effective teams to develop and execute an idea<br/>
+3)<br/>
+Become comfortable with failure and how to learn from failure.<br/>
+4)<br/>
+Become adept at succinctly communicating ideas in terms of value proposition and business viability.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of seminar per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>6 weeks - 10 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>8 weeks - 7.5 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 6 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of seminar per week. Six hours of seminar per week for 10 weeks. Seven and one-half hours of seminar per week for 8 weeks. Ten hours of seminar per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Formerly known as:</strong> Industrial Engin and Oper Research 185</p></div>
+<p><a href="" class="btn-readless"><span>Challenge Lab:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin183d" data-toggle="#cb_engin183d">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 183D</span> 
+<span class="title">Product Management</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin183d">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Fall 2022<br/>
+Too often we are enamored in our brilliant ideas, we skip the most important part: building products consumers will want and use. Precious time and effort is wasted on engineering perfect products only to launch to no users. This course teaches product management skills such as attributes of great product managers, reducing risk and cost while accelerating time to market, product life cycle, stakeholder management and effective development processes.</span><br/>
+ <a href="" class="btn-readmore"><span>Product Management:</span> Read More [+]</a></p>
+<div id="106" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> •<br/>
+Students will experience a live development of a product within the context of a product development process.<br/>•<br/>
+Students will learn common methods used in product management <br/>•<br/>
+Students will understand the difference between engineering design and product development as a process commonly used in new venture environments.</p><p><strong>Student Learning Outcomes:</strong> •<br/>
+Students will actually develop a real world functioning product, to be described as Minimum Viable.<br/>
+•<br/>
+Students will be able to manage a product development process that leads to a product that is technically feasible as well as desired by customers.<br/>
+•<br/>
+Students will gain experience needed to work as product managers in real life environments.</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Formerly known as:</strong> Industrial Engin and Oper Research 186</p></div>
+<p><a href="" class="btn-readless"><span>Product Management:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin183e" data-toggle="#cb_engin183e">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 183E</span> 
+<span class="title">Technology Entrepreneurship</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin183e">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+This course explores key entrepreneurial concepts relevant to the high-technology world. Topics include the entrepreneurial perspective, start-up strategies, business idea evaluation, business plan writing, introduction to entrepreneurial finance and venture capital, managing growth, and delivering innovative products. This course prepares technical and business minded students for careers focused on entrepreneurship, intrapreneurship, and high</span><span class="deschide"> technology. Students undertake intensive study of actual business situations through rigorous case-study analysis. This course can not be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).</span><br/>
+ <a href="" class="btn-readmore"><span>Technology Entrepreneurship:</span> Read More [+]</a></p>
+<div id="104" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Junior or senior standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Formerly known as:</strong> Industrial Engin and Oper Research 191</p></div>
+<p><a href="" class="btn-readless"><span>Technology Entrepreneurship:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin185" data-toggle="#cb_engin185">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 185</span> 
+<span class="title">The Art of STEM Communication</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin185">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023 First 6 Week Session, Spring 2023, Spring 2022<br/>
+This course provides engineering majors with the fundamental skills for effective technical communication. During the course of the semester, students will develop communications for public dissemination, covering a project or initiative within UC Berkeley’s College of Engineering. This work will call on students to: (a) cultivate interest in a broad range of topics related to Engineering; (b) become an engaged and critical</span><span class="deschide"> reader of academic and general-interest science publications; (c) learn how to assess, plan for, and respond to a variety of communicative situations; (d) produce focused, and at the same time, narratively-rich, accounts of Engineering research.</span><br/>
+ <a href="" class="btn-readmore"><span>The Art of STEM Communication:</span> Read More [+]</a></p>
+<div id="642" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 6 weeks - 8-8 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week. Eight hours of lecture per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternate method of final assessment during regularly scheduled final exam group (e.g., presentation, final project, etc.). </p></div>
+<p><a href="" class="btn-readless"><span>The Art of STEM Communication:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin187" data-toggle="#cb_engin187">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 187</span> 
+<span class="title">Global Engineering: The Challenges of Globalization and Disruptive Innovation</span> 
+<span class="hours">1 or 2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin187">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019<br/>
+The course examines the challenges of innovation beyond new technology development: from the challenges of global expansion, to the issues of unintended consequences of technology and the ability of technology to support or hinder social justice. The course will provide examples in a variety of global locations (e.g., Latin America, Southeast Asia, Africa, China, and India), utilizing case examples (written and presented by speakers) that illustrate the challenges faced</span><span class="deschide"> in a range of fields of engineering and technology, from water and transportation to information and communications technology, and from start-ups to major corporations, government entities, and policy makers.</span><br/>
+ <a href="" class="btn-readmore"><span>Global Engineering: The Challenges of Globalization and Disruptive Innovation:</span> Read More [+]</a></p>
+<div id="561" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 8 weeks - 2-4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> 1 unit: Lectures will be two hours every other week across the 15 week semester. &lt;br/&gt;2 units: Lectures will be four hours every other week across the 15 week semester.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Global Engineering: The Challenges of Globalization and Disruptive Innovation:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin194" data-toggle="#cb_engin194">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 194</span> 
+<span class="title">Undergraduate Research</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin194">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+Students who have completed a satisfactory number of advanced courses may pursue original research under the direction of one of the members of the staff. Final report and presentation required.</span><br/>
+ <a href="" class="btn-readmore"><span>Undergraduate Research:</span> Read More [+]</a></p>
+<div id="469" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor and adviser, junior or senior standing</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Hours will vary depending on schedule.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Undergraduate Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin195a" data-toggle="#cb_engin195a">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 195A</span> 
+<span class="title">Engineering Science Senior Thesis Research</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin195a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022<br/>
+Thesis work under the supervision of a faculty member. To obtain full credit, the student must submit a satisfactory thesis at the end of two semesters of research. A total of four units must be taken. The units must be distributed between the two semesters (2 units in E195A and 2 units in E195B, or 1+3 or 3+1). Note, completion of a senior thesis does not contribute toward graduation requirements.</span><br/>
+ <a href="" class="btn-readmore"><span>Engineering Science Senior Thesis Research:</span> Read More [+]</a></p>
+<div id="74" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Gain experience conducting an independent research project in science and/or engineering. <br/>Report research outcomes in a written thesis.</p><p><strong>Student Learning Outcomes:</strong> Develop familiarity reading scientific literature<br/>
+Gain expertise in a field closely related to their coursework<br/>
+Gain practice asking research questions and managing an independent project<br/>
+Learn how to communicate scientific ideas and methods in a research thesis<br/>
+Practice good teamwork with their fellow research students and their supervisor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Must be an Engineering Science student with senior standing, with one fall and one spring semester remaining, and an overall UC GPA of at least 3.3</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-9 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Three to nine hours of independent study per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Engineering Science Senior Thesis Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin195b" data-toggle="#cb_engin195b">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 195B</span> 
+<span class="title">Engineering Science Senior Thesis Research</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin195b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023<br/>
+Thesis work under the supervision of a faculty member. To obtain full credit, the student must submit a satisfactory thesis at the end of two semesters of research. A total of four units must be taken. The units must be distributed between the two semesters (2 units in E195A and 2 units in E195B, or 1+3 or 3+1). Note, completion of a senior thesis<br/>
+does not contribute toward graduation requirements.</span><br/>
+ <a href="" class="btn-readmore"><span>Engineering Science Senior Thesis Research:</span> Read More [+]</a></p>
+<div id="585" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Gain experience conducting an independent research project in science and/or engineering.<br/>Report research outcomes in a written thesis.</p><p><strong>Student Learning Outcomes:</strong> Develop familiarity reading scientific literature<br/>
+Gain expertise in a field closely related to their coursework<br/>
+Gain practice asking research questions and managing an independent project<br/>
+Learn how to communicate scientific ideas and methods in a research thesis<br/>
+Practice good teamwork with their fellow research students and their supervisor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Must be an Engineering Science student with senior standing, with one fall and one spring semester remaining, and an overall UC GPA of at least 3.3</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-9 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Three to nine hours of independent study per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Engineering Science Senior Thesis Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_engin198" data-toggle="#cb_engin198">
+<h3 class="courseblocktitle">
+<span class="code">ENGIN 198</span> 
+<span class="title">Directed Group Studies for Advanced Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_engin198">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Summer 2023 First 6 Week Session, Spring 2023<br/>
+Group study of selected topics.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Studies for Advanced Undergraduates:</span> Read More [+]</a></p>
+<div id="271" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing, plus particular courses to be specified by instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><p><strong>Summer:</strong> 8 weeks - 1.5-7.5 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Directed group study per week for 15 weeks. One and one-half to Seven and one-half hours of Directed group study per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Studies for Advanced Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+]]>
+</coursestext>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><p class="facitem"><strong>* </strong>Indicates this faculty member is the recipient of the Distinguished Teaching Award.</p><h4>Faculty</h4><p class="facitem"><strong>Ilan Adler, <i>Professor</i>. </strong>Financial engineering, optimization theory, combinatorial probability models.<br/><a href="http://vcresearch.berkeley.edu/node/13998"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ana Claudia Arias, <i>Professor</i>. </strong>Physical Electronics (PHY), Flexible and Printed Electronics, Energy (ENE).<br/><a href="https://vcresearch.berkeley.edu/faculty/ana-claudia-arias"target="_blank">Research Profile</a></p><p class="facitem"><strong>David Attwood, <i>Professor-in-Residence</i>. </strong>Short wavelength electromagnetics, Soft X-ray microscopy, Coherence, EUV lithography.<br/><a href="https://vcresearch.berkeley.edu/faculty/david-attwood"target="_blank">Research Profile</a></p><p class="facitem"><strong>James Casey, <i>Professor</i>. </strong>Continuum mechanics, finite elasticity, continuum thermodynamics, plasticity, theories of elastic-plastic materials, history of mechanics, dynamics.<br/><a href="http://vcresearch.berkeley.edu/node/14482"target="_blank">Research Profile</a></p><p class="facitem"><strong>Alexandra von Meier, <i>Adjunct Professor</i>. </strong>Energy, Electric Grids, Power Distribution .<br/><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html"target="_blank">Research Profile</a></p><p class="facitem"><strong>Scott Moura, <i>Chair of Engineering Science</i>. </strong>Optimal control, PDE control, estimation, adaptive control, dynamic system modeling, energy management, battery management systems, vehicle-to-grid, smart grid .<br/><a href="http://vcresearch.berkeley.edu/faculty/scott-moura"target="_blank">Research Profile</a></p><p class="facitem"><strong>Kara L. Nelson, <i>Professor</i>. </strong>Water and wastewater treatment, water reuse, detection and inactivation of pathogens in water and sludge, appropriate technologies .<br/><a href="http://vcresearch.berkeley.edu/faculty/kara-l-nelson"target="_blank">Research Profile</a></p><p class="facitem"><strong>Sayeef Salahuddin, <i>Professor</i>. </strong></p><p class="facitem"><strong>David Sedlak, <i>Professor</i>. </strong><br/><a href="https://vcresearch.berkeley.edu/faculty/david-l-sedlak"target="_blank">Research Profile</a></p><p class="facitem"><strong>Junqiao Wu, <i>Professor</i>. </strong>Semiconductors, nanotechnology, energy materials.<br/><a href="http://vcresearch.berkeley.edu/node/15638"target="_blank">Research Profile</a></p><p class="facitem"><strong>* Tarek Zohdi, <i>Professor</i>. </strong>Finite element methods, computational methods for advanced manufacturing, micro-structural/macro-property inverse problems involving optimization and design of new materials, modeling and simulation of high-strength fabric, modeling and simulation of particulate/granular flows, modeling and simulation of multiphase/composite electromagnetic media, modeling and simulation of the dynamics of swarms.<br/><a href="http://vcresearch.berkeley.edu/node/14292"target="_blank">Research Profile</a></p>]]>
+</faculty>
+</courseleaf>
+

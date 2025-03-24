@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Mathematics and Physical Sciences (MPS)</title>
+
+
+<text>
+<![CDATA[  
+<h3><span style="color:rgb(35, 31, 32); font-family:freight-micro-pro,serif; font-size:1.4em">Courses</span></h3>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_mps1" data-toggle="#cb_mps1">
+<h3 class="courseblocktitle">
+<span class="code">MPS 1</span> 
+<span class="title">Navigating the Mathematical and Physical Sciences</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_mps1">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Fall 2022<br/>
+This course is offered to support first-year students in the mathematical and physical sciences with their transition to UC Berkeley. This course will highlight relevant resources on campus and help students in building community and a sense of belonging. Students will receive peer mentorship and will have the chance to learn from continuing students, graduate students and faculty about classes, curriculum, internships, and research. This course will be open</span><span class="deschide"> to all freshman and sophomore students who are intended MPS majors (mathematics, physics, astronomy, and earth and planetary science majors).</span><br/>
+ <a href="" class="btn-readmore"><span>Navigating the Mathematical and Physical Sciences:</span> Read More [+]</a></p>
+<div id="701" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Upon completion of this course, students will gain:<br/>
+An enhanced mentoring network.<br/>
+Awareness of the written and unwritten rules of academic life and how to navigate them successfully.<br/>
+Knowledge of how a mathematics and physical sciences major connects to career opportunities and strategies for maximizing advancement into these career paths as well as exploring the potential for subsequent graduate study.<br/>
+Connections to successful scientists and advanced students with whom they can identify and to whom they can relate.<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1.5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> One and one-half hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Mathematics and Physical Sciences/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Navigating the Mathematical and Physical Sciences:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_mps375" data-toggle="#cb_mps375">
+<h3 class="courseblocktitle">
+<span class="code">MPS 375</span> 
+<span class="title">Professional Preparation: Supervised Teaching in Math and the Physical Sciences</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_mps375">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+Mandatory for first time GSIs in Math, Physics,Astronomy, and EPS. Topics include pedagogy theory, effective teaching methods, educational objectives, alternatives to standard classroom methods, reciprocal classroom visitations, and guided group discussions. We will provide resources, tools, feedback for your teaching and readings on pedagogy in STEM. The discussion section will be devoted to discussions relevant to the department in which you</span><span class="deschide"> are teaching and will also be used as a forum for you to share your struggles, successes, and experiences with your peers.</span><br/>
+ <a href="" class="btn-readmore"><span>Professional Preparation: Supervised Teaching in Math and the Physical Sciences:</span> Read More [+]</a></p>
+<div id="510" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Mathematics and Physical Sciences/Professional course for teachers or prospective teachers</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Professional Preparation: Supervised Teaching in Math and the Physical Sciences:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

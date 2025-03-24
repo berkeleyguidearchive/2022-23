@@ -1,0 +1,96 @@
+#content .grid-shell {
+  display: block;
+  position: relative; }
+#content .grid-sort-controls {
+  background: #EEEEEE;
+  padding: 1rem;
+  font-size: 18px;
+  margin-bottom: 1rem; }
+  @media (min-width: 600px) {
+    #content .grid-sort-controls {
+      float: right; } }
+  #content .grid-sort-controls.hidden {
+    display: none; }
+  #content .grid-sort-controls::before {
+    display: block;
+    width: 100%;
+    text-align: left;
+    content: "View";
+    font-size: 18px;
+    color: #555;
+    font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight: bold; }
+  #content .grid-sort-controls select {
+    border: 1px solid #ccc; }
+#content .select-list-header-sub {
+  margin-bottom: 1rem; }
+  #content .select-list-header-sub.hidden {
+    display: none;
+    position: fixed;
+    left: 105%; }
+  #content .select-list-header-sub.visible {
+    display: none;
+    position: static;
+    left: auto; }
+  #content .select-list-header-sub ul {
+    margin: 0; }
+    #content .select-list-header-sub ul li {
+      list-style-type: none; }
+#content .grid {
+  position: relative;
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  display: none; }
+  #content .grid.visible {
+    display: table; }
+  #content .grid ul.mustbullet, #content .grid ul.mustbullet li {
+    list-style-type: disc; }
+  #content .grid caption {
+    position: static; }
+    #content .grid caption:before, #content .grid caption:after {
+      content: " ";
+      display: table; }
+    #content .grid caption:after {
+      clear: both; }
+    #content .grid caption.hidden {
+      display: none; }
+    #content .grid caption.visible {
+      display: block; }
+#content .grid thead tr {
+  display: none; }
+  @media (min-width: 600px) {
+    #content .grid thead tr {
+      display: table-row; } }
+  #content .grid thead tr th, #content .grid thead tr td {
+    vertical-align: middle;
+    display: table-header-text; }
+#content .grid tbody tr {
+  display: table-row; }
+  #content .grid tbody tr.hidden th, #content .grid tbody tr.hidden td {
+    text-indent: -2000px;
+    padding: 0;
+    font-size: .1px; }
+  #content .grid tbody tr th, #content .grid tbody tr td {
+    display: table-cell;
+    vertical-align: middle;
+    border: 1px solid #ccc;
+    text-align: left;
+    background: transparent;
+    color: #333; }
+    #content .grid tbody tr th .table-header-text, #content .grid tbody tr td .table-header-text {
+      display: block;
+      font-weight: bold; }
+      @media (min-width: 600px) {
+        #content .grid tbody tr th .table-header-text, #content .grid tbody tr td .table-header-text {
+          display: none; } }
+  #content .grid tbody tr th {
+    font-weight: bold;
+    background: #E8F4FF; }
+  #content .grid tbody tr td {
+    display: block; }
+    #content .grid tbody tr td:first-child {
+      display: table-cell; }
+    @media (min-width: 600px) {
+      #content .grid tbody tr td {
+        display: table-cell; } }

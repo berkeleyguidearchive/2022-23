@@ -1,0 +1,473 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Computational Biology (CMPBIO)</title>
+
+
+<text>
+<![CDATA[  
+<h3> Courses</h3>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio98bc" data-toggle="#cb_cmpbio98bc">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 98BC</span> 
+<span class="title">Berkeley Connect in Computational Biology</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio98bc">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department</span><span class="deschide"> faculty and alumni, and go on field trips to campus resources. Students are not required to be declared majors in order to participate. Course may be repeated.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Berkeley Connect in Computational Biology:</span> Read More [+]</a></p>
+<div id="230" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit with advisor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p><p><strong>Instructor:</strong> Nielsen</p></div>
+<p><a href="" class="btn-readless"><span>Berkeley Connect in Computational Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbioc131" data-toggle="#cb_cmpbioc131">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO C131</span> 
+<span class="title">Introduction to Computational Molecular and Cell Biology</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbioc131">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021, Fall 2020<br/>
+This class teaches basic bioinformatics and computational biology, with an emphasis on alignment, phylogeny, and ontologies. Supporting foundational topics are also reviewed with an emphasis on bioinformatics topics, including basic molecular biology, probability theory, and information theory.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Computational Molecular and Cell Biology:</span> Read More [+]</a></p>
+<div id="703" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> BioE 11 or Bio 1A (may be taken concurrently), plus a programming course (<span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span> or CS 61A)</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="BIO ENG C131">BIO ENG C131</span> after completing <span class="code_bubble" data-code-bubble="BIO ENG 131">BIO ENG 131</span>, <span class="code_bubble" data-code-bubble="BIO ENG C131">BIO ENG C131</span>, or <span class="code_bubble" data-code-bubble="BIO ENG C131">BIO ENG C131</span>. A deficient grade in <span class="code_bubble" data-code-bubble="BIO ENG C131">BIO ENG C131</span> may be removed by taking <span class="code_bubble" data-code-bubble="BIO ENG C131">BIO ENG C131</span>, or <span class="code_bubble" data-code-bubble="BIO ENG C131">BIO ENG C131</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Holmes</p><p><strong>Also listed as:</strong> BIO ENG C131</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Computational Molecular and Cell Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio156" data-toggle="#cb_cmpbio156">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 156</span> 
+<span class="title">Human Genome, Environment and Public Health</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio156">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Fall 2020, Spring 2019<br/>
+This introductory course will cover basic principles of human/population genetics and molecular biology relevant to molecular and genetic epidemiology. The latest methods for genome-wide association studies and other approaches to identify genetic variants and environmental risk factors important to disease and health will be presented. The application of biomarkers to define exposures and outcomes will be explored. Recent developments in genomics</span><span class="deschide">, epigenomics and other ‘omics’ will be included. Computer and wet laboratory work will provide hands-on experience.</span><br/>
+ <a href="" class="btn-readmore"><span>Human Genome, Environment and Public Health:</span> Read More [+]</a></p>
+<div id="737" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Introductory level biology/genetics course, or consent of instructor. Introductory biostatistics and epidemiology courses strongly recommended</p><p><strong>Credit Restrictions:</strong> Students who complete PBHLTH 256 or <span class="code_bubble" data-code-bubble="CMPBIO 156">CMPBIO 156</span> receive no credit for completing PBHLTH C256.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Barcellos, Holland</p></div>
+<p><a href="" class="btn-readless"><span>Human Genome, Environment and Public Health:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio175" data-toggle="#cb_cmpbio175">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 175</span> 
+<span class="title">Introduction to Computational Biology and Precision Medicine</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio175">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Prior to 2007<br/>
+Computational biology is an interdisciplinary field that develops and/or applies computational methods including bioinformatics to analyze large collections of biological data such as genomic data with a goal of making new predictions or discoveries. Precision medicine is an emerging approach for human disease treatment and prevention that takes into account individual variability in genes, environment, and lifestyle for each person. Computational biology and bioinformatics</span><span class="deschide"> tools are critical for advancing precision medicine. This survey course introduces computational tools for the analysis of genomic data and approaches to understanding and advancing precision medicine.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Computational Biology and Precision Medicine:</span> Read More [+]</a></p>
+<div id="281" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 6 weeks - 12 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Twelve hours of lecture per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Computational Biology and Precision Medicine:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbioc176" data-toggle="#cb_cmpbioc176">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO C176</span> 
+<span class="title">Algorithms for Computational Biology</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbioc176">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2022<br/>
+This course will provide familiarity with algorithms and probabilistic models that arise in various computational biology applications, such as suffix trees, suffix arrays, pattern matching, repeat finding, sequence alignment, phylogenetics, hidden Markov models, gene finding, motif finding, linear/logistic regression, random forests, convolutional neural networks, genome-wide association studies, pathogenicity prediction, and sequence-to-epigenome prediction.</span><br/>
+ <a href="" class="btn-readmore"><span>Algorithms for Computational Biology:</span> Read More [+]</a></p>
+<div id="661" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Understand the basic elements of molecular, cell, and evolutionary biology.<br/>
+Understand the key probabilistic and machine learning models used in computational biology applications.<br/>
+Understand various data structures and algorithms that arise in computational biology.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="COMPSCI 70">COMPSCI 70</span> and <span class="code_bubble" data-code-bubble="COMPSCI 170">COMPSCI 170</span>, <span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span> or <span class="code_bubble" data-code-bubble="EECS 16A">EECS 16A</span> or an equivalent linear algebra course</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="COMPSCI C176">COMPSCI C176</span> after completing <span class="code_bubble" data-code-bubble="COMPSCI 176">COMPSCI 176</span>. A deficient grade in <span class="code_bubble" data-code-bubble="COMPSCI C176">COMPSCI C176</span> may be removed by taking <span class="code_bubble" data-code-bubble="COMPSCI 176">COMPSCI 176</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Song, Yun, Ioannidis</p><p><strong>Also listed as:</strong> COMPSCI C176</p></div>
+<p><a href="" class="btn-readless"><span>Algorithms for Computational Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio198bc" data-toggle="#cb_cmpbio198bc">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 198BC</span> 
+<span class="title">Berkeley Connect in Computational Biology</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio198bc">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department</span><span class="deschide"> faculty and alumni, and go on field trips to campus resources. Students are not required to be declared majors in order to participate. Course may be repeated.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Berkeley Connect in Computational Biology:</span> Read More [+]</a></p>
+<div id="239" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit with advisor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p><p><strong>Instructor:</strong> Nielsen</p></div>
+<p><a href="" class="btn-readless"><span>Berkeley Connect in Computational Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio201" data-toggle="#cb_cmpbio201">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 201</span> 
+<span class="title">Classics in Computational Biology</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio201">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2015, Fall 2014, Fall 2013<br/>
+Research project and approaches in computational biology. An introducton to the diverse ways biological problems are investigated computationally through critical evaluation of the classics and recent peer-reviewed literature. This is the core course required of all Computational Biology graduate students.</span><br/>
+ <a href="" class="btn-readmore"><span>Classics in Computational Biology:</span> Read More [+]</a></p>
+<div id="257" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Acceptance in the Computational Biology Phd program; consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of Lecture and Two hours of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Classics in Computational Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbioc210" data-toggle="#cb_cmpbioc210">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO C210</span> 
+<span class="title">Introduction to Quantitative Methods In Biology</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbioc210">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+This course provides a fast-paced introduction to a variety of quantitative methods used in biology and their mathematical underpinnings. While no topic will be covered in depth, the course will provide an overview of several different topics commonly encountered in modern biological research including differential equations and systems of differential equations, a review of basic concepts in linear algebra, an introduction to probability</span><span class="deschide"> theory, Markov chains, maximum likelihood and Bayesian estimation, measures of statistical confidence, hypothesis testing and model choice, permutation and simulation, and several topics in statistics and machine learning including regression analyses, clustering, and principal component analyses.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Quantitative Methods In Biology:</span> Read More [+]</a></p>
+<div id="190" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Ability to calculate means and variances for a sample and relate it to expectations and variances of a random variable.<br/>
+Ability to calculate probabilities of discrete events using simple counting techniques, addition of probabilities of mutually exclusive events, multiplication of probabilities of independent events, the definition of conditional probability, the law of total probability, and Bayes’ formula, and familiarity with the use of such calculations to understand biological relationships.<br/>
+Ability to carry out various procedures for data visualization in R.<br/>
+Ability to classify states in discrete time Markov chains, and to calculate transition probabilities and stationary distributions for simple discrete time, finite state-space Markov chains, and an understanding of the modeling of evolutionary processes as Markov chains.<br/>
+Ability to define likelihood functions for simple examples based on standard random variables.<br/>
+Ability to implement simple statistical models in R and to use simple permutation procedures to quantify uncertainty.<br/>
+Ability to implement standard and logistic regression models with multiple covariates in R.<br/>
+Ability to manipulate matrices using multiplication and addition.<br/>
+Ability to model simple relationships between biological variables using differential equations.<br/>
+Ability to work in a Unix environment and manipulating files in Unix.<br/>
+An understanding of basic probability theory including some of the standard univariate random variables, such as the binomial, geometric, exponential, and normal distribution, and how these variables can be used to model biological systems.<br/>
+An understanding of powers of matrices and the inverse of a matrix.<br/>
+An understanding of sampling and sampling variance.<br/>
+An understanding of the principles used for point estimation, hypothesis testing, and the formation of confidence intervals and credible intervals.<br/>
+Familiarity with ANOVA and ability to implementation it in R.<br/>
+Familiarity with PCA, other methods of clustering, and their implementation in R.<br/>
+Familiarity with basic differential equations and their solutions.<br/>
+Familiarity with covariance, correlation, ordinary least squares, and interpretations of slopes and intercepts of a regression line.<br/>
+Familiarity with functional programming in R and/or Python and ability to define new functions.<br/>
+Familiarity with one or more methods used in machine learning/statistics such as hidden Markov models, CART, neural networks, and/or graphical models.<br/>
+Familiarity with python allowing students to understand simple python scripts.<br/>
+Familiarity with random effects models and ability to implement them in R.<br/>
+Familiarity with the assumptions of regression and methods for investigating the assumptions using R.<br/>
+Familiarity with the use of matrices to model transitions in a biological system with discrete categories.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Introductory calculus and introductory undergraduate statistics recommended</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="INTEGBI C201">INTEGBI C201</span> after completing INTEGBI 201. A deficient grade in <span class="code_bubble" data-code-bubble="INTEGBI C201">INTEGBI C201</span> may be removed by taking INTEGBI 201, or INTEGBI 201.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Integrative Biology 201</p><p><strong>Also listed as:</strong> INTEGBI C201</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Quantitative Methods In Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbioc231" data-toggle="#cb_cmpbioc231">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO C231</span> 
+<span class="title">Introduction to Computational Molecular and Cell Biology</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbioc231">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021, Fall 2020<br/>
+This class teaches basic bioinformatics and computational biology, with an emphasis on alignment, phylogeny, and ontologies. Supporting foundational topics are also reviewed with an emphasis on bioinformatics topics, including basic molecular biology, probability theory, and information theory.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Computational Molecular and Cell Biology:</span> Read More [+]</a></p>
+<div id="734" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="BIO ENG 11">BIO ENG 11</span> or <span class="code_bubble" data-code-bubble="BIOLOGY 1A">BIOLOGY 1A</span> (may be taken concurrently); and a programming course (<span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span> or <span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI 61A</span>)</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="BIO ENG C231">BIO ENG C231</span> after completing <span class="code_bubble" data-code-bubble="BIO ENG 231">BIO ENG 231</span>. A deficient grade in <span class="code_bubble" data-code-bubble="BIO ENG C231">BIO ENG C231</span> may be removed by taking <span class="code_bubble" data-code-bubble="BIO ENG 231">BIO ENG 231</span>, or <span class="code_bubble" data-code-bubble="BIO ENG 231">BIO ENG 231</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Holmes</p><p><strong>Also listed as:</strong> BIO ENG C231</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Computational Molecular and Cell Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbioc256" data-toggle="#cb_cmpbioc256">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO C256</span> 
+<span class="title">Human Genome, Environment and Public Health</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbioc256">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Fall 2020, Spring 2019<br/>
+This introductory course will cover basic principles of human/population genetics and molecular biology relevant to molecular and genetic epidemiology. The latest methods for genome-wide association studies and other approaches to identify genetic variants and environmental risk factors important to disease and health will be presented. The application of biomarkers to define exposures and outcomes will be explored. Recent developments in genomics</span><span class="deschide">, epigenomics and other ‘omics’ will be included. Computer and wet laboratory work will provide hands-on experience.</span><br/>
+ <a href="" class="btn-readmore"><span>Human Genome, Environment and Public Health:</span> Read More [+]</a></p>
+<div id="608" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Introductory level biology/genetics course, or consent of instructor. Introductory biostatistics and epidemiology courses strongly recommended</p><p><strong>Credit Restrictions:</strong> Students who complete <span class="code_bubble" data-code-bubble="PB HLTH 256">PB HLTH 256</span> receive no credit for completing PH C256.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Barcellos, Holland</p><p><strong>Also listed as:</strong> PB HLTH C256</p></div>
+<p><a href="" class="btn-readless"><span>Human Genome, Environment and Public Health:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbioc256a" data-toggle="#cb_cmpbioc256a">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO C256A</span> 
+<span class="title">Human Genome, Environment and Human Health</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbioc256a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2017<br/>
+This introductory course will cover basic principles of human/population genetics and molecular biology<br/>
+relevant to understanding how data from the human genome are being used to study disease and other<br/>
+health outcomes. The latest designs and methods for genome-wide association studies and other<br/>
+approaches to identify genetic variants, environmental risk factors and the combined effects of gene and<br/>
+environment important to disease and health will</span><span class="deschide"> be presented. The application of biomarkers to define<br/>
+exposures and outcomes will be explored. The course will cover recent developments in genomics,<br/>
+epigenomics and other ‘omics’, including applications of the latest sequencing technology and<br/>
+characterization of the human microbiome.</span><br/>
+ <a href="" class="btn-readmore"><span>Human Genome, Environment and Human Health:</span> Read More [+]</a></p>
+<div id="838" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Introductory level biology course. Completion of introductory biostatistics and epidemiology courses strongly recommended and may be taken concurrently</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Barcellos, Holland</p><p><strong>Also listed as:</strong> PB HLTH C256A</p></div>
+<p><a href="" class="btn-readless"><span>Human Genome, Environment and Human Health:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbioc256b" data-toggle="#cb_cmpbioc256b">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO C256B</span> 
+<span class="title">Genetic Analysis Method</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbioc256b">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Prior to 2007<br/>
+This introductory course will provide hands-on experience with modern wet laboratory techniques and computer analysis tools for studies in molecular and genetic epidemiology and other areas of genomics in human health. Students will also participate in critical review of journal articles. Students are expected to understand basic principles of human/population genetics and molecular biology, latest designs and methods for genome-wide association studies and other</span><span class="deschide"> approaches to identify genetic variants, environmental risk factors and the combined effects of gene and environment important to human health. Students will learn how to perform DNA extraction, polymerase chain reaction and methods for genotyping, sequencing, and cytogenetics.</span><br/>
+ <a href="" class="btn-readmore"><span>Genetic Analysis Method:</span> Read More [+]</a></p>
+<div id="616" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Introductory level biology course. Completion of introductory biostatistics and epidemiology courses strongly recommended and may be taken concurrently with permission. PH256A is a requirement for PH256B; they can be taken concurrently</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2-2 hours of lecture and 1-3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture and one to three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Barcellos, Holland</p><p><strong>Also listed as:</strong> PB HLTH C256B</p></div>
+<p><a href="" class="btn-readless"><span>Genetic Analysis Method:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio275" data-toggle="#cb_cmpbio275">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 275</span> 
+<span class="title">Computational Biology Seminar/Journal Club</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio275">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Fall 2022, Spring 2022<br/>
+This seminar course will cover a wide range of topics in the field of computational biology. The main goals of the course are to expose students to cutting edge research in the field and to prepare students for engaging in academic discourse with seminar speakers - who are often leaders in their fields. A selected number of class meetings will be devoted to the review of scientific papers published by upcoming seminar speakers and the other class</span><span class="deschide"> meetings will be devoted to discussing other related articles in the field. The seminar will expose students to both the breadth and highest standards of current computational biology research.</span><br/>
+ <a href="" class="btn-readmore"><span>Computational Biology Seminar/Journal Club:</span> Read More [+]</a></p>
+<div id="964" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Computational Biology Seminar/Journal Club:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio276" data-toggle="#cb_cmpbio276">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 276</span> 
+<span class="title">Algorithms for Computational Biology</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio276">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Fall 2022<br/>
+This course will provide familiarity with algorithms and probabilistic models that arise in various computational biology applications, such as suffix trees, suffix arrays, pattern matching, repeat finding, sequence alignment, phylogenetics, hidden Markov models, gene finding, motif finding, linear/logistic regression, random forests, convolutional neural networks, genome-wide association studies, pathogenicity prediction, and sequence-to-epigenome predi</span><span class="deschide">ction.</span><br/>
+ <a href="" class="btn-readmore"><span>Algorithms for Computational Biology:</span> Read More [+]</a></p>
+<div id="565" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> CompSci 70 AND CompSci 170, <span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span> OR EECS 16A OR an equivalent linear algebra course</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Song, Ioannidis</p></div>
+<p><a href="" class="btn-readless"><span>Algorithms for Computational Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio290" data-toggle="#cb_cmpbio290">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 290</span> 
+<span class="title">Special Topics - Computational Biology</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio290">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2022, Fall 2021, Spring 2018<br/>
+This graduate-level course will cover various special topics in computational biology and the theme will vary from semester to semester. The course will focus on computational methodology, but also cover relevant biological applications. This course will be offered according to student demand and faculty availability.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics - Computational Biology:</span> Read More [+]</a></p>
+<div id="555" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing in EECS, MCB, Computational Biology or related fields; or consent of the instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> One to three hours of lecture per week for standard offering. In some instances, condensed special topics classes running from 2-10 weeks may also be offered usually to accommodate guest instructors. Total works hours will remain the same but more work in a given week will be required.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics - Computational Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio293" data-toggle="#cb_cmpbio293">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 293</span> 
+<span class="title">Doctoral Seminar in Computational Biology</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio293">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Spring 2022<br/>
+This interactive seminar builds skills, knowledge and community in computational biology for first year PhD and second year Designated Emphasis students. Topics covered include concepts in human genetics/genomics, microbiome data analysis, laboratory methodologies and data sources for computational biology, workshops/instruction on use of various bioinformatics tools, critical review of current research studies and computational methods, preparation</span><span class="deschide"> for success in the PhD program and career development. Faculty members of the graduate program in computational biology and scientists from other institutions will participate. Topics will vary each semester.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Doctoral Seminar in Computational Biology:</span> Read More [+]</a></p>
+<div id="565" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Doctoral Seminar in Computational Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbioc293" data-toggle="#cb_cmpbioc293">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO C293</span> 
+<span class="title">Doctoral Seminar in Computational Biology</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbioc293">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2022, Fall 2021, Fall 2019<br/>
+This interactive seminar builds skills, knowledge and community in computational biology for first year PhD and second year Designated Emphasis students. Topics covered include concepts in human genetics/genomics, microbiome data analysis, laboratory methodologies and data sources for computational biology, workshops/instruction on use of various bioinformatics tools, critical review of current research studies and computational methods, preparation</span><span class="deschide"> for success in the PhD program and career development. Faculty members of the graduate program in computational biology and scientists from other institutions will participate. Topics will vary each semester.</span><br/>
+ <a href="" class="btn-readmore"><span>Doctoral Seminar in Computational Biology:</span> Read More [+]</a></p>
+<div id="668" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Moorjani, Rokhsar</p><p><strong>Also listed as:</strong> MCELLBI C296</p></div>
+<p><a href="" class="btn-readless"><span>Doctoral Seminar in Computational Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio294a" data-toggle="#cb_cmpbio294a">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 294A</span> 
+<span class="title">Introduction to Research in Computational Biology</span> 
+<span class="hours">2 - 12 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio294a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+Closely supervised experimental or computational work under the direction of an individual faculty member; an introduction to methods and research approaches in particular areas of computational biology.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Research in Computational Biology:</span> Read More [+]</a></p>
+<div id="148" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Standing as a Computational Biology graduate student</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2-20 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Two to Twenty hours of Laboratory per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Research in Computational Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio294b" data-toggle="#cb_cmpbio294b">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 294B</span> 
+<span class="title">Introduction to Research in Computational Biology</span> 
+<span class="hours">2 - 12 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio294b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+Closely supervised experimental or computational work under the direction of an individual faculty member; an introduction to methods and research approaches in particular areas of computational biology.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Research in Computational Biology:</span> Read More [+]</a></p>
+<div id="116" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Standing as a Computational Biology graduate student</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2-20 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Two to Twenty hours of Laboratory per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Research in Computational Biology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio295" data-toggle="#cb_cmpbio295">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 295</span> 
+<span class="title">Individual Research for Doctoral Students</span> 
+<span class="hours">1 - 12 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio295">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2023 10 Week Session, Summer 2022 10 Week Session, Summer 2021 10 Week Session<br/>
+Laboratory research, conferences. Individual research under the supervision of a faculty member.</span><br/>
+ <a href="" class="btn-readmore"><span>Individual Research for Doctoral Students:</span> Read More [+]</a></p>
+<div id="807" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Acceptance in the Computational Biology PhD program; consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-20 hours of laboratory per week</p><p><strong>Summer:</strong> 10 weeks - 1.5-30 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> One to twenty hours of laboratory per week. One and one-half to thirty hours of laboratory per week for 10 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Individual Research for Doctoral Students:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cmpbio477" data-toggle="#cb_cmpbio477">
+<h3 class="courseblocktitle">
+<span class="code">CMPBIO 477</span> 
+<span class="title">Introduction to Programming for Bioinformatics Bootcamp</span> 
+<span class="hours">1.5 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cmpbio477">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Prior to 2007<br/>
+The goals of this course are to introduce students to Python, a simple and powerful programming language that is used for many applications, and to expose them to the practical bioinformatic utility of Python and programming in general. The course will allow students to apply programming to the problems that they face in the lab and to leave this course with a sufficiently generalized knowledge of programming (and the confidence to read the manuals) that they will</span><span class="deschide"> be able to apply their skills to whatever projects they happen to be working on.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Programming for Bioinformatics Bootcamp:</span> Read More [+]</a></p>
+<div id="497" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> This is a graduate course and upper level undergraduate students can only enroll with the consent of the instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 3 weeks - 40-40 hours of workshop per week</p><!--<p class=""><strong>Additional Format:</strong> Organized as a bootcamp, the ten-day course will include two sessions daily, each consisting of roughly two hours of lecture and up to three hours of hands on exercises.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Biology/Other professional</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Programming for Bioinformatics Bootcamp:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

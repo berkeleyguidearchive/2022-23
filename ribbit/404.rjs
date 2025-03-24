@@ -1,0 +1,94 @@
+%pragma format=custom
+
+(function(){
+
+	/* 
+	 * Redirect web requests, e.g., for pages that have moved.
+	 * Requires ribbit 9.2.79 or later.
+	 * Controlled by /admin/404-redirects/
+	 * General content of the 404 page can be edited at /admin/404-not-found/
+	 * Documentation at:
+	 * https://internal.leepfrog.com/courseleaf/feature-manifest/not-found-handler/
+	 *
+	 * TODO:
+	 * Limit keyword search to number of words found
+	 */
+
+	'use strict';
+	var work_str, html = "";
+	var db = "fsinjector";
+	var target = getenv("REDIRECT_URL");
+	if (!target)
+		target = http.target;
+	var infile = fopen("404-not-found.html");
+	if (!infile)
+		print_debug("could not open /ribbit/404-not-found.html\n");
+	else {
+		while (work_str = fgets(infile), !feof(infile)) {
+			html += work_str + "\n";
+		}
+	}
+	var ret = dbexec(db, "CREATE TABLE IF NOT EXISTS redirects " +
+		"(key INTEGER PRIMARY KEY AUTOINCREMENT, oldpath TEXT, newpath TEXT );");
+	if (!target) {
+		// If there is not REDIRECT_URL set it means someone visited
+		// /ribbit/?page=404.rjs directly, probably to initialize the DB table
+		print_doc("Status: 200\n");
+		print_doc("Content-type: text/html\n\n");
+		if (!ret)
+			print_doc("<p>" + dberr(db) + "</p>\n");
+		else if (ret.sqlcount > 0) {
+			print_doc('<p><a href="/admin/404-redirects">Redirects table</a> ' +
+				'initialized.</p>\n');
+		}
+		else {
+			print_doc('<p><a href="/admin/404-redirects">Redirects table</a> ' +
+				'exists.</p>\n');
+		}
+		return;
+	}
+	var parts = target.split('#');
+	var oldpath = parts[0];
+	var anchor = parts[1];
+	oldpath = oldpath.replace(/\/?(index\.html)?$/, '');
+	var redirect = dbquery(db,
+			"select newpath from redirects where oldpath = ? OR oldpath = ?",
+			[oldpath, oldpath + '/']);
+	if (redirect && redirect.length) {
+		var newpath = redirect[0].newpath;
+		if (anchor)
+			newpath += '#' + anchor;
+		print_doc("Status: 301\n");
+		print_doc("Location: " + newpath + "\n");
+		print_doc("Content-type: text/plain\n\n");
+		print_doc("This has moved to " + newpath + "\n");
+	} else {
+		print_doc("Content-type: text/html\n\n");
+		var results = dbquery(db,
+			"select fsearch.title, path, leeprank(matchinfo(fsearchtext)) as rank " +
+				"from fsearchtext join fsearch on docid = key " +
+				"where fsearchtext match ? and path is not null " +
+				"order by rank desc, fsearch.title " +
+				"limit 21", [oldpath.replace(/\W/g, ' ')]);
+		if (!results)
+			print_debug("Cannot search fsearch: " + dberr(db) + "\n");
+		var suggestions = [];
+		if (results) {
+			// Only suggest highest ranks
+			results.forEach(function(result) {
+				suggestions.push('<li><a href="' + result.path + '">' +
+					escxml(result.title) + '</a></li>');
+			});
+		}
+		html = html.replace(/\{target\}/g, escxml(target));
+		if (suggestions.length) {
+			html = html.replace(/\{suggestions\}/g,
+					'<p class="suggestions">Similar pages:<ul>' +
+					suggestions.join('\n') + '\n</ul>\n</p>');
+		} else {
+			html = html.replace(/\{suggestions\}/g, '');
+		}
+		print_doc(html);
+	}
+
+})();

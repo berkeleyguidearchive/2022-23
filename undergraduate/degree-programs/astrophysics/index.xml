@@ -1,0 +1,808 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Astrophysics</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<abouttheprogramtext name="About the Program">
+<![CDATA[
+<h3>Bachelor of Arts (BA)</h3>
+<p>The Department of Astronomy offers an undergraduate major and minor in Astrophysics. This program prepares students for astrophysics graduate work or other advanced degrees in related science and engineering fields. It also prepares students for careers in teaching or for working in data science, the tech industry, and other technical fields.</p>
+<h3>Declaring the Major</h3>
+<p>Students can apply to declare the major after completing all lower division requirements (see major requirements tab). For applicants with prerequisites in progress, applications will be reviewed after the grades for all prerequisites are available. All the courses applied to the astrophysics major must be taken for a letter grade. A minimum grade point average of 2.0 is required for all prerequisites as well as for upper-division courses used for the major.  Additional information including a list of required courses, electives and forms to complete prior declaring can be found on our website <a href="https://astro.berkeley.edu/programs/undergraduate-program/" target="_blank">here</a>.</p>
+<h3>Minor Program</h3>
+<p>The Department of Astronomy offers a minor program in Astrophysics.  <span>All courses applied to the astrophysics minor must be taken for a letter grade. A</span><span> minimum grade point average of 2.0 is required for the lower-division minor requirements as well as for the five upper-division courses used for the minor.  Only one upper-division class may overlap between your major and the Astrophysics Minor. Students must complete the College of Letters and Science </span><a href="https://ls.berkeley.edu/sites/default/files/minor.2019.pdf">Completion of L&amp;S Minor form</a>. </p>
+]]>
+</abouttheprogramtext>
+<majorrequirementstext name="Major Requirements">
+<![CDATA[
+<p>In addition to the University, campus, and college requirements, listed on the College Requirements tab, students must fulfill the below requirements specific to their major program.</p>
+<h3>General Guidelines</h3>
+<ul>
+	<li>All courses taken to fulfill the major requirements below must be taken for graded credit. Exception will be made for coursework taken between Spring 2020 and Summer 2021.</li>
+	<li>Only one upper division course may be used to simultaneously fulfill requirements for a student's major and minor programs, with the exception of minors offered outside of the College of Letters &amp; Science. Only two upper-division courses can overlap between two majors.</li>
+	<li>A minimum grade point average (GPA) of 2.0 must be maintained in both upper and lower division courses used to fulfill the major requirements.</li>
+</ul>
+<p>For information regarding residency requirements and unit requirements, please see the College Requirements tab.</p>
+<h3>Lower Division Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span></td><td>Multivariable Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></td><td>Linear Algebra and Differential Equations <sup>1</sup></td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="PHYSICS 89">PHYSICS 89</span></td><td colspan="2"> Introduction to Mathematical Physics</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="PHYSICS 5A">PHYSICS 5A</span></td><td colspan="2"> Introductory Mechanics and Relativity</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Or <span class="code_bubble" data-code-bubble="PHYSICS 5B">PHYSICS 5B</span> and <span class="code_bubble" data-code-bubble="PHYSICS 5BL">PHYSICS 5BL</span></span></div></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7C">PHYSICS 7C</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="even lastrow"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Or <span class="code_bubble" data-code-bubble="PHYSICS 5C">PHYSICS 5C</span> and <span class="code_bubble" data-code-bubble="PHYSICS 5CL">PHYSICS 5CL</span></span></div></td><td class="hourscol"/></tr>
+</tbody></table>
+
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent"> If you are planning to double major with Physics, We recommend <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="PHYSICS 89">PHYSICS 89</span></span></p></dd></dl>
+<h3>Upper Division Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Optional:</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">These courses are not required but strongly recommended for anyone considering the Astrophysics major. Please consult with the Undergraduate Adviser.</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 7A">ASTRON 7A</span></div></td><td>Introduction to Astrophysics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 7B">ASTRON 7B</span></div></td><td>Introduction to Astrophysics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 88">PHYSICS 88</span></div></td><td>Data Science Applications in Physics [2]</td><td class="hourscol"/></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Or <span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI 61A</span></span></div></td><td class="hourscol"/></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Or <span class="code_bubble" data-code-bubble="PHYSICS 77">PHYSICS 77</span> </span></div></td><td class="hourscol"/></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Required (choose one of the following):</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 120">ASTRON 120</span></div></td><td>Optical and Infrared Astronomy Laboratory [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 121">ASTRON 121</span></div></td><td>Radio Astronomy Laboratory [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 128">ASTRON 128</span></div></td><td>Astronomy Data Science Laboratory [4]</td><td class="hourscol"/></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Required (choose two of the following):</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 160">ASTRON 160</span></div></td><td>Stellar Physics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON C161">ASTRON C161</span></div></td><td>Relativistic Astrophysics and Cosmology [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON C162">ASTRON C162</span></div></td><td>Planetary Astrophysics [4]</td><td class="hourscol"/></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Required (as needed):</span></td><td class="hourscol"/></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Upper division electives so that the total is 30 units for a single major and 24 units for a double major.</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 104A">CHEM 104A</span></div></td><td>Advanced Inorganic Chemistry [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 104B">CHEM 104B</span></div></td><td>Advanced Inorganic Chemistry [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 105">CHEM 105</span></div></td><td>Instrumental Methods in Analytical Chemistry [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 108">CHEM 108</span></div></td><td>Inorganic Synthesis and Reactions [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 12A">CHEM 12A</span></div></td><td>Organic Chemistry [5]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 12B">CHEM 12B</span></div></td><td>Organic Chemistry [5]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 120A">CHEM 120A</span></div></td><td>Physical Chemistry [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 120B">CHEM 120B</span></div></td><td>Physical Chemistry [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 122">CHEM 122</span></div></td><td>Quantum Mechanics and Spectroscopy [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 125">CHEM 125</span></div></td><td>Physical Chemistry Laboratory [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 143">CHEM 143</span></div></td><td>Nuclear Chemistry [2]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 160">COMPSCI 160</span></div></td><td>User Interface Design and Development [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 164">COMPSCI 164</span></div></td><td>Programming Languages and Compilers [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 169">COMPSCI 169</span></div></td><td>Software Engineering [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 184">COMPSCI 184</span></div></td><td>Foundations of Computer Graphics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 186">COMPSCI 186</span></div></td><td>Introduction to Database Systems [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 188">COMPSCI 188</span></div></td><td>Introduction to Artificial Intelligence [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 189">COMPSCI 189</span></div></td><td>Introduction to Machine Learning [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EECS 120">EECS 120</span></div></td><td>Course Not Available</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EECS 150">EECS 150</span></div></td><td>Course Not Available</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EPS 108">EPS 108</span></div></td><td>Geodynamics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EPS 109">EPS 109</span></div></td><td>Computer Simulations with Jupyter Notebooks [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EPS 122">EPS 122</span></div></td><td>Physics of the Earth and Planetary Interiors [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EPS C181">EPS C181</span></div></td><td>Atmospheric Physics and Dynamics [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 104">MATH 104</span></div></td><td>Introduction to Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 110">MATH 110</span></div></td><td>Linear Algebra [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 113">MATH 113</span></div></td><td>Introduction to Abstract Algebra [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 121A">MATH 121A</span></div></td><td>Mathematical Tools for the Physical Sciences [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 121B">MATH 121B</span></div></td><td>Mathematical Tools for the Physical Sciences [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 128A">MATH 128A</span></div></td><td>Numerical Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 128B">MATH 128B</span></div></td><td>Numerical Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 160">MATH 160</span></div></td><td>History of Mathematics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 185">MATH 185</span></div></td><td>Introduction to Complex Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="NUC ENG 100">NUC ENG 100</span></div></td><td>Introduction to Nuclear Energy and Technology [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 105">PHYSICS 105</span></div></td><td>Analytic Mechanics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 110A">PHYSICS 110A</span></div></td><td>Electromagnetism and Optics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 110B">PHYSICS 110B</span></div></td><td>Electromagnetism and Optics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 111A">PHYSICS 111A</span></div></td><td>Instrumentation Laboratory [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 111B">PHYSICS 111B</span></div></td><td>Advanced Experimentation Laboratory [1-3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 112">PHYSICS 112</span></div></td><td>Introduction to Statistical and Thermal Physics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 129">PHYSICS 129</span></div></td><td>Particle Physics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 137A">PHYSICS 137A</span></div></td><td>Quantum Mechanics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 137B">PHYSICS 137B</span></div></td><td>Quantum Mechanics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 139">PHYSICS 139</span></div></td><td>Special Relativity and General Relativity [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 141A">PHYSICS 141A</span></div></td><td>Solid State Physics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 141B">PHYSICS 141B</span></div></td><td>Solid State Physics [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 142">PHYSICS 142</span></div></td><td>Introduction to Plasma Physics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 151">PHYSICS 151</span></div></td><td>Elective Physics: Special Topics [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span></div></td><td>Concepts of Probability [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 135">STAT 135</span></div></td><td>Concepts of Statistics [4]</td><td class="hourscol"/></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 153">STAT 153</span></div></td><td>Introduction to Time Series [4]</td><td class="hourscol"/></tr>
+</tbody></table>
+
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent"> <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="ASTRON 7A">ASTRON 7A</span></span> and <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="ASTRON 7B">ASTRON 7B</span></span> are recommended prerequisites for all upper division courses.</p></dd><dt> <sup> 2 </sup> </dt><dd start-indent="3%"><p class="noindent"> The 30 unit requirement (or 24 units for double majors with another major) is the sum of astronomy upper division courses and the electives.</p></dd></dl>
+]]>
+</majorrequirementstext>
+<minorrequirementstext name="Minor Requirements">
+<![CDATA[
+<p>Students who have a strong interest in an area of study outside their major often decide to complete a minor program. These programs have set requirements and are noted officially on the transcript in the memoranda section, but are not noted on diplomas.</p>
+<h3>General Guidelines</h3>
+<ul>
+	<li>All courses taken to fulfill the minor requirements below must be taken for graded credit.</li>
+	<li>A minimum of three of the upper division courses taken to fulfill the minor requirements must be completed at UC Berkeley.</li>
+	<li>A minimum grade point average (GPA) of 2.0 is required for courses used to fulfill the minor requirements.</li>
+	<li>Courses used to fulfill the minor requirements may be applied toward the Seven-Course Breadth requirement, for Letters &amp; Science students.</li>
+	<li>Only one upper division course may be used to simultaneously fulfill requirements for a student's major and minor programs.</li>
+	<li>All minor requirements must be completed prior to the last day of finals during the semester in which you plan to graduate. If you cannot finish all courses required for the minor by that time, please see a College of Letters &amp; Science adviser.</li>
+	<li>All minor requirements must be completed within the unit ceiling. (For further information regarding the unit ceiling, please see the College Requirements tab)</li>
+</ul>
+<h3>Lower Division Minor Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span></td><td>Multivariable Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></td><td>Linear Algebra and Differential Equations</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7C">PHYSICS 7C</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+<h3>Upper Division Minor Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Optional:</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">The following are recommended for the minor, but are not required.</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 7A">ASTRON 7A</span></div></td><td>Introduction to Astrophysics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 7B">ASTRON 7B</span></div></td><td>Introduction to Astrophysics [4]</td><td class="hourscol"/></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Required (choose two of the following):</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 120">ASTRON 120</span></div></td><td>Optical and Infrared Astronomy Laboratory [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 121">ASTRON 121</span></div></td><td>Radio Astronomy Laboratory [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 128">ASTRON 128</span></div></td><td>Astronomy Data Science Laboratory [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON 160">ASTRON 160</span></div></td><td>Stellar Physics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON C161">ASTRON C161</span></div></td><td>Relativistic Astrophysics and Cosmology [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="ASTRON C162">ASTRON C162</span></div></td><td>Planetary Astrophysics [4]</td><td class="hourscol"/></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Required (choose three of the following electives):</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 104A">CHEM 104A</span></div></td><td>Advanced Inorganic Chemistry [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 104B">CHEM 104B</span></div></td><td>Advanced Inorganic Chemistry [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 105">CHEM 105</span></div></td><td>Instrumental Methods in Analytical Chemistry [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 108">CHEM 108</span></div></td><td>Inorganic Synthesis and Reactions [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 12A">CHEM 12A</span></div></td><td>Organic Chemistry [5]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 12B">CHEM 12B</span></div></td><td>Organic Chemistry [5]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 120A">CHEM 120A</span></div></td><td>Physical Chemistry [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 120B">CHEM 120B</span></div></td><td>Physical Chemistry [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 122">CHEM 122</span></div></td><td>Quantum Mechanics and Spectroscopy [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 125">CHEM 125</span></div></td><td>Physical Chemistry Laboratory [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="CHEM 143">CHEM 143</span></div></td><td>Nuclear Chemistry [2]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EPS 108">EPS 108</span></div></td><td>Geodynamics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EPS 109">EPS 109</span></div></td><td>Computer Simulations with Jupyter Notebooks [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EPS 122">EPS 122</span></div></td><td>Physics of the Earth and Planetary Interiors [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="EPS C181">EPS C181</span></div></td><td>Atmospheric Physics and Dynamics [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 160">COMPSCI 160</span></div></td><td>User Interface Design and Development [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 164">COMPSCI 164</span></div></td><td>Programming Languages and Compilers [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 169">COMPSCI 169</span></div></td><td>Software Engineering [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 184">COMPSCI 184</span></div></td><td>Foundations of Computer Graphics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 186">COMPSCI 186</span></div></td><td>Introduction to Database Systems [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 188">COMPSCI 188</span></div></td><td>Introduction to Artificial Intelligence [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 189">COMPSCI 189</span></div></td><td>Introduction to Machine Learning [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 104">MATH 104</span></div></td><td>Introduction to Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 110">MATH 110</span></div></td><td>Linear Algebra [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 113">MATH 113</span></div></td><td>Introduction to Abstract Algebra [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 121A">MATH 121A</span></div></td><td>Mathematical Tools for the Physical Sciences [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 121B">MATH 121B</span></div></td><td>Mathematical Tools for the Physical Sciences [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 128A">MATH 128A</span></div></td><td>Numerical Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 128B">MATH 128B</span></div></td><td>Numerical Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 160">MATH 160</span></div></td><td>History of Mathematics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 185">MATH 185</span></div></td><td>Introduction to Complex Analysis [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="NUC ENG 100">NUC ENG 100</span></div></td><td>Introduction to Nuclear Energy and Technology [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 105">PHYSICS 105</span></div></td><td>Analytic Mechanics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 110A">PHYSICS 110A</span></div></td><td>Electromagnetism and Optics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 110B">PHYSICS 110B</span></div></td><td>Electromagnetism and Optics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 111A">PHYSICS 111A</span></div></td><td>Instrumentation Laboratory [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 111B">PHYSICS 111B</span></div></td><td>Advanced Experimentation Laboratory [1-3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 112">PHYSICS 112</span></div></td><td>Introduction to Statistical and Thermal Physics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 129">PHYSICS 129</span></div></td><td>Particle Physics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 137A">PHYSICS 137A</span></div></td><td>Quantum Mechanics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 137B">PHYSICS 137B</span></div></td><td>Quantum Mechanics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 139">PHYSICS 139</span></div></td><td>Special Relativity and General Relativity [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 141A">PHYSICS 141A</span></div></td><td>Solid State Physics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 141B">PHYSICS 141B</span></div></td><td>Solid State Physics [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 142">PHYSICS 142</span></div></td><td>Introduction to Plasma Physics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="PHYSICS 151">PHYSICS 151</span></div></td><td>Elective Physics: Special Topics [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span></div></td><td>Concepts of Probability [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 135">STAT 135</span></div></td><td>Concepts of Statistics [4]</td><td class="hourscol"/></tr>
+<tr class="even lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 153">STAT 153</span></div></td><td>Introduction to Time Series [4]</td><td class="hourscol"/></tr>
+</tbody></table>
+
+]]>
+</minorrequirementstext>
+<collegerequirementstext name="College Requirements">
+<![CDATA[
+ <p>Undergraduate students must fulfill the following requirements in addition to those required by their major program.</p> <p>For detailed lists of courses that fulfill college requirements, please review the <a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/">College of Letters &amp; Sciences</a> page in this Guide. For College advising appointments, please visit the <a href="https://lsadvising.berkeley.edu/home">L&amp;S Advising</a> Pages. </p> <h3>University of California Requirements</h3> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/entry-level-writing-requirement/"><span id="docs-internal-guid-82322469-d403-b6fc-99fe-5be6e0865dad">Entry Level Writing</span></a></h5> <p><span id="docs-internal-guid-82322469-d403-c602-c395-1fb0f53c604b">All students who will enter the University of California as freshmen must demonstrate their command of the English language by fulfilling the Entry Level Writing requirement. Fulfillment of this requirement is also a prerequisite to enrollment in all reading and composition courses at UC Berkeley. </span></p> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/american-history-institutions-requirement/"><span id="docs-internal-guid-82322469-d403-ed90-bc30-8e7c7e9092f7">American History and American Institutions</span></a></h5> <p><span id="docs-internal-guid-82322469-d403-fe3e-933e-7102e097ef4b">The American History and Institutions requirements are based on the principle that a US resident graduated from an American university, should have an understanding of the history and governmental institutions of the United States.</span></p> <h3><span>Berkeley Campus Requirement</span></h3> <h5><a href="http://americancultures.berkeley.edu/students/courses"><span id="docs-internal-guid-82322469-d404-3abc-dc51-fc563caacff1">American Cultures</span></a></h5> <p><span id="docs-internal-guid-82322469-d404-47e1-1ad4-b918d33461cf">All undergraduate students at Cal need to take and pass this course in order to graduate. The requirement offers an exciting intellectual environment centered on the study of race, ethnicity and culture of the United States. AC courses offer students opportunities to be part of research-led, highly accomplished teaching environments, grappling with the complexity of American Culture.</span></p> <h3><span>College of Letters &amp; Science Essential Skills Requirements</span></h3> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/quantitative-reasoning-requirement/"><span id="docs-internal-guid-82322469-d404-a7b1-d295-ee03b476bcfe">Quantitative Reasoning</span></a></h5> <p><span id="docs-internal-guid-82322469-d404-cbac-1c7a-d74abefae398">The Quantitative Reasoning requirement is designed to ensure that students graduate with basic understanding and competency in math, statistics, or computer science. The requirement may be satisfied by exam or by taking an approved course.</span></p> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/foreign-language-requirement/"><span id="docs-internal-guid-82322469-d404-ff23-6ff3-47abec092456">Foreign Language</span></a></h5> <p><span id="docs-internal-guid-82322469-d405-12d9-db19-1b37f6639ef7">The Foreign Language requirement may be satisfied by demonstrating proficiency in reading comprehension, writing, and conversation in a foreign language equivalent to the second semester college level, either by passing an exam or by completing approved course work.</span></p> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/reading-composition-requirement/"><span id="docs-internal-guid-82322469-d405-3e15-2491-27223f91e87d">Reading and Composit</span>ion</a></h5> <p><span id="docs-internal-guid-82322469-d405-4ef4-4b87-0d26195a0d3c">In order to provide </span>a solid foundation in reading, writing, and critical thinking the College requires two semesters of lower division work in composition in sequence. Students must complete parts A &amp; B reading and composition courses in sequential order by the end of their fourth semester.</p> <h3>College of Letters &amp; Science 7 Course Breadth Requirements</h3> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/#breadthrequirementstext"><span id="docs-internal-guid-79a9fe70-d405-7c7e-e34f-837b91cc1d58">Breadth Requirements</span></a></h5> <p><span id="docs-internal-guid-82322469-d405-9db4-c30e-bca05ecf44f3">The undergraduate breadth requirements provide Berkeley students with a rich and varied educational experience outside of their major program. As the foundation of a liberal arts education, breadth courses give students a view into the intellectual life of the University while introducing them to a multitude of perspectives and approaches to research and scholarship. Engaging students in new disciplines and with peers from other majors, the breadth experience strengthens interdisciplinary connections and context that prepares Berkeley graduates to understand and solve the complex issues of their day.</span></p> <h3><span id="docs-internal-guid-abca8c8f-d405-c4ad-0be7-1638c654345c">Unit Requirements</span></h3> <ul> 	<li> 	<p>120 total units</p> 	</li> 	<li> 	<p>Of the 120 units, 36 must be upper division units</p> 	</li> 	<li>Of the 36 upper division units, 6 must be taken in courses offered outside your major department</li> </ul> <h5><span id="docs-internal-guid-2bb674c5-d406-43a4-39ed-40d6e86d6760">Residence Requirements</span></h5> <p><span id="docs-internal-guid-82322469-d406-8d38-492a-067b2e0bac2d">For units to be considered in &quot;residence,&quot; you must be registered in courses on the Berkeley campus as a student in the College of Letters &amp; Science. Most students automatically fulfill the residence requirement by attending classes here for four years. In general, there is no need to be concerned about this requirement, unless you go abroad for a semester or year or want to take courses at another institution or through UC Extension during your senior year. In these cases, you should make an appointment to meet an adviser to determine how you can meet the Senior Residence Requirement.</span></p> <p><span id="docs-internal-guid-82322469-d406-a2e5-35d5-82895d287218">Note: Courses taken through UC Extension do not count toward residence.</span></p> <h5><span id="docs-internal-guid-44b2bced-d406-cb13-a0f5-0c6f75ed8972">Senior Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d406-e3bd-f620-e9bef1331f97">After you become a senior (with 90 semester units earned toward your BA degree), you must complete at least 24 of the remaining 30 units in residence in at least two semesters. To count as residence, a semester must consist of at least 6 passed units. Intercampus Visitor, EAP, and UC Berkeley-Washington Program (UCDC) units are excluded.</span></p> <p><span id="docs-internal-guid-82322469-d406-f7f7-c9da-c2732368bc4e">You may use a Berkeley Summer Session to satisfy one semester of the Senior Residence requirement, provided that you successfully complete 6 units of course work in the Summer Session and that you have been enrolled previously in the college.</span></p> <h5><span id="docs-internal-guid-abb18f5b-d407-0e0f-9d41-83c0ea3c3c7b">Modified Senior Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d407-3956-aeef-b67b71969fca">Participants in the UC Education Abroad Program (EAP), Berkeley Summer Abroad, or the UC Berkeley Washington Program (UCDC) may meet a Modified Senior Residence requirement by completing 24 (excluding EAP) of their final 60 semester units in residence. At least 12 of these 24 units must be completed after you have completed 90 units.</span></p> <h5><span id="docs-internal-guid-62f287bf-d407-4ca6-5bbd-2d1393418d66">Upper Division Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d407-6060-9575-98782777275a">You must complete in residence a minimum of 18 units of upper division courses (excluding UCEAP units), 12 of which must satisfy the requirements for your major.</span></p>
+]]>
+</collegerequirementstext>
+<majormaptext name="Major Map">
+<![CDATA[
+<p><span id="docs-internal-guid-86f640a0-7fff-4a9f-04aa-1c76191d8bec">Major Maps help undergraduate students discover academic, co-curricular, and discovery opportunities at UC Berkeley based on intended major or field of interest. Developed by the Division of Undergraduate Education in collaboration with academic departments, these experience maps will help you:</span></p>
+<ul>
+	<li>
+	<p><strong><span id="docs-internal-guid-86f640a0-7fff-4a9f-04aa-1c76191d8bec">Explore</span></strong> your major and gain a better understanding of your field of study</p>
+	</li>
+	<li>
+	<p><strong><span id="docs-internal-guid-86f640a0-7fff-4a9f-04aa-1c76191d8bec">Connect</span></strong> with people and programs that inspire and sustain your creativity, drive, curiosity and success</p>
+	</li>
+	<li>
+	<p><strong><span id="docs-internal-guid-86f640a0-7fff-4a9f-04aa-1c76191d8bec">Discover</span></strong> opportunities for independent inquiry, enterprise, and creative expression</p>
+	</li>
+	<li>
+	<p><strong><span id="docs-internal-guid-86f640a0-7fff-4a9f-04aa-1c76191d8bec">Engage</span></strong> locally and globally to broaden your perspectives and change the world</p>
+	</li>
+	<li>
+	<p><strong><span id="docs-internal-guid-86f640a0-7fff-4a9f-04aa-1c76191d8bec">Reflect</span></strong> on your academic career and prepare for life after Berkeley</p>
+	</li>
+</ul>
+<p><span id="docs-internal-guid-86f640a0-7fff-4a9f-04aa-1c76191d8bec">Use the major map below as a guide to planning your undergraduate journey and designing your own unique Berkeley experience.</span></p>
+<p><strong><span id="docs-internal-guid-86f640a0-7fff-4a9f-04aa-1c76191d8bec"><a href="https://ue.berkeley.edu/sites/default/files/astrophysics.pdf">View the Astrophysics Major Map PDF.</a></span></strong></p>
+]]>
+</majormaptext>
+<advisingtext name="Advising">
+<![CDATA[
+<h3><span>Undergraduate Advising</span></h3>
+<p><span><a href="https://astro.berkeley.edu/people/brianna-franklin/" target="_blank">Brianna Franklin</a> i</span><span>s the Department of Astronomy's undergraduate advisor. Students are encouraged to see the undergraduate advisor for information on major and minor requirements, policies, procedures, department resources, events and activities as well as certifying degrees and majors. Advising appointments can be made using Calcentral. Drop-in advising is also available. For general information, please contact <a href="http://guide.berkeley.edu/undergraduate/degree-programs/astrophysics/mailto: astroadvising@berkeley.edu">astroadvising@berkeley.edu</a>.</span></p>
+<h3>Undergraduate Faculty Advisor</h3>
+<p><a href="https://astro.berkeley.edu/people/eugene-chiang/" target="_blank">Eugene Chiang</a> is the Department of Astronomy's undergraduate faculty advisor. He is a great resource for content of courses, research, and career development in the field of astrophysics. Office hours are available <a href="https://docs.google.com/spreadsheets/d/1OP-hD_L-bAqgjuDRShHXIUPeRbEnn1GgZt287sKaAHs/edit#gid=1" target="_blank">here</a>.</p>
+]]>
+</advisingtext>
+<coursestext name="Courses">
+<![CDATA[
+<h3>Astrophysics</h3>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron3" data-toggle="#cb_astron3">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 3</span> 
+<span class="title">Introduction to Modern Cosmology</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron3">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2015, Spring 2015, Spring 2014<br/>
+Description of research and results in modern extragalactic astronomy and cosmology. We read the stories of discoveries of the principles of our Universe. Simple algebra is used.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Modern Cosmology:</span> Read More [+]</a></p>
+<div id="82" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Bloom, Ma</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Modern Cosmology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron7a" data-toggle="#cb_astron7a">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 7A</span> 
+<span class="title">Introduction to Astrophysics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron7a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+This is the first part of an overview of astrophysics, with an emphasis on the way in which physics is applied to astronomy. This course deals with the solar system and stars, while 7B covers galaxies and cosmology. Solar system topics include orbital mechanics, geology of terrestrial planets, planetary atmospheres, and the formation of the solar system. The study of stars will treat determination of observations, properties and stellar structure</span><span class="deschide">, and evolution. The physics in this course includes mechanics and gravitation; kinetic theory of gases; properties of radiation and radiative energy transport; quantum mechanics of photons, atoms, and electrons; and magnetic fields.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Astrophysics:</span> Read More [+]</a></p>
+<div id="62" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Math 1A -1B. Physics 5A, 5B/5BL or Physics 7A/B (5B or 7B can be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Laboratory per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Chiang, Kriek, Weisz, Dressing</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Astrophysics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron7ab" data-toggle="#cb_astron7ab">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 7AB</span> 
+<span class="title">Introduction to Astrophysics: From Planets to Cosmology</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron7ab">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023 Second 6 Week Session<br/>
+This course provides a broad introduction to astrophysics, with an emphasis on the way in which physics is applied to astronomy. The course will cover astrophysics at small and large scales from stars and planets to galaxies and cosmology. Topics include observational astronomy, orbital mechanics, planets, stars, the interstellar medium, degenerate objects, the Milky Way galaxy, galaxies, black holes, quasars, dark matter, the expansion of the</span><span class="deschide"> universe, the large-scale structure of the universe, cosmology, and the Big Bang. The physics in this course includes mechanics, gravitation, kinetic theory of gases, radiation, energy transport, quantum mechanics, magnetic fields, special relativity, and general relativity.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Astrophysics: From Planets to Cosmology:</span> Read More [+]</a></p>
+<div id="602" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Knowledge of introductory calculus at the level of Math 1A/1B or Math 16A/16B is strongly recommended. Knowledge of introductory mechanics and gravitation at the level of Physics 7A/5A is strongly recommended. Knowledge of introductory electricity &amp; magnetism at the level of Physics 7B/5B is recommended</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="ASTRON 7AB">ASTRON 7AB</span> after completing <span class="code_bubble" data-code-bubble="ASTRON 7A">ASTRON 7A</span>, or <span class="code_bubble" data-code-bubble="ASTRON 7B">ASTRON 7B</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 6 weeks - 8 hours of lecture and 2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Eight hours of lecture and two hours of discussion per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Dressing</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Astrophysics: From Planets to Cosmology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron7b" data-toggle="#cb_astron7b">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 7B</span> 
+<span class="title">Introduction to Astrophysics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron7b">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+This is the second part of an overview of astrophysics, which begins with 7A. This course covers the Milky Way galaxy, star formation and the interstellar medium, galaxies, black holes, quasars, dark matter, the expansion of the universe and its large-scale structure, and cosmology and the Big Bang. The physics in this course includes that used in 7A (mechanics and gravitation; kinetic theory of gases; properties of radiation and radiative</span><span class="deschide"> energy transport; quantum mechanics of photons, atoms, and electrons; and magnetic fields) and adds the special and general theories of relativity.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Astrophysics:</span> Read More [+]</a></p>
+<div id="758" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Math 1A -1B. Physics 5A, 5B/5BL, 5C/5CL, or Physics 7A/B/C (5C or 7C can be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Laboratory per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Bloom, Chiang</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Astrophysics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron9" data-toggle="#cb_astron9">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 9</span> 
+<span class="title">Selected Topics in Astronomy</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron9">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2023 First 6 Week Session, Summer 2023 Second 6 Week Session, Summer 2022 Second 6 Week Session<br/>
+This seminar will explore one of a variety of subjects in greater depth than in introductory courses. Possible topics include stars, galaxies, the solar system, the interstellar medium, relativity and cosmology, history of astronomy, observational astronomy, and life in the universe.</span><br/>
+ <a href="" class="btn-readmore"><span>Selected Topics in Astronomy:</span> Read More [+]</a></p>
+<div id="446" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-3 hours of lecture per week</p><p><strong>Summer:</strong> 6 weeks - 7.5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week. Seven and one-half hours of lecture per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Selected Topics in Astronomy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron10" data-toggle="#cb_astron10">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 10</span> 
+<span class="title">Introduction to General Astronomy</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron10">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2023 Second 6 Week Session, Summer 2022 Second 6 Week Session, Summer 2021 Second 6 Week Session<br/>
+A description of modern astronomy with emphasis on the structure and evolution of stars, galaxies, and the Universe. Additional topics optionally discussed include quasars, pulsars, black holes, and extraterrestrial communication, etc. Individual instructor's synopses available from the department.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to General Astronomy:</span> Read More [+]</a></p>
+<div id="663" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="ASTRON 10">ASTRON 10</span> after completing <span class="code_bubble" data-code-bubble="ASTRON C10">ASTRON C10</span>, <span class="code_bubble" data-code-bubble="ASTRON N10">ASTRON N10</span>, ASTRON S10, or ASTRON 10S. A deficient grade in <span class="code_bubble" data-code-bubble="ASTRON 10">ASTRON 10</span> may be removed by taking <span class="code_bubble" data-code-bubble="XASTRON 10">XASTRON 10</span>, or <span class="code_bubble" data-code-bubble="ASTRON C10">ASTRON C10</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>6 weeks - 8 hours of lecture and 2.5 hours of discussion per week<br/><span style="width: 15px; display: inline-block;"/>8 weeks - 6 hours of lecture and 2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week. Six hours of lecture and two hours of discussion per week for 8 weeks. Eight hours of lecture and two and one-half hours of discussion per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Bloom</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to General Astronomy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astronc10" data-toggle="#cb_astronc10">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON C10</span> 
+<span class="title">Introduction to General Astronomy</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astronc10">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Spring 2022<br/>
+A description of modern astronomy with emphasis on the structure and evolution of stars, galaxies, and the Universe. Additional topics optionally discussed include quasars, pulsars, black holes, and extraterrestrial communication, etc. Individual instructor's synopses available from the department.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to General Astronomy:</span> Read More [+]</a></p>
+<div id="510" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="ASTRON C10">ASTRON C10</span> after completing <span class="code_bubble" data-code-bubble="ASTRON N10">ASTRON N10</span>, ASTRON 10S, ASTRON 7S, or <span class="code_bubble" data-code-bubble="ASTRON 10">ASTRON 10</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>6 weeks - 8 hours of lecture and 2.5 hours of discussion per week<br/><span style="width: 15px; display: inline-block;"/>8 weeks - 6 hours of lecture and 2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks. Six hours of Lecture and Two hours of Discussion per week for 8 weeks. Eight hours of Lecture and Two and one-half hours of Discussion per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Filippenko</p><p><strong>Also listed as:</strong> L &amp; S C70U</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to General Astronomy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astronn10" data-toggle="#cb_astronn10">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON N10</span> 
+<span class="title">Introduction to General Astronomy</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astronn10">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Prior to 2007<br/>
+The nature and evolution of the universe: history of astronomical knowledge; overall structure of the universe; galaxies, radio galaxies, peculiar galaxies, and quasars; structure and evolution of stars; exploding stars, pulsars, and black holes; exploration of the solar system; the search for extraterrestrial life.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to General Astronomy:</span> Read More [+]</a></p>
+<div id="507" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> High school algebra will be presumed but used sparingly</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for 10 after taking 7.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Six hours of Lecture per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to General Astronomy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astronc12" data-toggle="#cb_astronc12">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON C12</span> 
+<span class="title">The Planets</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astronc12">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+A tour of the mysteries and inner workings of our solar system. What are planets made of? Why do they orbit the sun the way they do? How do planets form, and what are they made of? Why do some bizarre moons have oceans, volcanoes, and ice floes? What makes the Earth hospitable for life? Is the Earth a common type of planet or some cosmic quirk? This course will introduce basic physics, chemistry, and math to understand planets, moons, rings</span><span class="deschide">, comets, asteroids, atmospheres, and oceans. Understanding other worlds will help us save our own planet and help us understand our place in the universe.</span><br/>
+ <a href="" class="btn-readmore"><span>The Planets:</span> Read More [+]</a></p>
+<div id="552" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> 6 weeks - 7.5 hours of lecture and 2.5 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week. Seven and one-half hours of lecture and two and one-half hours of discussion per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Jeanloz, Dressing</p><p><strong>Also listed as:</strong> EPS C12/L &amp; S C70T</p></div>
+<p><a href="" class="btn-readless"><span>The Planets:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astronw12" data-toggle="#cb_astronw12">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON W12</span> 
+<span class="title">The Planets</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astronw12">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023 8 Week Session, Summer 2022 8 Week Session, Summer 2021 8 Week Session<br/>
+A tour of the mysteries and inner workings of our solar system. What are planets made of? Why do they orbit the sun the way they do? How do planets form, and what are they made of? Why do some bizarre moons have oceans, volcanoes, and ice floes? What makes the Earth hospitable for life? Is the Earth a common type of planet or some cosmic quirk? This course will introduce basic physics, chemistry</span><span class="deschide">, and math to understand planets, moons, rings, comets, asteroids, atmospheres, and oceans. Understanding other worlds will help us save our own planet and help us understand our place in the universe. This course is web-based.</span><br/>
+ <a href="" class="btn-readmore"><span>The Planets:</span> Read More [+]</a></p>
+<div id="32" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 6 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Six hours of web-based lecture per week for 8 weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Militzer</p><p><strong>Formerly known as:</strong> Astronomy W12/Earth and Planetary Science W12</p><p><strong>Also listed as:</strong> EPS W12</p></div>
+<p><a href="" class="btn-readless"><span>The Planets:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astronc13" data-toggle="#cb_astronc13">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON C13</span> 
+<span class="title">Origins: from the Big Bang to the Emergence of Humans</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astronc13">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2016, Fall 2014<br/>
+This course will cover our modern scientific understanding of origins, from the Big Bang to the formation of planets like Earth, evolution by natural selection, the genetic basis of evolution, and the emergence of humans. These ideas are of great intrinsic scientific importance and also have far reaching implications for other aspects of people's lives (e.g., philosophical, religious, and political). A major theme will be the scientific method</span><span class="deschide"> and how we know what we know.</span><br/>
+ <a href="" class="btn-readmore"><span>Origins: from the Big Bang to the Emergence of Humans:</span> Read More [+]</a></p>
+<div id="371" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Marshall, Quataert</p><p><strong>Also listed as:</strong> INTEGBI C13</p></div>
+<p><a href="" class="btn-readless"><span>Origins: from the Big Bang to the Emergence of Humans:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron24" data-toggle="#cb_astron24">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 24</span> 
+<span class="title">Freshman Seminars</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron24">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2015, Fall 2011, Spring 2011<br/>
+The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester.</span><br/>
+ <a href="" class="btn-readmore"><span>Freshman Seminars:</span> Read More [+]</a></p>
+<div id="8" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman Seminars:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron39" data-toggle="#cb_astron39">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 39</span> 
+<span class="title">Seminar</span> 
+<span class="hours">1.5 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron39">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2011, Spring 2008, Spring 2007<br/>
+A small-size undergraduate seminar exploring one astronomical topic in depth. Students are responsible for much of the presentation.</span><br/>
+ <a href="" class="btn-readmore"><span>Seminar:</span> Read More [+]</a></p>
+<div id="829" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p><p><strong>Instructors:</strong> Basri, Filippenko, Davis</p></div>
+<p><a href="" class="btn-readless"><span>Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron84" data-toggle="#cb_astron84">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 84</span> 
+<span class="title">Sophomore Seminar</span> 
+<span class="hours">1 or 2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron84">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2021, Spring 2020<br/>
+Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores.</span><br/>
+ <a href="" class="btn-readmore"><span>Sophomore Seminar:</span> Read More [+]</a></p>
+<div id="775" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> At discretion of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> <br/><span style="width: 15px; display: inline-block;"/>5 weeks - 3-6 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-3 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>15 weeks - 1-2 hours of seminar per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>6 weeks - 2.5-5 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1.5-3.5 hours of seminar and 2-4 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of seminar per week per unit for fifteen weeks. One and one half hours of seminar per week per unit for 10 weeks. Two hours of seminar per week per unit for eight weeks. Three hours of seminar per week per unit for five weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Sophomore Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron98" data-toggle="#cb_astron98">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 98</span> 
+<span class="title">Directed Group Study</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron98">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Fall 2022, Spring 2022<br/>
+Topics will vary with instructor.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Study:</span> Read More [+]</a></p>
+<div id="850" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Restricted to freshmen and sophomores; consent of instructor</p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Directed group study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Study:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron99" data-toggle="#cb_astron99">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 99</span> 
+<span class="title">Directed Study in Astronomy</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron99">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2022, Spring 2022, Fall 2021<br/>
+Supervised observational studies or directed reading for lower division students.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Study in Astronomy:</span> Read More [+]</a></p>
+<div id="837" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 7A-B, 10 and consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-3 hours of independent study per week</p><p><strong>Summer:</strong> 6 weeks - 2.5-7.5 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Three hour of Independent study per week for 15 weeks. Two and one-half to Seven and one-half hours of Independent study per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Study in Astronomy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astronc101" data-toggle="#cb_astronc101">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON C101</span> 
+<span class="title">Order-Of-Magnitude Physics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astronc101">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023<br/>
+Learn how to understand the world around you to within a factor of 10, how to solve real-life problems from physical first principles, how to make ill-posed questions well-posed, and how to sketch solutions quickly and avoid long and formal derivations. These skills build physical intuition and are crucial for all lines of work, especially research. You will learn how to guess intelligently, how to follow your hunches while guided by the laws of physics</span><span class="deschide">, and how to maximize understanding from just a modicum of information --- how to reason inductively and quantitatively. All of undergraduate physics --- mechanics, E&amp;M, quantum mechanics, statistical mechanics --- will be covered in useful, memorable, and entertaining ways.</span><br/>
+ <a href="" class="btn-readmore"><span>Order-Of-Magnitude Physics:</span> Read More [+]</a></p>
+<div id="231" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Physics 7A, 7B, 7C (7C may be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required, with common exam group. </p><p><strong>Also listed as:</strong> PHYSICS C101</p></div>
+<p><a href="" class="btn-readless"><span>Order-Of-Magnitude Physics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron120" data-toggle="#cb_astron120">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 120</span> 
+<span class="title">Optical and Infrared Astronomy Laboratory</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron120">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+This course requires four to six experiments such as the following: accurate position and brightness measurements of stars; laboratory exploration of the characteristics of two-dimensional charge-coupled devices (CCDs) and infrared detectors; measurement of the distance, reddening, and age of a star cluster; measurement of the Stokes parameters and linear polarization of diffuse synchrotron and reflection nebulae; measurement of the period and</span><span class="deschide"> pulse shape of the Crab pulsar using Fourier techniques. Professional telescopes will be used such as those at Leuschner Observatory and Lick Observatory. There is a emphasis on error analysis, software development in the IDL language, and high-quality written reports.</span><br/>
+ <a href="" class="btn-readmore"><span>Optical and Infrared Astronomy Laboratory:</span> Read More [+]</a></p>
+<div id="682" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Astronomy 7A-7B recommended; Mathematics 54 or Physics 89 (may be taken concurrently); Physics 7A-7B-7C (7C may be taken concurrently) or Physics 5A-5B-5C (5C may be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Graham, Duchene</p></div>
+<p><a href="" class="btn-readless"><span>Optical and Infrared Astronomy Laboratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron121" data-toggle="#cb_astron121">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 121</span> 
+<span class="title">Radio Astronomy Laboratory</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron121">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+Several basic laboratory experiments that concentrate on microwave electronics and techniques; construction of receiving, observing, and data analysis systems for two radioastronomical telescopes, a single-dish 21-cm line system and a 12-GHz interferometer; use of these telescopes for astronomical observing projects including structure of the Milky Way galaxy, precise position measurement of several radio sources, and measurement of the radio</span><span class="deschide"> brightness distributions of the sun and moon with high angular resolution. There is a heavy emphasis on digital data acquisition, software development in the Python language, and high-quality written reports.</span><br/>
+ <a href="" class="btn-readmore"><span>Radio Astronomy Laboratory:</span> Read More [+]</a></p>
+<div id="550" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Astro 7A-7B recommended; Mathematics 53; Mathematics 54 or Physics 89; Physics 7A-7B-7C or Physics 5A-5B-5C</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of discussion and 1 hour of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of Discussion and One hour of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Parsons</p></div>
+<p><a href="" class="btn-readless"><span>Radio Astronomy Laboratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron128" data-toggle="#cb_astron128">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 128</span> 
+<span class="title">Astronomy Data Science Laboratory</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron128">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2022, Spring 2021, Spring 2020<br/>
+This course features 3 data-centric laboratory experiments that draw on a variety of tools used by professional astronomers. Students will learn to procure and clean data (drawn from a variety of world-class astronomical facilities), assess the fidelity/quality of data, build and apply models to describe data, learn statistical and computational techniques to analyze data (e.g., Bayesian inference, machine learning, parallel computing), and</span><span class="deschide"> effectively communicate data and scientific results. There is a heavy emphasis on software development in the Python language, statistical techniques, and high-quality communication (e.g., written reports, oral presentations, and data visualization).</span><br/>
+ <a href="" class="btn-readmore"><span>Astronomy Data Science Laboratory:</span> Read More [+]</a></p>
+<div id="782" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Astro 7A-7B; Mathematics 53; Mathematics 54 or Physics 89; Astro 160; Astro C161 (may be taken concurrently) and Data C8 or C100 (or equivalent level of fluency of the Python programming language)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternate method of final assessment during regularly scheduled final exam group (e.g., presentation, final project, etc.). </p><p><strong>Instructors:</strong> Weisz, Bloom</p></div>
+<p><a href="" class="btn-readless"><span>Astronomy Data Science Laboratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron160" data-toggle="#cb_astron160">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 160</span> 
+<span class="title">Stellar Physics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron160">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+Topics covered include some, but not necessarily all, of the following. Observational constraints on the properties and evolution of stars. Theory of stellar structure and evolution. Stellar atmospheres and stellar spectroscopy. Stellar nucleosynthesis. Supernovae. Degeneracy of matter and structure of collapsed stars. Elements of gas dynamics, accretion onto compact objects, and x-ray sources. Dynamics and evolution of close binary systems. Stellar</span><span class="deschide"> pulsation.</span><br/>
+ <a href="" class="btn-readmore"><span>Stellar Physics:</span> Read More [+]</a></p>
+<div id="846" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Astro 7A recommended; Physics 7A-7B-7C (7C may be taken concurrently) or Physics 5A-5B-5C (5C may be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Filippenko, Quataert, Lu</p></div>
+<p><a href="" class="btn-readless"><span>Stellar Physics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astronc161" data-toggle="#cb_astronc161">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON C161</span> 
+<span class="title">Relativistic Astrophysics and Cosmology</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astronc161">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+Elements of general relativity. Physics of pulsars, cosmic rays, black holes. The cosmological distance scale, elementary cosmological models, properties of galaxies and quasars. The mass density and age of the universe. Evidence for dark matter and dark energy and concepts of the early universe and of galaxy formation. Reflections on astrophysics as a probe of the extrema of physics.</span><br/>
+ <a href="" class="btn-readmore"><span>Relativistic Astrophysics and Cosmology:</span> Read More [+]</a></p>
+<div id="684" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Astro 7B recommended; Physics 7A-7B-7C (7C may be taken concurrently) or Physics 5A-5B-5C (5C may be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Lee, Ma, Kasen</p><p><strong>Also listed as:</strong> PHYSICS C161</p></div>
+<p><a href="" class="btn-readless"><span>Relativistic Astrophysics and Cosmology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astronc162" data-toggle="#cb_astronc162">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON C162</span> 
+<span class="title">Planetary Astrophysics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astronc162">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2022, Fall 2020, Fall 2019<br/>
+Physics of planetary systems, both solar and extra-solar. Star and planet formation, radioactive dating, small-body dynamics and interaction of radiation with matter, tides, planetary interiors, atmospheres, and magnetospheres. High-quality oral presentations may be required in addition to problem sets and a final exam.</span><br/>
+ <a href="" class="btn-readmore"><span>Planetary Astrophysics:</span> Read More [+]</a></p>
+<div id="331" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Mathematics 53, 54; Physics 7A-7B-7C</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Chiang, Dressing, Militzer</p><p><strong>Also listed as:</strong> EPS C162</p></div>
+<p><a href="" class="btn-readless"><span>Planetary Astrophysics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron190" data-toggle="#cb_astron190">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 190</span> 
+<span class="title">Undergraduate Special Topics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron190">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Prior to 2007<br/>
+Rotating astronomy topics for undergraduate students. This course meets for three hours per week. The focus will be not only on the formal subject matter, but also on the nature of scientific inquiry itself.</span><br/>
+ <a href="" class="btn-readmore"><span>Undergraduate Special Topics:</span> Read More [+]</a></p>
+<div id="334" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction. Students may enroll in multiple sections of this course within the same semester.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Undergraduate Special Topics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astronh195" data-toggle="#cb_astronh195">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON H195</span> 
+<span class="title">Special Study for Honors Candidates</span> 
+<span class="hours">2 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astronh195">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+Individual project of research or study.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Study for Honors Candidates:</span> Read More [+]</a></p>
+<div id="860" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2-4 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Two to Four hours of Independent study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Special Study for Honors Candidates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron198" data-toggle="#cb_astron198">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 198</span> 
+<span class="title">Directed Group Study</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron198">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2022, Fall 2021, Fall 2020<br/>
+Topics will vary with instructor.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Study:</span> Read More [+]</a></p>
+<div id="100" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Directed group study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Study:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_astron199" data-toggle="#cb_astron199">
+<h3 class="courseblocktitle">
+<span class="code">ASTRON 199</span> 
+<span class="title">Supervised Independent Study and Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_astron199">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Supervised Independent Study and Research:</span> Read More [+]</a></p>
+<div id="588" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>6 weeks - 1-5 hours of independent study per week<br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1-4 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Independent study.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Astronomy/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study and Research:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+]]>
+</coursestext>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><p class="facitem"><strong>* </strong>Indicates this faculty member is the recipient of the Distinguished Teaching Award.</p><h4>Faculty</h4><p class="facitem"><strong>Steven Beckwith, <i>Professor</i>. </strong>Origins of life, cosmology, star formation, planet formation.<br/><a href="https://vcresearch.berkeley.edu/faculty/steven-beckwith"target="_blank">Research Profile</a></p><p class="facitem"><strong>Joshua Bloom, <i>Professor</i>. </strong>Machine learning, gamma-ray bursts, supernovae, time-domain astronomy, data-driven discovery.<br/><a href="http://vcresearch.berkeley.edu/node/14452"target="_blank">Research Profile</a></p><p class="facitem"><strong>* Eugene Chiang, <i>Professor</i>. </strong>Planetary science, theoretical astrophysics, dynamics, planet formation, circumstellar disks.<br/><a href="http://vcresearch.berkeley.edu/node/14158"target="_blank">Research Profile</a></p><p class="facitem"><strong>Courtney Dressing, <i>Professor</i>. </strong>Searching for small, potentially habitable exoplanets orbiting nearby stars, characterizing planet host stars to improve stellar and planetary parameters, Investigating the dependence of planet occurrence on stellar and planetary properties.<br/><a href="https://astro.berkeley.edu/faculty-profile/courtney-dressing"target="_blank">Research Profile</a></p><p class="facitem"><strong>* Alexei V. Filippenko, <i>Professor</i>. </strong>Supernovae, active galaxies, black holes, gamma-ray bursts, expansion of the universe.<br/><a href="https://vcresearch.berkeley.edu/faculty/alex-filippenko"target="_blank">Research Profile</a></p><p class="facitem"><strong>Raymond Jeanloz, <i>Professor</i>. </strong>Planetary geophysics, high-pressure physics, national and international security, science-based policy.<br/><a href="http://vcresearch.berkeley.edu/node/14981"target="_blank">Research Profile</a></p><p class="facitem"><strong>Paul Kalas, <i>Adjunct Professor</i>. </strong>Planets, astronomy, Telescopes, Science Ethics.<br/><a href="http://vcresearch.berkeley.edu/node/14905"target="_blank">Research Profile</a></p><p class="facitem"><strong>Daniel Kasen, <i>Associate Professor</i>. </strong>Theoretical and computational astrophysics.<br/><a href="https://vcresearch.berkeley.edu/faculty/daniel-kasen"target="_blank">Research Profile</a></p><p class="facitem"><strong>Richard I. Klein, <i>Adjunct Professor</i>. </strong>Astronomy, star formation, interstellar medium, coupled radiation-gas dynamical flows, supernova shockwaves, hydrodynamic collisions, high-energy astrophysics, photon bubble oscillations, hydro dynamics.<br/><a href="http://vcresearch.berkeley.edu/node/14927"target="_blank">Research Profile</a></p><p class="facitem"><strong>Jessica Lu, <i>Associate Professor</i>. </strong>Adaptive optics, Astrometry, Black holes, Galactic Centers, Optical/infrared instrumentation, Resolved Stellar Populations, Star and Cluster Formation, The Stellar Initial Mass Function.<br/><a href="https://astro.berkeley.edu/people/jessica-lu/"target="_blank">Research Profile</a></p><p class="facitem"><strong>Wenbin Lu, <i>Assistant Professor</i>. </strong>High-energy astrophysics, compact objects, black holes, time-domain astronomy, gravitational wave sources, fast radio bursts, plasma physics, hydrodynamics.</p><p class="facitem"><strong>Chung-Pei Ma, <i>Professor</i>. </strong>Astrophysics, dark matter, cosmology, formation and evolution of galaxies, cosmic microwave background radiation.<br/><a href="http://vcresearch.berkeley.edu/node/13858"target="_blank">Research Profile</a></p><p class="facitem"><strong>Raffaella Margutti, <i>Associate Professor</i>. </strong>Electromagnetic counterparts to gravitational-wave sources, compact-object mergers, stellar explosions, massive stellar eruptions.</p><p class="facitem"><strong>Burkhard Militzer, <i>Associate Professor</i>. </strong>Saturn, structure and evolution of Jupiter, and extrasolar giant planets.<br/><a href="http://vcresearch.berkeley.edu/node/15119"target="_blank">Research Profile</a></p><p class="facitem"><strong>Aaron Parsons, <i>Associate Professor</i>. </strong>Radio astronomy instrumentation; cosmic reionization; digital signal processing; experimental cosmology; formation and evolution of large-scale cosmic structure (baryon acoustic oscillations and dark energy).<br/><a href="https://astro.berkeley.edu/people/aaron-parsons/"target="_blank">Research Profile</a></p><p class="facitem"><strong>Uros Seljak, <i>Professor</i>. </strong>Theoretical, computational and data analysis in astrophysics and cosmology.<br/><a href="https://vcresearch.berkeley.edu/faculty/uros-seljak"target="_blank">Research Profile</a></p><p class="facitem"><strong>Daniel R. Weisz, <i>Associate Professor</i>. </strong>Near-field cosmology, galaxies, resolved stellar populations, stellar evolution, star formation, the stellar initial mass function.<br/><a href="https://astro.berkeley.edu/people/daniel-weisz/"target="_blank">Research Profile</a></p><p class="facitem"><strong>Martin White, <i>Professor</i>. </strong>Cosmology, formation of structure in the universe, dark energy, expansion of the universe, cosmic microwave background, quasars, redshift surveys.<br/><a href="http://vcresearch.berkeley.edu/node/14242"target="_blank">Research Profile</a></p><h4>Lecturers</h4><p class="facitem"><strong>Gaspard Duchene, <i>Lecturer</i>. </strong>Star and planet formation, stellar multiplicity, protoplanetary disks, debris disks, high-angular resolution techniques, radiative transfer modeling in circumstellar disks.<br/><a href="https://astro.berkeley.edu/people/gaspard-duchene/"target="_blank">Research Profile</a></p><h4>Emeritus Faculty</h4><p class="facitem"><strong>Jonathan Arons, <i>Professor Emeritus</i>. </strong>Astrophysics, compact astrophysical objects, Neutron Stars, ionized plasmas, cosmic rays, magnetized accretion disks, black holes pulsars, magnetic fields, planets.<br/><a href="http://vcresearch.berkeley.edu/node/14149"target="_blank">Research Profile</a></p><p class="facitem"><strong>Gibor Basri, <i>Professor Emeritus</i>. </strong>Astronomy, low mass stars, brown dwarfs, star formation, T Tauri stars, stellar magnetic activity, starspots.<br/><a href="http://vcresearch.berkeley.edu/node/14417"target="_blank">Research Profile</a></p><p class="facitem"><strong>Leo Blitz, <i>Professor Emeritus</i>. </strong>Astronomy, formation of galaxies, evolution of galaxies, conversion of interstellar gases, milky way, dark matter, dwarf galaxies, interstellar medium, high velocity clouds, hydrogen atom.<br/><a href="http://vcresearch.berkeley.edu/node/14449"target="_blank">Research Profile</a></p><p class="facitem"><strong>C. Stuart Bowyer, <i>Professor Emeritus</i>. </strong>Space astrophysics.<br/><a href="https://astro.berkeley.edu/faculty-profile/stuart-bowyer"target="_blank">Research Profile</a></p><p class="facitem"><strong>Marc Davis, <i>Professor Emeritus</i>. </strong>Astronomy, physical cosmology, large scale velocity fields, structure formation in the universe, maps of galactic dust.<br/><a href="http://vcresearch.berkeley.edu/node/14629"target="_blank">Research Profile</a></p><p class="facitem"><strong>Imke De Pater, <i>Professor Emeritus</i>. </strong>Radio, planetary science, infrared, observations.<br/><a href="https://astro.berkeley.edu/people/imke-de-pater/"target="_blank">Research Profile</a></p><p class="facitem"><strong>Reinhard Genzel, <i>Professor Emeritus</i>. </strong>Physics, existence and formation of black holes in galactic nuclei, the nature of the power source, the evolution of (ultra)luminous infrared galaxies, gas dynamics, the fueling of active galactic nuclei, the properties evolution of starburst galaxies.<br/><a href="http://vcresearch.berkeley.edu/node/14068"target="_blank">Research Profile</a></p><p class="facitem"><strong>James R. Graham, <i>Professor Emeritus</i>. </strong>Adaptive optics, infrared instrumentation, large telescopes.<br/><a href="https://astro.berkeley.edu/people/james-graham/"target="_blank">Research Profile</a></p><p class="facitem"><strong>Carl E. Heiles, <i>Professor Emeritus</i>. </strong>Astronomy, interstellar medium, itsmorphology, supernovas, interstellar magnetic fields, Eridanus superbubble, interstellar gases.<br/><a href="http://vcresearch.berkeley.edu/node/14824"target="_blank">Research Profile</a></p><p class="facitem"><strong>Christopher F. Mckee, <i>Professor Emeritus</i>. </strong>Astrophysics, interstellar medium, formation of stars, astrophysical fluid dynamics, computational astrophysics, astrophysical blast waves, supernova remnants, interstellar shocks.<br/><a href="http://vcresearch.berkeley.edu/node/13860"target="_blank">Research Profile</a></p><p class="facitem"><strong>William J. (Jack) Welch, <i>Professor Emeritus</i>. </strong>Formation of stars, dark dust clouds, Michelson interferometer array, and Allen telescope array.<br/><a href="http://vcresearch.berkeley.edu/node/15606"target="_blank">Research Profile</a></p>]]>
+</faculty>
+</courseleaf>
+

@@ -1,0 +1,496 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Data Science (DATASCI)</title>
+
+
+<text>
+<![CDATA[  
+<h3>Please note: DATASCI courses are only available for Information and Data Science (MIDS) students.</h3>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci200" data-toggle="#cb_datasci200">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 200</span> 
+<span class="title">Introduction to Data Science Programming</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci200">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+This fast-paced course gives students fundamental Python knowledge necessary for advanced work in data science. Students gain frequent practice writing code, building to advanced skills focused on data science applications. We introduce a range of Python objects and control structures, then build on these with classes on object-oriented programming. A major programming project reinforces these concepts, giving students insight into how a large piece of</span><span class="deschide"> software is built and experience managing a full-cycle development project. The last section covers two popular Python packages for data analysis, Numpy and Pandas, and includes an exploratory data analysis.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Data Science Programming:</span> Read More [+]</a></p>
+<div id="670" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Be able to design, reason about, and implement algorithms for solving computational problems.<br/>
+Be able to generate an exploratory analysis of a data set using Python.<br/>
+Be able to navigate a file system, manipulate files, and execute programs using a command line interface.<br/>
+Be able to test and effectively debug programs.<br/>
+Be fluent in Python syntax and familiar with foundational Python object types.<br/>
+Be prepared for further programming challenges in more advanced data science courses.<br/>
+Know how to read, manipulate, describe, and visualize data using the Numpy and Pandas packages.<br/>
+Know how to use Python to extract data from different type of files and other sources.<br/>
+Understand how to manage different versions of a project using Git and how to collaborate with others using Github.<br/>
+Understand the principles of functional programming.<br/>
+Understand the principles of object-oriented design and the process by which large pieces of software are developed.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Laskowski</p><p><strong>Formerly known as:</strong> Data Science W200</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Data Science Programming:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci201" data-toggle="#cb_datasci201">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 201</span> 
+<span class="title">Research Design and Applications for Data and Analysis</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci201">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+Introduces the data sciences landscape, with a particular focus on learning data science techniques to uncover and answer the questions students will encounter in industry. Lectures, readings, discussions, and assignments will teach how to apply disciplined, creative methods to ask better questions, gather data, interpret results, and convey findings to various audiences. The emphasis throughout is on making practical contributions to real decisions that</span><span class="deschide"> organizations will and should make. Course must be taken for a letter grade to fulfill degree requirements.</span><br/>
+ <a href="" class="btn-readmore"><span>Research Design and Applications for Data and Analysis:</span> Read More [+]</a></p>
+<div id="351" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Rivera</p><p><strong>Formerly known as:</strong> Data Science W201</p></div>
+<p><a href="" class="btn-readless"><span>Research Design and Applications for Data and Analysis:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci201a" data-toggle="#cb_datasci201a">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 201A</span> 
+<span class="title">Research Design and Applications for Data and Analysis for Early Career Data Scientists</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci201a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2022<br/>
+Introduces the data sciences landscape, with a focus on learning data science techniques to uncover and answer questions students will encounter in industry. Lectures, readings, discussions, and assignments will teach how to apply methods to ask better questions, gather data, interpret results, and convey findings to various audiences. The emphasis is on making practical contributions to real decisions that organizations make. This 4-credit version of the course is</span><span class="deschide"> designed for early-career learners in our 5th Year MIDS pathway. It provides additional attention to introducing professional and business knowledge and skills, and providing students with opportunities to apply and reflect on learning how to become a data science professional.</span><br/>
+ <a href="" class="btn-readmore"><span>Research Design and Applications for Data and Analysis for Early Career Data Scientists:</span> Read More [+]</a></p>
+<div id="547" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> By the completion of this course, students will be able to Apply techniques and approaches focused on building work relationships and engaging in interactions that align with organizational goals.<br/>
+By the completion of this course, students will be able to Assess and select data and the data collection methods that best fit a specific outcome or need.<br/>
+<br/>
+By the completion of this course, students will be able to Demonstrate an understanding of foundational approaches to project management and strategic thinking by imagining, planning, and designing a data science project from start to finish.<br/>
+<br/>
+By the completion of this course, students will be able to Devise effective research questions and apply them to analytic processes that lead to actionable insight and strategic decisions.<br/>
+<br/>
+By the completion of this course, students will be able to Identify and describe effective teamwork skills, practices, and characteristics of an effective workplace or project team.<br/>
+By the completion of this course, students will be able to Justify and defend an analytical approach—descriptive, predictive, or explanatory—to inform efficient decision making.<br/>
+By the completion of this course, students will be able to Understand and apply successful communication strategies and methods (written, spoken, and visual) for teams and for various stakeholders within an organization with different contextual requirements and expectations, including summarizing and presenting key ideas effectively for various stakeholders.<br/>
+<br/>
+By the completion of this course, students will be able to Understand key principles that affect human decision-making processes, such as biases and contextual concerns (e.g., ethical and legal) that affect human decision-making processes and apply knowledge of those principles throughout the course to mitigate biases, facilitate better decision making, and improve communication.<br/>
+By the completion of this course, students will be able to describe the role that data science as a domain and as a set of practices and processes plays in decision making made by people in organizations, and establish an awareness of common social structures, practices, norms and expectations in data science organizations, teams, and workplaces.<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 5th Year MIDS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 4 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week for fourteen weeks. Four hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Research Design and Applications for Data and Analysis for Early Career Data Scientists:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci203" data-toggle="#cb_datasci203">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 203</span> 
+<span class="title">Statistics for Data Science</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci203">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+This course provides students with a foundational understanding of classical statistics within the broader context of data science. Topics include exploratory analysis and descriptive statistics, probability theory and the foundations of statistical modeling, estimators, hypothesis testing, and classical linear regression. Causal inference and reproducibility issues are treated briefly. Students will learn to apply the most common statistical procedures</span><span class="deschide"> correctly, checking assumptions and responding appropriately when they appear violated; to evaluate the design of a study and how the variables being measured relate to research questions; and to analyze real-world data using the open-source language R.</span><br/>
+ <a href="" class="btn-readmore"><span>Statistics for Data Science:</span> Read More [+]</a></p>
+<div id="977" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. Intermediate competency in calculus is required. A college-level linear algebra course is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Data Science W203</p></div>
+<p><a href="" class="btn-readless"><span>Statistics for Data Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci205" data-toggle="#cb_datasci205">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 205</span> 
+<span class="title">Fundamentals of Data Engineering</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci205">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+Storing, managing, and processing datasets are foundational processes in data science. This course introduces the fundamental knowledge and skills of data engineering that are required to be effective as a data scientist. This course focuses on the basics of data pipelines, data pipeline flows and associated business use cases, and how organizations derive value from data and data engineering. As these fundamentals of data engineering are introduced,</span><span class="deschide"> learners will interact with data and data processes at various stages in the pipeline, understand key data engineering tools and platforms, and use and connect critical technologies through which one can construct storage and processing architectures that underpin data science applications.</span><br/>
+ <a href="" class="btn-readmore"><span>Fundamentals of Data Engineering:</span> Read More [+]</a></p>
+<div id="272" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. Intermediate competency in Python, C, or Java, and competency in Linux, GitHub, and relevant Python libraries. Knowledge of database management including SQL is recommended but not required</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for DATASCI W205 after completing <span class="code_bubble" data-code-bubble="DATASCI 205">DATASCI 205</span>. A deficient grade in DATASCI W205 may be removed by taking <span class="code_bubble" data-code-bubble="DATASCI 205">DATASCI 205</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Crook</p><p><strong>Formerly known as:</strong> Data Science W205</p></div>
+<p><a href="" class="btn-readless"><span>Fundamentals of Data Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci207" data-toggle="#cb_datasci207">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 207</span> 
+<span class="title">Applied Machine Learning</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci207">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+Machine learning is a rapidly growing field at the intersection of computer science and statistics concerned with finding patterns in data. It is responsible for tremendous advances in technology, from personalized product recommendations to speech recognition in cell phones. This course provides a broad introduction to the key ideas in machine learning. The emphasis will be on intuition and practical examples rather than theoretical results, though some</span><span class="deschide"> experience with probability, statistics, and linear algebra will be important. Course must be taken for a letter grade to fulfill degree requirements.</span><br/>
+ <a href="" class="btn-readmore"><span>Applied Machine Learning:</span> Read More [+]</a></p>
+<div id="770" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. <span class="code_bubble" data-code-bubble="DATASCI 201">DATASCI 201</span> or <span class="code_bubble" data-code-bubble="DATASCI 201A">DATASCI 201A</span> and <span class="code_bubble" data-code-bubble="DATASCI 203">DATASCI 203</span>. Intermediate competency in Python, C, or Java, and competency in Linux, GitHub, and relevant Python libraries. Linear algebra is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Data Science W207</p></div>
+<p><a href="" class="btn-readless"><span>Applied Machine Learning:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci209" data-toggle="#cb_datasci209">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 209</span> 
+<span class="title">Data Visualization</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci209">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+Visualization enhances exploratory analysis as well as efficient communication of data results. This course focuses on the design of visual representations of data in order to discover patterns, answer questions, convey findings, drive decisions, and provide persuasive evidence. The goal is to give you the practical knowledge you need to create effective tools for both exploring and explaining your data. Exercises throughout the course provide a hands-on</span><span class="deschide"> experience using relevant programming libraries and software tools to apply research and design concepts learned.</span><br/>
+ <a href="" class="btn-readmore"><span>Data Visualization:</span> Read More [+]</a></p>
+<div id="120" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Analyze data using exploratory visualization.  <br/>
+Build commonly requested types of visualizations as well as more advanced visualizations using ground-up customization.<br/>
+Constructively critique existing visualizations, identifying issues of integrity as well as excellence.<br/>
+Create useful, performant visualizations from real-world data sources, including large and complex datasets. <br/>
+Design aesthetically pleasing static and interactive visualizations with perceptually appropriate forms and encodings.<br/>
+Improve your own work through usability testing and iteration, with attention to context.<br/>
+Select appropriate tools for building visualizations, and gain skills to evaluate new tools.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. <span class="code_bubble" data-code-bubble="DATASCI 203">DATASCI 203</span>. Students must take <span class="code_bubble" data-code-bubble="DATASCI 205">DATASCI 205</span> concurrently or prior to <span class="code_bubble" data-code-bubble="DATASCI 209">DATASCI 209</span>. If taken concurrently, students may not drop 205 and remain in 209. Recommended: experience with HTML, CSS, and JavaScript, or ability to learn new programming languages quickly. If Python is the only programming language you know, you will probably benefit from learning the basics of web development with JavaScript in advance</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Data Science W209</p></div>
+<p><a href="" class="btn-readless"><span>Data Visualization:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci210" data-toggle="#cb_datasci210">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 210</span> 
+<span class="title">Capstone</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci210">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+The capstone course will cement skills learned throughout the MIDS program – both core data science skills and “soft skills” like problem-solving, communication, influencing, and management – preparing students for success in the field. The centerpiece is a semester-long group project in which teams of students propose and select project ideas, conduct and communicate their work, receive and provide feedback (in informal group discussions as well as formal</span><span class="deschide"> class presentations), and deliver compelling presentations along with a Web-based final deliverable. Includes relevant readings, case discussions, and real-world examples and perspectives from panel discussions with leading data science experts and industry practitioners.</span><br/>
+ <a href="" class="btn-readmore"><span>Capstone:</span> Read More [+]</a></p>
+<div id="869" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. Must be taken in final term of the MIDS program</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for DATASCI W210 after completing <span class="code_bubble" data-code-bubble="DATASCI 210">DATASCI 210</span>. A deficient grade in DATASCI W210 may be removed by taking <span class="code_bubble" data-code-bubble="DATASCI 210">DATASCI 210</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Data Science W210</p></div>
+<p><a href="" class="btn-readless"><span>Capstone:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci210a" data-toggle="#cb_datasci210a">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 210A</span> 
+<span class="title">Capstone for Early Career Data Scientists</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci210a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Not yet offered<br/>
+In the Capstone class, students combine technical, analytical, interpretive, problem-solving, and strategic thinking dimensions to design and execute a full end-to-end data science project. Students will develop their technical and non-technical skills as data scientists who focus on real-world and impactful applications and situations. The final project provides a learning opportunity and “sandbox” to integrate all skills and concepts learned throughout the MIDS</span><span class="deschide"> program and provides experience and hands-on tools in formulating and implementing an impactful and compelling project. Students are evaluated on their ability to work in a dynamic team environment to collaborate, co-develop, and communicate their work.</span><br/>
+ <a href="" class="btn-readmore"><span>Capstone for Early Career Data Scientists:</span> Read More [+]</a></p>
+<div id="147" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Construct and perform persuasive, informative and understandable written, spoken, or visualized narratives that concisely convey findings, solutions, and applications of data-driven approaches that have been incorporated in project work.<br/>
+<br/>
+Demonstrate an ability to integrate and synthesize knowledge and skills gained through other courses in the program (critical technical, analytical, strategic thinking, problem-solving, communication, influencing, and management skills) in developing and implementing a capstone project that addresses a key data science problem.<br/>
+<br/>
+Demonstrate proficiency in applying technical and analytical skills towards the collection, storage, and analysis of data towards problem-solving and project execution. Assess and select data and the data collection methods that best fit the specific outcome or need of a project or problem space.<br/>
+<br/>
+Demonstrate proficiency in identifying target user audience for the Capstone project and conduct expert and target user interviews to validate problem framing, scoping, and hypothesis.<br/>
+<br/>
+Demonstrate proficiency in selecting the appropriate data science and machine learning approaches for a specific project and perform model evaluation to demonstrate the efficacy of the model and its value to the target users.<br/>
+<br/>
+Effectively engage in a process of teamwork, feedback from peers, instructors and experts, and informed iteration that mirrors the challenges and opportunities of applying data science in a realistic organizational setting. Conduct self-assessment of professional development and leadership.<br/>
+<br/>
+Identify and articulate a problem space to address through application of data driven methods, approaches and practices that include an understanding of stakeholders, social contexts, potential impact, and potential obstacles.<br/>
+<br/>
+Identify and describe effective teamwork skills, practices, and characteristics of an effective workplace or project team, including distribution of team tasks and duties. Understand and apply successful communication strategies for teams, for various stakeholders within an organization with different contextual requirements and expectations.<br/>
+Understand, incorporate, and practice integrated understanding of what it takes to imagine, design, and execute a data science project from start to finish.<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 5th Year MIDS students only. <span class="code_bubble" data-code-bubble="DATASCI 200">DATASCI 200</span>, <span class="code_bubble" data-code-bubble="DATASCI 201A">DATASCI 201A</span>, <span class="code_bubble" data-code-bubble="DATASCI 203">DATASCI 203</span>, <span class="code_bubble" data-code-bubble="DATASCI 205">DATASCI 205</span>, and <span class="code_bubble" data-code-bubble="DATASCI 207">DATASCI 207</span>. Must be taken in the final term of the 5th Year MIDS program</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 4 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week for fourteen weeks. Four hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Capstone for Early Career Data Scientists:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci231" data-toggle="#cb_datasci231">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 231</span> 
+<span class="title">Behind the Data: Humans and Values</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci231">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+Intro to the legal, policy, and ethical implications of data, including privacy, surveillance, security, classification, discrimination, decisional-autonomy, and duties to warn or act. Examines legal, policy, and ethical issues throughout the full data-science life cycle — collection, storage, processing, analysis, and use — with case studies from criminal justice, national security, health, marketing, politics, education, employment, athletics, and development.</span><span class="deschide"> Includes legal and policy constraints and considerations for specific domains and data-types, collection methods, and institutions; technical, legal, and market approaches to mitigating and managing concerns; and the strengths and benefits of competing and complementary approaches.</span><br/>
+ <a href="" class="btn-readmore"><span>Behind the Data: Humans and Values:</span> Read More [+]</a></p>
+<div id="216" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS and MPA students only</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for DATASCI W231 after completing <span class="code_bubble" data-code-bubble="DATASCI 231">DATASCI 231</span>. A deficient grade in DATASCI W231 may be removed by taking <span class="code_bubble" data-code-bubble="DATASCI 231">DATASCI 231</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Morgan</p><p><strong>Formerly known as:</strong> Data Science W231</p></div>
+<p><a href="" class="btn-readless"><span>Behind the Data: Humans and Values:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci233" data-toggle="#cb_datasci233">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 233</span> 
+<span class="title">Privacy Engineering</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci233">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023<br/>
+This course surveys privacy mechanisms applicable to systems engineering, with a particular focus on the inference threat arising due to advancements in artificial intelligence and machine learning. We will briefly discuss the history of privacy and compare two major examples of general legal frameworks for privacy from the United States and the European Union. We then survey three design frameworks of privacy that may be used to guide the design of privacy-aware</span><span class="deschide"> information systems. Finally, we survey threat-specific technical privacy frameworks and discuss their applicability in different settings, including statistical privacy with randomized responses, anonymization techniques, semantic privacy models, and technical privacy mechanisms.</span><br/>
+ <a href="" class="btn-readmore"><span>Privacy Engineering:</span> Read More [+]</a></p>
+<div id="346" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for DATASCI W233 after completing <span class="code_bubble" data-code-bubble="DATASCI 233">DATASCI 233</span>. A deficient grade in DATASCI W233 may be removed by taking <span class="code_bubble" data-code-bubble="DATASCI 233">DATASCI 233</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Data Science W233</p></div>
+<p><a href="" class="btn-readless"><span>Privacy Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci241" data-toggle="#cb_datasci241">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 241</span> 
+<span class="title">Experiments and Causal Inference</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci241">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+This course introduces students to experimentation in the social sciences. This topic has<br/>
+increased considerably in importance since 1995, as researchers have learned to think<br/>
+creatively about how to generate data in more scientific ways, and developments in information<br/>
+technology have facilitated the development of better data gathering. Key to this area of inquiry is<br/>
+the insight that correlation does not necessarily imply causality.</span><span class="deschide"> In this course, we learn how to<br/>
+use experiments to establish causal effects and how to be appropriately skeptical of findings<br/>
+from observational data.</span><br/>
+ <a href="" class="btn-readmore"><span>Experiments and Causal Inference:</span> Read More [+]</a></p>
+<div id="932" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. <span class="code_bubble" data-code-bubble="DATASCI 201">DATASCI 201</span> or <span class="code_bubble" data-code-bubble="DATASCI 201A">DATASCI 201A</span> and <span class="code_bubble" data-code-bubble="DATASCI 203">DATASCI 203</span></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for DATASCI W241 after completing <span class="code_bubble" data-code-bubble="DATASCI 241">DATASCI 241</span>. A deficient grade in DATASCI W241 may be removed by taking <span class="code_bubble" data-code-bubble="DATASCI 241">DATASCI 241</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Data Science W241</p></div>
+<p><a href="" class="btn-readless"><span>Experiments and Causal Inference:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci251" data-toggle="#cb_datasci251">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 251</span> 
+<span class="title">Deep Learning in the Cloud and at the Edge</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci251">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023<br/>
+This hands-on course introduces data scientists to technologies related to building and operating live, high throughput Deep Learning applications running on powerful servers in the Cloud as well on smaller and lower power devices at the Edge of the Network. The material of the class is a set of practical approaches, code recipes, and lessons learned. It is based on the latest developments in the Industry and industry use cases as opposed to pure theory. It is taught</span><span class="deschide"> by professionals with decades of industry experience.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Deep Learning in the Cloud and at the Edge:</span> Read More [+]</a></p>
+<div id="576" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. <span class="code_bubble" data-code-bubble="DATASCI 201">DATASCI 201</span> or <span class="code_bubble" data-code-bubble="DATASCI 201A">DATASCI 201A</span>, <span class="code_bubble" data-code-bubble="DATASCI 203">DATASCI 203</span>, and <span class="code_bubble" data-code-bubble="DATASCI 205">DATASCI 205</span>. Students should be able to program in C, Python, or Java and/or be able to pick up a new programming language quickly. A degree of fluency is expected with the basics of operating systems (e.g., Linux and the Internet Technologies</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for DATASCI W251 after completing <span class="code_bubble" data-code-bubble="DATASCI 251">DATASCI 251</span>. A deficient grade in DATASCI W251 may be removed by taking <span class="code_bubble" data-code-bubble="DATASCI 251">DATASCI 251</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Data Science W251</p></div>
+<p><a href="" class="btn-readless"><span>Deep Learning in the Cloud and at the Edge:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci255" data-toggle="#cb_datasci255">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 255</span> 
+<span class="title">Machine Learning Systems Engineering</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci255">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+This course provides learners hands-on data management and systems engineering experience using containers, cloud, and Kubernetes ecosystems based on current industry practice. The course will be project-based with an emphasis on how production systems are used at leading technology-focused companies and organizations. During the course, learners will build a body of knowledge around data management, architectural design, developing batch and</span><span class="deschide"> streaming data pipelines, scheduling, and security around data including access management and auditability. We’ll also cover how these tools are changing the technology landscape.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Machine Learning Systems Engineering:</span> Read More [+]</a></p>
+<div id="605" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Construct, measure, and identify metrics relating to performance of a system in order to optimize costs and latency of serving inferences for machine learning models.<br/>
+<br/>
+Demonstrate understanding of Kubernetes for management of machine learning models.<br/>
+<br/>
+Describe the difference between a monolithic and microservice architecture, assess and select appropriate use cases for each.<br/>
+<br/>
+Describe the differences between a development and production system particularly for Machine Learning where the boundaries are blurry.<br/>
+<br/>
+Know when to leverage a cache for serving machine learning models to reduce load on production systems.<br/>
+<br/>
+Understand continuous integration and continuous delivery (CI/CD) pipeline for automated code deployment, particularly for ML models.<br/>
+<br/>
+Understand how stateful systems add complexities to systems engineering.<br/>
+Understand how to serve machine learning models over an API in real-time.<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. <span class="code_bubble" data-code-bubble="DATASCI 205">DATASCI 205</span> and <span class="code_bubble" data-code-bubble="DATASCI 207">DATASCI 207</span>. We assume you are familiar with generating predictions from a trained machine learning model. Familiarity with command line (Bash), Python, and Git. We assume you have a working knowledge of SSH, Ports, and familiarity with networking concepts such as DNS</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Machine Learning Systems Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci261" data-toggle="#cb_datasci261">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 261</span> 
+<span class="title">Machine Learning at Scale</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci261">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2023, Spring 2023<br/>
+This course teaches the underlying principles required to develop scalable machine learning pipelines for structured and unstructured data at the petabyte scale. Students will gain hands-on experience in Apache Hadoop and Apache Spark.</span><br/>
+ <a href="" class="btn-readmore"><span>Machine Learning at Scale:</span> Read More [+]</a></p>
+<div id="531" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. <span class="code_bubble" data-code-bubble="DATASCI 205">DATASCI 205</span> and <span class="code_bubble" data-code-bubble="DATASCI 207">DATASCI 207</span>. Intermediate programming skills in an object-oriented language (e.g., Python)</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for DATASCI W261 after completing <span class="code_bubble" data-code-bubble="DATASCI 261">DATASCI 261</span>. A deficient grade in DATASCI W261 may be removed by taking <span class="code_bubble" data-code-bubble="DATASCI 261">DATASCI 261</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Data Science W261</p></div>
+<p><a href="" class="btn-readless"><span>Machine Learning at Scale:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci266" data-toggle="#cb_datasci266">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 266</span> 
+<span class="title">Natural Language Processing with Deep Learning</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci266">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+Understanding language is fundamental to human interaction. Our brains have evolved language-specific circuitry that helps us learn it very quickly; however, this also means that we have great difficulty explaining how exactly meaning arises from sounds and symbols. This course is a broad introduction to linguistic phenomena and our attempts to analyze them with machine learning. We will cover a wide range of concepts with a focus on practical applications</span><span class="deschide"> such as information extraction, machine translation, sentiment analysis, and summarization.</span><br/>
+ <a href="" class="btn-readmore"><span>Natural Language Processing with Deep Learning:</span> Read More [+]</a></p>
+<div id="716" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. <span class="code_bubble" data-code-bubble="DATASCI 207">DATASCI 207</span></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for DATASCI W266 after completing <span class="code_bubble" data-code-bubble="DATASCI 266">DATASCI 266</span>. A deficient grade in DATASCI W266 may be removed by taking <span class="code_bubble" data-code-bubble="DATASCI 266">DATASCI 266</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Gillick</p><p><strong>Formerly known as:</strong> Data Science W266</p></div>
+<p><a href="" class="btn-readless"><span>Natural Language Processing with Deep Learning:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci271" data-toggle="#cb_datasci271">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 271</span> 
+<span class="title">Statistical Methods for Discrete Response, Time Series, and Panel Data</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci271">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023<br/>
+A continuation of <span class="code_bubble" data-code-bubble="DATASCI 203">DATASCI 203</span>, this course trains data science students to apply more advanced methods from regression analysis and time series models. Central topics include linear regression, causal inference, identification strategies, and a wide-range of time series models that are frequently used by industry professionals. Throughout the course, we emphasize choosing, applying, and implementing statistical techniques to capture key patterns and generate</span><span class="deschide"> insight from data. Students who successfully complete this course will be able to distinguish between appropriate and inappropriate techniques given the problem under consideration, the data available, and the given timeframe.</span><br/>
+ <a href="" class="btn-readmore"><span>Statistical Methods for Discrete Response, Time Series, and Panel Data:</span> Read More [+]</a></p>
+<div id="346" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. <span class="code_bubble" data-code-bubble="DATASCI 203">DATASCI 203</span> taken in Fall 2016 or later and completed with a grade of B+ or above. Strong familiarity with classical linear regression modeling; strong hands-on experience in R; working knowledge of calculus and linear algebra; familiarity with differential calculus, integral calculus and matrix notations</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for DATASCI W271 after completing <span class="code_bubble" data-code-bubble="DATASCI 271">DATASCI 271</span>. A deficient grade in DATASCI W271 may be removed by taking <span class="code_bubble" data-code-bubble="DATASCI 271">DATASCI 271</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Data Science W271</p></div>
+<p><a href="" class="btn-readless"><span>Statistical Methods for Discrete Response, Time Series, and Panel Data:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci281" data-toggle="#cb_datasci281">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 281</span> 
+<span class="title">Computer Vision</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci281">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+This course introduces the theoretical and practical aspects of computer vision, covering both classical and state of the art deep-learning based approaches. This course covers everything from the basics of the image formation process in digital cameras and biological systems, through a mathematical and practical treatment of basic image processing, space/frequency representations, classical computer vision techniques for making 3-D measurements</span><span class="deschide"> from images, and modern deep-learning based techniques for image classification and recognition.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Computer Vision:</span> Read More [+]</a></p>
+<div id="501" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Be able to read and understand research papers in the computer-vision literature.<br/>
+<br/>
+Build computer vision systems to solve real-world problems.<br/>
+<br/>
+Properly formulate problems with the appropriate mathematical and computational tools.<br/>
+<br/>
+Understand the building blocks of classical computer vision techniques.<br/>
+Understand the building blocks of modern computer vision techniques (primarily artificial neural networks).<br/>
+<br/>
+Understand the process by which images are formed and represented.<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only. <span class="code_bubble" data-code-bubble="DATASCI 207">DATASCI 207</span>. We assume you are familiar with machine learning techniques. You should also be comfortable with linear algebra, which we'll use for vector representations and when we discuss deep learning. Intermediate programming skills in an object-oriented language (e.g., Python). This course will use Python for all examples, exercises, and assignments</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Computer Vision:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci290" data-toggle="#cb_datasci290">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 290</span> 
+<span class="title">Special Topics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci290">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2023, Spring 2023, Fall 2022<br/>
+Specific topics, may vary from section to section, year to year.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics:</span> Read More [+]</a></p>
+<div id="129" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Students may enroll in multiple sections of this course within the same semester.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week for fourteen weeks. Three hours of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasci293" data-toggle="#cb_datasci293">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI 293</span> 
+<span class="title">Data Science Professional Practicum</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasci293">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2023<br/>
+This course provides academic scaffolding for graduate students in data science who are engaged in internships, practicums, or relevant types of independent research while progressing toward a master’s degree. We focus on developing skills in project management, organizational navigation, and professional communication related to data science. In addition, the practicum explores various applications of data science methods in industrial, academic, governmental, and</span><span class="deschide"> nonprofit settings. We discuss common challenges facing data scientists at work and possible approaches to addressing these challenges.</span><br/>
+ <a href="" class="btn-readmore"><span>Data Science Professional Practicum:</span> Read More [+]</a></p>
+<div id="586" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Assess the organizational culture of a company, governmental body, or non-governmental organization, especially as it relates to data-driven decision making and ability to adopt or employ data science methods<br/>
+Connect academic knowledge about data science to real-world professional contexts<br/>
+Evaluate the effectiveness of a variety of data science methods when deployed in organizational situations<br/>
+Integrate the student's own individual professional goals with the organization's needs relevant to the internship or practicum<br/>
+Reflect critically on the internship or practicum experience</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 5th Year MIDS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 1 hour of lecture per week</p><p><strong>Summer:</strong> 14 weeks - 1 hour of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture per week for fourteen weeks. One hour of lecture per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Data Science Professional Practicum:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

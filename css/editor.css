@@ -1,0 +1,6 @@
+@import url("screen.css");
+@import url("courseleaf.css");
+#content {
+	padding: 10px;
+	background: #fff;
+}

@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Applied Data Science</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<aboutthecertificatetext name="About the Program">
+<![CDATA[
+<p><span id="docs-internal-guid-e28a44ec-7fff-7ee5-5ec0-f0343923c181">The Graduate Certificate in Applied Data Science, offered by the UC Berkeley School of Information, introduces the tools, methods, and conceptual approaches used to support modern data analysis and decision-making in professional and applied research settings. It exposes students to the challenges of working with data (e.g., asking a good question, inference and causality, decision-making) as well as to the new tools and techniques for data analytics (machine learning, data mining, and more).</span></p>
+<p><span id="docs-internal-guid-e28a44ec-7fff-7ee5-5ec0-f0343923c181">The certificate is particularly designed to meet the needs of the graduate students in Berkeley’s professional schools — both professional master’s students and doctoral students — as well as graduate students in the social sciences and the arts &amp; humanities.</span></p>
+<p><span id="docs-internal-guid-e28a44ec-7fff-7ee5-5ec0-f0343923c181">The need for expertise in data analytics continues to grow in all organizations and disciplines. Graduate students in every field are now working with data from new sources: websites, electronic medical records, transaction records, sensor networks, smart phones, and digitized records and documents. The analytical tools and methods traditionally used to derive insights from structured and well-curated data sets (census, surveys, and administrative data) are not sufficient for this new, unstructured and often user-generated data.</span></p>
+<p><span id="docs-internal-guid-e28a44ec-7fff-7ee5-5ec0-f0343923c181">The Graduate Certificate in Applied Data Science provides hands-on practice working with unstructured and user-generated data to identify new ways to inform decision-making. The curriculum educates professionals and scholars to be intelligent consumers of data science techniques in a variety of domains, with a foundation of skills for applying these techniques in their own domains.</span></p>
+<div> </div>
+]]>
+</aboutthecertificatetext>
+<admissionstext name="Admissions">
+<![CDATA[
+<p><span id="docs-internal-guid-e4380c87-7fff-e5f7-1927-519d99917f12">Any UC Berkeley graduate student in good standing may apply. To apply, students should submit the following materials on <a href="https://www.ischool.berkeley.edu/programs/data-science-certificate">the School of Information website</a>: </span></p>
+<ul>
+	<li><span>a letter of intent, </span></li>
+	<li><span>a proposed study plan, </span></li>
+	<li><span>a description of their Python programming and statistics competencies, </span></li>
+	<li><span>their curriculum vitae or resume, </span></li>
+	<li><span style="font-size:1em">their Berkeley course transcript. </span></li>
+</ul>
+<p><span style="font-size:1em">Applications are accepted twice a year, in the middle of the fall and spring semesters.</span></p>
+<p><span>Students may apply at any time during their UC Berkeley graduate career, either before or after taking courses that would count toward the certificate.</span></p>
+]]>
+</admissionstext>
+<certificaterequirementstext name="Certificate Requirements">
+<![CDATA[
+<h3><span id="docs-internal-guid-18711999-7fff-35c0-2f04-1cc6c40fb358">Prerequisites</span></h3>
+<p><strong>Applicants must:</strong></p>
+<ul>
+	<li><span id="docs-internal-guid-18711999-7fff-35c0-2f04-1cc6c40fb358">Be registered and enrolled in a graduate degree program at UC Berkeley</span></li>
+	<li><span id="docs-internal-guid-18711999-7fff-35c0-2f04-1cc6c40fb358">Be in good academic standing</span></li>
+	<li><span id="docs-internal-guid-18711999-7fff-35c0-2f04-1cc6c40fb358">Meet course and subject matter prerequisites for courses taken in the certificate program, typically including Python programming and basic statistics knowledge.</span></li>
+</ul>
+<h3><span id="docs-internal-guid-18711999-7fff-35c0-2f04-1cc6c40fb358">Certificate Requirements</span></h3>
+<p><strong><span id="docs-internal-guid-18711999-7fff-35c0-2f04-1cc6c40fb358">The certificate requires three 3-unit courses, taken from the following approved lists:</span></strong></p>
+<ol>
+	<li>
+	<p><span id="docs-internal-guid-18711999-7fff-35c0-2f04-1cc6c40fb358">An introductory data science class</span></p>
+	</li>
+	<li>
+	<p><span id="docs-internal-guid-18711999-7fff-35c0-2f04-1cc6c40fb358">A course in analytical methods and techniques of data science</span></p>
+	</li>
+	<li>
+	<p><span id="docs-internal-guid-18711999-7fff-35c0-2f04-1cc6c40fb358">An additional elective: either a domain-specific data science course or a second methods course.</span></p>
+	</li>
+</ol>
+<p><span id="docs-internal-guid-18711999-7fff-35c0-2f04-1cc6c40fb358">Courses should be taken for a letter grade and must be completed with a grade of B or higher. </span><span>At least one of these courses must be an INFO course offered by the School of Information.</span></p>
+<h5>1. INtroductory data science course</h5>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td colspan="2"><span class="courselistcomment">One of the following:</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="INFO 201">INFO 201</span></td><td>Research Design and Applications for Data and Analysis <sup>1</sup></td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="DATASCI 201">DATASCI 201</span></td><td>Research Design and Applications for Data and Analysis (MIDS and MICS students only)</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<div> </div>
+<h5><span id="docs-internal-guid-2dc15739-7fff-1d0d-dbba-9e8cad1571b1"> 2. Analytical Methods and Techniques of Data Science</span></h5>
+<p>Students must take at least one course from this list:</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="INFO 251">INFO 251</span></td><td>Applied Machine Learning</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="BIO ENG 245">BIO ENG 245</span></td><td>Introduction to Machine Learning for Computational Biology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI C200A">COMPSCI C200A</span></td><td>Principles and Techniques of Data Science</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI C281A">COMPSCI C281A</span></td><td>Statistical Learning Theory</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 289A">COMPSCI 289A</span></td><td>Introduction to Machine Learning</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CYBER 207">CYBER 207</span></td><td>Applied Machine Learning for Cybersecurity (MIDS and MICS students only)</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="DATASCI 207">DATASCI 207</span></td><td>Applied Machine Learning (MIDS and MICS students only)</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT C200C">STAT C200C</span></td><td>Principles and Techniques of Data Science</td><td class="hourscol">4</td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT C241A">STAT C241A</span></td><td>Statistical Learning Theory</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<h5><strong>3. Electives</strong></h5>
+<p><span>Students must take one domain-specific data science course from the following list or a second methods course from the list in Section 2 above:</span></p>
+<div>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="A,RESEC 213">A,RESEC 213</span></td><td>Applied Econometrics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CIV ENG 263N">CIV ENG 263N</span></td><td>Scalable Spatial Analytics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI C267">COMPSCI C267</span></td><td>Applications of Parallel Computers</td><td class="hourscol">3-4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 286A">COMPSCI 286A</span></td><td>Introduction to Database Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI C281B">COMPSCI C281B</span></td><td>Advanced Topics in Learning and Decision Making</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 288">COMPSCI 288</span></td><td>Natural Language Processing</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CY PLAN 204C">CY PLAN 204C</span></td><td>Analytic and Research Methods for Planners: Introduction to GIS and City Planning</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CY PLAN 255">CY PLAN 255</span></td><td>Urban Informatics and Visualization</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CY PLAN 257">CY PLAN 257</span></td><td>Data Science for Human Mobility and Socio-technical Systems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EDUC C260F">EDUC C260F</span></td><td>Course Not Available</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="DATASCI 209">DATASCI 209</span></td><td>Data Visualization (MIDS and MICS students only)</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="DATASCI 241">DATASCI 241</span></td><td>Experiments and Causal Inference (MIDS and MICS students only)</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="DATASCI 266">DATASCI 266</span></td><td>Natural Language Processing with Deep Learning (MIDS and MICS students only)</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EDUC 275B">EDUC 275B</span></td><td>Data Analysis in Educational Research II</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="EDUC 275G">EDUC 275G</span></td><td>Hierarchical and Longitudinal Modeling</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EDUC 276E">EDUC 276E</span></td><td>Research Design and Methods for Program and Policy Evaluation</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="EECS 227AT">EECS 227AT</span></td><td>Optimization Models in Engineering</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG 227BT">EL ENG 227BT</span></td><td>Convex Optimization</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG C227C">EL ENG C227C</span></td><td>Convex Optimization and Approximation</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="EL ENG C227T">EL ENG C227T</span></td><td>Introduction to Convex Optimization</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN C233">ENGIN C233</span></td><td>Applications of Parallel Computers</td><td class="hourscol">3-4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="ESPM 215">ESPM 215</span></td><td>Hierarchical Statistical Modeling in Environmental Science</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="ESPM 288">ESPM 288</span></td><td>Reproducible and Collaborative Data Science</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="GEOG 249">GEOG 249</span></td><td>Spatiotemporal Data Analysis in the Climate Sciences</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="GEOG 279">GEOG 279</span></td><td>Statistics and Multivariate Data Analysis for Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="GEOG 282">GEOG 282</span></td><td>Geographic Information Systems: Applications in Geographical Research</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="GEOG 285">GEOG 285</span></td><td>Topics in Earth System Remote Sensing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="INFO 247">INFO 247</span></td><td>Information Visualization and Presentation</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="INFO 256">INFO 256</span></td><td>Applied Natural Language Processing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="INFO 259">INFO 259</span></td><td>Natural Language Processing</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="INFO 288">INFO 288</span></td><td>Big Data and Development</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="INFO C260F">INFO C260F</span></td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 242">IND ENG 242</span></td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG C227A">IND ENG C227A</span></td><td>Introduction to Convex Optimization</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG C227B">IND ENG C227B</span></td><td>Convex Optimization and Approximation</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="JOURN 221">JOURN 221</span></td><td>Introduction to Data Visualization</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="LINGUIS 252">LINGUIS 252</span></td><td>COMPUTATIONAL LINGUISTICS</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="LD ARCH 289">LD ARCH 289</span></td><td>Applied Remote Sensing</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="EWMBA 263">EWMBA 263</span></td><td>Marketing Analytics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MFE 230P">MFE 230P</span></td><td>Financial Data Science</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH 231A">PB HLTH 231A</span></td><td>Analytic Methods for Health Policy and Management</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH C240A">PB HLTH C240A</span></td><td>Introduction to Modern Biostatistical Theory and Practice</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH C240B">PB HLTH C240B</span></td><td>Biostatistical Methods: Survival Analysis and Causality</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH C240C">PB HLTH C240C</span></td><td>Biostatistical Methods: Computational Statistics with Applications in Biology and Medicine</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH C240D">PB HLTH C240D</span></td><td>Biostatistical Methods: Computational Statistics with Applications in Biology and Medicine II</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH 241">PB HLTH 241</span></td><td>Intermediate Biostatistics for Public Health</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH C242C">PB HLTH C242C</span></td><td>Longitudinal Data Analysis</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH 244">PB HLTH 244</span></td><td>Big Data: A Public Health Perspective</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH 251C">PB HLTH 251C</span></td><td>Causal Inference and Meta-Analysis in Epidemiology</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="POL SCI C236A">POL SCI C236A</span></td><td>The Statistics of Causal Inference in the Social Science</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="POL SCI C236B">POL SCI C236B</span></td><td>Quantitative Methodology in the Social Sciences Seminar</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="POL SCI 239T">POL SCI 239T</span></td><td>An Introduction to Computational Tools and Techniques for Social Science Research</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PUB POL 249">PUB POL 249</span></td><td>Statistics for Program Evaluation</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PUB POL 275">PUB POL 275</span></td><td>Spatial Data and Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PUB POL 279">PUB POL 279</span></td><td>Research Design and Data Collection for Public Policy Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PUB POL 288">PUB POL 288</span></td><td>Risk and Optimization Models for Policy</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PUB POL 290">PUB POL 290</span></td><td>Special Topics in Public Policy</td><td class="hourscol">1-4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="SOCIOL C271D">SOCIOL C271D</span></td><td>Quantitative/Statistical Research Methods in Social Sciences</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="SOCIOL 273L">SOCIOL 273L</span></td><td>Computational Social Science</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="SOCIOL 273M">SOCIOL 273M</span></td><td>Computational Social Science</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT 215A">STAT 215A</span></td><td>Statistical Models: Theory and Application</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT 215B">STAT 215B</span></td><td>Statistical Models: Theory and Application</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT 238">STAT 238</span></td><td>Bayesian Statistics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT C239A">STAT C239A</span></td><td>The Statistics of Causal Inference in the Social Science</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT C239B">STAT C239B</span></td><td>Quantitative Methodology in the Social Sciences Seminar</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT C241B">STAT C241B</span></td><td>Advanced Topics in Learning and Decision Making</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT 243">STAT 243</span></td><td>Introduction to Statistical Computing</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT 244">STAT 244</span></td><td>Statistical Computing</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT C245A">STAT C245A</span></td><td>Introduction to Modern Biostatistical Theory and Practice</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT C245B">STAT C245B</span></td><td>Biostatistical Methods: Survival Analysis and Causality</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT C245C">STAT C245C</span></td><td>Biostatistical Methods: Computational Statistics with Applications in Biology and Medicine</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT C245D">STAT C245D</span></td><td>Biostatistical Methods: Computational Statistics with Applications in Biology and Medicine II</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT C247C">STAT C247C</span></td><td>Longitudinal Data Analysis</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT 248">STAT 248</span></td><td>Analysis of Time Series</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT 259">STAT 259</span></td><td>Reproducible and Collaborative Statistical Data Science</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT C261">STAT C261</span></td><td>Quantitative/Statistical Research Methods in Social Sciences</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="VIS SCI 265">VIS SCI 265</span></td><td>Neural Computation</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+</div>
+<div> </div>
+]]>
+</certificaterequirementstext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

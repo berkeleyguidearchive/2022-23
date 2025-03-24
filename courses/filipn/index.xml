@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Filipino (FILIPN)</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext name="Courses">
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="filipncourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_filipn1a" data-toggle="#cb_filipn1a">
+<h3 class="courseblocktitle">
+<span class="code">FILIPN&#160;1A</span> 
+<span class="title">Introductory Filipino</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_filipn1a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+A systematic introduction to the grammar, sentence patterns, and essential vocabulary of modern standard Filipino. Emphasis is placed on extensive practice in idiomatic Filipino conversation, with additional practice in reading and writing Filipino.</span><br />
+ <a href="" class="btn-readmore"><span>Introductory Filipino:</span> Read More [+]</a></p>
+<div id="921" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1A: None. 1B: 1A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Filipino/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Barrios-Leblanc</p><p><strong>Formerly known as:</strong> Tagalog 1A</p></div>
+<p><a href="" class="btn-readless"><span>Introductory Filipino:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_filipn1b" data-toggle="#cb_filipn1b">
+<h3 class="courseblocktitle">
+<span class="code">FILIPN&#160;1B</span> 
+<span class="title">Introductory Filipino</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_filipn1b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+A systematic introduction to the grammar, sentence patterns, and essential vocabulary of modern standard Filipino. Emphasis is placed on extensive practice in idiomatic Filipino conversation, with additional practice in reading and writing Filipino.</span><br />
+ <a href="" class="btn-readmore"><span>Introductory Filipino:</span> Read More [+]</a></p>
+<div id="863" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Filipino/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Gosalvez</p><p><strong>Formerly known as:</strong> Tagalog 1B</p></div>
+<p><a href="" class="btn-readless"><span>Introductory Filipino:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_filipn15" data-toggle="#cb_filipn15">
+<h3 class="courseblocktitle">
+<span class="code">FILIPN&#160;15</span> 
+<span class="title">Intensive Introductory Filipino</span> 
+<span class="hours">10 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_filipn15">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2012 8 Week Session<br/>
+Provides the learner with essential vocabulary and study of sentence structures and grammar. Topics include: everyday life, the use of language in negotiations in the community, language and culture; and the history of Tagalog/Pilipino/Filipino. Students read simple texts and write short essays/creative pieces.</span><br />
+ <a href="" class="btn-readmore"><span>Intensive Introductory Filipino:</span> Read More [+]</a></p>
+<div id="952" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 20 hours of lecture and 5 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Twenty hours of Lecture and Five hours of Discussion per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Filipino/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Aban</p></div>
+<p><a href="" class="btn-readless"><span>Intensive Introductory Filipino:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_filipn100a" data-toggle="#cb_filipn100a">
+<h3 class="courseblocktitle">
+<span class="code">FILIPN&#160;100A</span> 
+<span class="title">Intermediate Filipino</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_filipn100a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+The goal of this course is to enable students to increase their proficiency in Filipino to at least the intermediate-high level of the national ACTFL Proficiency Guidelines. While speaking and listening comprehension will be stressed, training in reading and writing Filipino will be an integral part of instruction. Films and video/audio materials will supplement written texts.</span><br />
+ <a href="" class="btn-readmore"><span>Intermediate Filipino:</span> Read More [+]</a></p>
+<div id="622" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1A-1B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><p><strong>Summer:</strong> 6 weeks - 12.5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture per week. Twelve and one-half hours of lecture per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Filipino/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Barrios-Leblanc</p></div>
+<p><a href="" class="btn-readless"><span>Intermediate Filipino:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_filipn100ab" data-toggle="#cb_filipn100ab">
+<h3 class="courseblocktitle">
+<span class="code">FILIPN&#160;100AB</span> 
+<span class="title">Intermediate Filipino AB</span> 
+<span class="hours">9 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_filipn100ab">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2019 8 Week Session, Summer 2018 8 Week Session<br/>
+This is an intermediate class with emphasis on four basic skills: listening, speaking, reading, and writing. The first part of the course involves a review and expansion of vocabulary and grammar learned in Introductory Filipino through dialogues, listening, reading and writing exercises. Then, students learn four necessary skills in the effective use of Filipino: describing a person, place, or feelings; narrating a story</span><span class="deschide"> or an incident; defining and explaining; and reasoning.</span><br />
+ <a href="" class="btn-readmore"><span>Intermediate Filipino AB:</span> Read More [+]</a></p>
+<div id="583" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Filipino 1AB or Filipino 15 or Filipino XY or Placement Exam or Consent of Instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 8 weeks - 10 hours of lecture and 7 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Ten hours of lecture and seven hours of discussion per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Filipino/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required, with common exam group. </p></div>
+<p><a href="" class="btn-readless"><span>Intermediate Filipino AB:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_filipn100b" data-toggle="#cb_filipn100b">
+<h3 class="courseblocktitle">
+<span class="code">FILIPN&#160;100B</span> 
+<span class="title">Intermediate Filipino</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_filipn100b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+The goal of this course is to enable students to increase their proficiency in Filipino to at least the intermediate-high level of the national ACTFL Proficiency Guidelines. While speaking and listening comprehension will be stressed, training in reading and writing Filipino will be an integral part of instruction. Films and video/audio materials will supplement written texts.</span><br />
+ <a href="" class="btn-readmore"><span>Intermediate Filipino:</span> Read More [+]</a></p>
+<div id="461" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1A-1B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><p><strong>Summer:</strong> 6 weeks - 12.5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture per week. Twelve and one-half hours of lecture per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Filipino/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Barrios-Leblanc</p></div>
+<p><a href="" class="btn-readless"><span>Intermediate Filipino:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_filipn101a" data-toggle="#cb_filipn101a">
+<h3 class="courseblocktitle">
+<span class="code">FILIPN&#160;101A</span> 
+<span class="title">Advanced Filipino</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_filipn101a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+Students read and discuss essays on language, literature, and Phillippine society, and literary texts. Topics include language and the nation; poetry and discourse; language and ideology; and &quot;pananalinghaga&quot; (tropes/metaphors) in understanding society. The students choose whether they would like to go on a creative (poetry, fiction) or a research track (essay).</span><br />
+ <a href="" class="btn-readmore"><span>Advanced Filipino:</span> Read More [+]</a></p>
+<div id="997" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100A-100B or equivalent, or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture/discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Filipino/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Barrios-Leblanc</p></div>
+<p><a href="" class="btn-readless"><span>Advanced Filipino:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_filipn101b" data-toggle="#cb_filipn101b">
+<h3 class="courseblocktitle">
+<span class="code">FILIPN&#160;101B</span> 
+<span class="title">Advanced Filipino</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_filipn101b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2021, Spring 2020<br/>
+Students read and discuss essays on language, literature, and Phillippine society, and literary texts. Topics include language and the nation; poetry and discourse; language and ideology; and &quot;pananalinghaga&quot; (tropes/metaphors) in understanding society. The students choose whether they would like to go on a creative (poetry, fiction) or a research track (essay).</span><br />
+ <a href="" class="btn-readmore"><span>Advanced Filipino:</span> Read More [+]</a></p>
+<div id="423" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100A-100B, or equivalent, or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture/discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Filipino/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Barrios-Leblanc</p></div>
+<p><a href="" class="btn-readless"><span>Advanced Filipino:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

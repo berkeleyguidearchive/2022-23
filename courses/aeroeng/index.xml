@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Aerospace Engineering (AERO ENG)</title>
+
+
+<text>
+<![CDATA[  
+<p><span>Courses</span></p>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aeroeng1" data-toggle="#cb_aeroeng1">
+<h3 class="courseblocktitle">
+<span class="code">AERO ENG 1</span> 
+<span class="title">Aerospace Engineering 1 Seminar</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aeroeng1">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023<br/>
+This is a freshman-level seminar course offered every Fall semester consisting of general-audience lectures by leading practitioners of aerospace engineering from the Bay Area and beyond. This seminar will be coordinated by a faculty member in charge of identifying and scheduling the speakers.</span><br/>
+ <a href="" class="btn-readmore"><span>Aerospace Engineering 1 Seminar:</span> Read More [+]</a></p>
+<div id="926" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> This seminar series is intended to provide a cutting-edge professional perspective to the students, to reinforce their appreciation for the technological and societal relevance of the discipline, and to stimulate their interest in the technical component of the aerospace engineering curriculum.</p><p><strong>Student Learning Outcomes:</strong> An appreciation of the technological challenges and professional opportunities within the discipline of aerospace engineering</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-1 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Aerospace Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Alternative to final exam. </p><p><strong>Instructors:</strong> Papadopoulos, Tomlin, Fratoni, Leachman, Minor</p></div>
+<p><a href="" class="btn-readless"><span>Aerospace Engineering 1 Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aeroeng2" data-toggle="#cb_aeroeng2">
+<h3 class="courseblocktitle">
+<span class="code">AERO ENG 2</span> 
+<span class="title">Aerospace Engineering 2 Seminar</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aeroeng2">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023<br/>
+This is a freshman-level seminar course offered every Spring semester that showcases aerospace-related research by the UC Berkeley campus engineering and scientific community (including Lawrence Berkeley National Laboratory and the Space Sciences Laboratory). This seminar will be coordinated by one of the faculty who will be in charge of scheduling the speakers.</span><br/>
+ <a href="" class="btn-readmore"><span>Aerospace Engineering 2 Seminar:</span> Read More [+]</a></p>
+<div id="63" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> This seminar series is intended to introduce first-year engineering majors to the wide array of aerospace-related research conducted on campus and to serve as an intellectual inspiration to those who contemplate pursuing the aerospace engineering major.</p><p><strong>Student Learning Outcomes:</strong> An appreciation of the breadth of aerospace engineering and the opportunities of undergraduate student engagement in aerospace-related research on campus.</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-1 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Aerospace Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Alternative to final exam. </p><p><strong>Instructors:</strong> Papadopoulos, Tomlin, Fratoni, Leachman, Minor</p></div>
+<p><a href="" class="btn-readless"><span>Aerospace Engineering 2 Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aeroeng10" data-toggle="#cb_aeroeng10">
+<h3 class="courseblocktitle">
+<span class="code">AERO ENG 10</span> 
+<span class="title">Introduction to Aerospace Engineering Design</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aeroeng10">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023<br/>
+This course introduces mathematical engineering concepts and a wide range of analysis and design techniques of relevance to aerospace engineering via approximately 3-week modules covering the following topics: dynamics and control of a small quad-rotor aircraft; dynamics of elliptic, hyperbolic, and parabolic orbits, including rendezvous of objects in the same circular orbit; control volume analysis of a rocket engine; sling-shot effect to drive space probes</span><span class="deschide"> into space; thermal control in outer space; optimization of airfoils using morphing techniques; rapid prototyping-assisted design of lightweight materials.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Aerospace Engineering Design:</span> Read More [+]</a></p>
+<div id="711" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Prerequisite: <span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span>, <span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span>, <span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span>, Programming (<span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI 61A</span> or <span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span>), or equivalent background. Co-Requisite: <span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span>, or equivalent background</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Aerospace Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Papadopoulos, Marcus, Tomlin, Savas, Beyen, Minor</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Aerospace Engineering Design:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aeroeng24" data-toggle="#cb_aeroeng24">
+<h3 class="courseblocktitle">
+<span class="code">AERO ENG 24</span> 
+<span class="title">Freshman Seminars</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aeroeng24">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023<br/>
+The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester.</span><br/>
+ <a href="" class="btn-readmore"><span>Freshman Seminars:</span> Read More [+]</a></p>
+<div id="199" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> To introduce interested students to a particular component of aerospace engineering and to demonstrate the technological challenges, as well as the broader societal impact of the discipline.</p><p><strong>Student Learning Outcomes:</strong> Upon completion of this seminar, the student will have attained a critical understanding of the intersection of science, technology, and society in the context of an aerospace-related topic.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Aerospace Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final Exam To be decided by the instructor when the class is offered. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman Seminars:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aeroeng98" data-toggle="#cb_aeroeng98">
+<h3 class="courseblocktitle">
+<span class="code">AERO ENG 98</span> 
+<span class="title">Supervised Group Study and Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aeroeng98">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Not yet offered<br/>
+Organized group study on various topics selected by lower division students under the sponsorship and direction of a member of the Aerospace Engineering faculty.</span><br/>
+ <a href="" class="btn-readmore"><span>Supervised Group Study and Research:</span> Read More [+]</a></p>
+<div id="217" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor. Lower division standing</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><p><strong>Summer:</strong> 10 weeks - 1.5-6 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One to four hours of directed group study per week. One and one-half to six hours of directed group study per week for 10 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Aerospace Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Group Study and Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aeroengc162" data-toggle="#cb_aeroengc162">
+<h3 class="courseblocktitle">
+<span class="code">AERO ENG C162</span> 
+<span class="title">Introduction to Flight Mechanics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aeroengc162">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023<br/>
+This course introduces flight mechanics and a wide range of analysis and design techniques of relevance to the flight and performance characteristics of aerospace vehicles. The course consists of 6 major modules with the following topics: introduction, flow types, lift and drag, aircraft performance, stability and control, and, prominently, space flight. The entire course is enriched with numerous practical examples from real life that help to understand the practical</span><span class="deschide"> use of the subject matter.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Flight Mechanics:</span> Read More [+]</a></p>
+<div id="733" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> This course intends to introduce undergraduate engineering majors with an interest in aerospace engineering to analysis and design techniques of relevance to the flight and performance characteristics of aerospace vehicles in a self-contained manner and in anticipation of the engineering science coursework in the upper division. Simultaneously, the course intends to make tangible connections between the theory and relevant practical examples in aerospace engineering by means of the discussion of research facilities at NASA Ames (wind-tunnels and simulators), X-planes, relevant airliner accidents, launch and re-entry telemetry data, etc.</p><p><strong>Student Learning Outcomes:</strong> Upon completion of this course, students should be able to:<br/>
+•<br/>
+Calculate lift and drag of a 2D airfoil and a 3D wing in subsonic and supersonic speed regimes<br/>
+•<br/>
+Calculate thrust and power required for level flight<br/>
+•<br/>
+Compute the range and endurance of propeller-driven as well as jet-powered aircraft<br/>
+•<br/>
+Compute the necessary runway length for takeoff and landing<br/>
+•<br/>
+Analyze aircraft trim conditions<br/>
+•<br/>
+Assess longitudinal balance and static stability of an aircraft<br/>
+•<br/>
+Find orbit parameters from the orbital geometry<br/>
+•<br/>
+Design a Hohmann orbit transfer and compute the total DV<br/>
+•<br/>
+Calculate peak deceleration and speed at touchdown in a re-entry path for ballistic as well as gliding flight.<br/>
+•<br/>
+Describe and discuss various design methodologies and their trade-offs.<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span>, <span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span>, <span class="code_bubble" data-code-bubble="MEC ENG 106">MEC ENG 106</span> (<span class="code_bubble" data-code-bubble="MEC ENG 106">MEC ENG 106</span> may be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Aerospace Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Lombaerts, Papadopoulos</p><p><strong>Also listed as:</strong> MEC ENG C162</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Flight Mechanics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aeroengc184" data-toggle="#cb_aeroengc184">
+<h3 class="courseblocktitle">
+<span class="code">AERO ENG C184</span> 
+<span class="title">Flight Vehicle Structures and Aeroelasticity</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aeroengc184">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Not yet offered<br/>
+This course introduces engineering students to the analysis and design of load-bearing components of flight structures, ranging from subsonic aircraft to rockets. Emphasis is placed on the quasi-static and dynamic analysis of structural components which are prevalent in aerospace engineering. Attention is also devoted to a comprehensive design roadmap of flight vehicle structures from the full system- to the individual component-level</span><br/>
+ <a href="" class="btn-readmore"><span>Flight Vehicle Structures and Aeroelasticity:</span> Read More [+]</a></p>
+<div id="905" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> 1. Familiarize students with the different load-bearing components and loads encountered in flight vehicles.<br/>
+<br/>2. Sharpen the students’ skills in the statics and dynamics of thin-walled structures.<br/>
+<br/>3. Enhance the students’ aerospace engineering design skills by leveraging the use of the finite element method as a tool for both global and local analysis.<br/></p><p><strong>Student Learning Outcomes:</strong> Ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability.<br/>
+<br/>
+(g) A knowledge of contemporary issues.<br/>
+<br/>
+Ability to apply knowledge of mathematics, science, and engineering.<br/>
+<br/>
+Ability to design and conduct experiments, as well as to analyze and interpret data<br/>
+Ability to identify, formulate, and solve engineering problems.<br/>
+<br/>
+Ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.<br/>
+<br/>
+The broad education necessary to understand the impact of engineering solutions in a global, economic, environmental, and societal context.<br/>
+<br/>
+Understanding of professional and ethical responsibility.<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="CIV ENG C30">CIV ENG C30</span> / <span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span>, and <span class="code_bubble" data-code-bubble="MEC ENG 104">MEC ENG 104</span> or <span class="code_bubble" data-code-bubble="CIV ENG 126">CIV ENG 126</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Aerospace Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Papadopoulos</p><p><strong>Formerly known as:</strong> Mechanical Engineering 184</p><p><strong>Also listed as:</strong> CIV ENG C138/MEC ENG C184</p></div>
+<p><a href="" class="btn-readless"><span>Flight Vehicle Structures and Aeroelasticity:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aeroeng198" data-toggle="#cb_aeroeng198">
+<h3 class="courseblocktitle">
+<span class="code">AERO ENG 198</span> 
+<span class="title">Directed Group Study for Advanced Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aeroeng198">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023<br/>
+Group study of a selected topic or topics in Aerospace Engineering. Credit for 198 or 199 courses combined may not exceed 4 units in any single term. See College for other restrictions.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Study for Advanced Undergraduates:</span> Read More [+]</a></p>
+<div id="388" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing and good academic standing</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><p><strong>Summer:</strong> 10 weeks - 1.5-6 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One to four hours of directed group study per week. One and one-half to six hours of directed group study per week for 10 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Aerospace Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Study for Advanced Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

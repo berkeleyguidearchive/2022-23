@@ -1,0 +1,731 @@
+%pragma format=text/html
+// (By default, Ribbit outputs XML. This pragma overrides that.)
+
+//
+// Query & print search results
+// FocusSearch Injector 4.0 ("FSI4", a.k.a. CAT SiteSearch)
+// by Lee, May 2016
+// comments and further development by Ben Phillips
+//
+// See Search FAQ on internal site for documentation.
+//
+// TODO: search logging. On public, a print_debug from this file won't actually
+// go anywhere unless someone creates a /search/wizdebug.out, but I don't know
+// where else search logging should go.
+
+
+// backflips necessary to get asa_includes.html
+
+(function(){
+'use strict';
+
+// don't show more than this many results
+var reslimit = 1024;
+// don't show more than this many characters of each summary (TODO)
+var summarylimit = 200;
+
+var publicurl = "http://guide.berkeley.edu".replace(/\/?$/, '');
+var pagename = "/search/index.html".replace(/[^\/]*$/, '');
+var latestEdition = "2022-23";
+var archiveroot = "/archive/".replace(/\/*$/, '/');
+var archiverootRE = new RegExp('^' + archiveroot);
+
+// send tcfdata.catalog config to browser
+var catalogCfg = null;
+// when set, always display search results from all archives
+var showArchiveRes = '';
+var asaincludes = '';
+
+
+// replace <catsearch> element with search results
+//
+// In case we later want SC GUI support:
+//
+// At rollover time, Support will start installing config for
+// the catsearch SC element once we have the GUI & draw in the core:
+// 	structuredcontent:catsearch|...|hidden=true
+// Before they do, this .rjs will ALSO need to start looking for that draw's
+// output, which should have one div for the not-found message, and one div per
+// tag attr.
+//
+// This TCF data:
+// <catsearch foo='value of attr foo'>
+// <p>Results are totally not found, dude.</p>
+// </catsearch>
+//
+// ...should draw to results.html like this:
+// <div class='searchresults'>
+// <div class='searchresults-notfoundmsg'>
+// <p>Results are totally not found, dude.</p>
+// </div>
+// <div class='searchresults-foo'>
+// value of attr foo
+// </div>
+// </div>
+//
+// The use case for the attribute divs ("foo") is probably providing an SC
+// control for choosing what types of results to display, e.g., <catsearch
+// programs="No programs found"> so that contents of <div
+// class='searchresults-programs"> can be replaced with program results.
+
+
+// parse /search/results.html in case it's customized
+var results = fopen("results.html");
+var notfoundstr = '';
+var work_str;
+while (work_str = fgets(results), !feof(results)) {
+	if (work_str.indexOf('<head>') === 0) {
+		print_doc(work_str + '\n');
+		// add styling for Always Show Archives feature to top of <head>
+		if (asaincludes) {
+			print_doc(asaincludes);
+			asaincludes = '';
+		}
+	}
+	else if (work_str.indexOf('<catsearch') === 0) {
+		print_doc("<div class='searchresults'>");
+		while (work_str = fgets(results), !feof(results)) {
+			if (/<\/catsearch>/.test(work_str)) {
+				notfoundstr += RegExp.leftContext;
+				var text_after_closing_tag = RegExp.rightContext;
+				searchResults(notfoundstr ? notfoundstr : 'No results found');
+				print_doc("</div>");
+				print_doc(text_after_closing_tag);
+				break;
+			} else {
+				notfoundstr += work_str;
+			}
+		}
+	} else {
+		print_doc(work_str + '\n');
+	}
+}
+
+function searchResults(notfoundstr) {
+	var args = {};
+	var rawArgs = {};
+	var queryStr = (getenv("QUERY_STRING") || '');
+	queryStr.split('&').forEach(function(term) {
+			var a = term.split('=');
+			try{
+				var key = decodeURIComponent(a[0]);
+				var value = decodeURIComponent(a[1]);
+				rawArgs[key] = value;
+				args[key.toLowerCase()] = value;
+			}
+			catch(e) {
+				ribbit_debug("bad query param: " + e);
+			}
+		});
+	args.queryStr = Object.keys(rawArgs).map(function (key) {
+		return encodeURIComponent(key) + '=' + encodeURIComponent(rawArgs[key]);
+	}).join('&');
+	// some old standard/templates name the input something other than 'search'
+	if (!args.search)
+		args.search = args.p || args.q || args.keyword;
+	var editionParam = args["edition"] || '';
+	var archivepathParam = (args["archivepath"] || '').replace(/\/+$/, '');
+	args.search = iconv(args.search || '', "ASCII//TRANSLIT").trim();
+	if (!args.search)
+		return;
+	if (!args.caturl)
+		args.caturl = args.fscaturl || args.gscaturl;
+	if (args.caturl) {
+		args.caturl = args.caturl.replace(/\/$/, '') + '/';
+	}
+	// map edition strings to DB info objects (returns from the findFsi4 func)
+	var dbCollection = false;
+	// map edition strings to result objects
+	var allResults = {};
+	// the edition we're actually showing
+	var printEdition = editionParam || latestEdition;
+	if (showArchiveRes && editionParam && archivepathParam &&
+			archivepathParam !== archiveroot + editionParam) {
+		ribbit_debug("Ignoring 'showarchivesbackto' due to mismatch between " +
+			"archivepath and edition formats in the query parameters. See " +
+			"Search FAQ on internal for ribbit.cfg mitigation steps.");
+		showArchiveRes = false;
+	}
+	if (showArchiveRes) {
+		dbCollection = getAllDBs(latestEdition, showArchiveRes);
+	}
+	else {
+		// a normal search, suddenly complicated to set up thanks to the
+		// showArchiveRes feature
+		dbCollection = {
+			dbinfoObj: {},
+			editionArr: [printEdition]
+		};
+		var fsinjectorInfo =
+			findFsi4(printEdition === latestEdition ? '' : printEdition);
+		if (!fsinjectorInfo)
+			dbCollection = false;
+		else
+			dbCollection.dbinfoObj[printEdition] = fsinjectorInfo;
+	}
+	if (!dbCollection) {
+		return '<div id="fssearchresults" class="searchresults">' + notfoundstr +
+			'</div>';
+	}
+	var totalResults = 0;
+	dbCollection.editionArr.forEach(function(ed) {
+		var dbinfo = dbCollection.dbinfoObj[ed];
+		// derive an archivepath for showArchiveRes and/or when there's no
+		// archivepath query param given
+		var archivepath = archiveroot + ed;
+		// otherwise honor archivepath query param for normal archive searches
+		if (!showArchiveRes && archivepathParam)
+			archivepath = archivepathParam;
+		// querying latest edition never uses archivepath
+		if (ed === latestEdition)
+			archivepath = '';
+		allResults[ed] = queryDB(ed, dbinfo, archivepath, notfoundstr, args);
+		totalResults += allResults[ed].count;
+	});
+	// With showArchiveRes, you get a special screen if the latest edition has no
+	// results but archives do.
+	var archivesOnly = false;
+	var html = '';
+	if (showArchiveRes) {
+		if (printEdition === latestEdition &&
+				allResults[latestEdition].count === 0 &&
+				totalResults > 0) {
+			archivesOnly = true;
+		}
+		// add archive links
+		var basehref = escurl(pagename) + '?' +
+			args.queryStr.replace(/&?archivepath=[^&]+/ig, '').
+				replace(/&?edition=[^&]+/ig, '');
+		html += '<div class="search-message">\n';
+		html += printArchiveLinks(basehref, printEdition,
+			dbCollection.editionArr, allResults, "select");
+		if (archivesOnly) {
+			html += '<p>There are no results for "' + eschtml(args.search) + '" in the ' +
+				eschtml(latestEdition) + ' edition. Here are some results from previous ' +
+				'editions:</p>\n';
+			html += printArchiveLinks(basehref, printEdition,
+				dbCollection.editionArr, allResults, "ul");
+		}
+		html += '</div>\n';
+	}
+	if (!archivesOnly && allResults[printEdition]) {
+		if (printEdition !== latestEdition) {
+			html += '<div class="search-message">\n' +
+				'<p class="search-edition-notice">Showing results for ' +
+				printEdition + '</p></div>';
+		}
+		html += allResults[printEdition].html;
+	}
+	print_doc(html + '\n');
+}
+
+function queryDB(edition, dbinfo, archivepath, notfoundstr, args) {
+	// return { html, count }
+	var retArr = [];
+	retArr.push('<div id="fssearchresults" class="searchresults">');
+	if (dbinfo.fsi3) {
+		var sql =
+			"SELECT fsi.path AS path, fsi.title AS title, " +
+				"fsi.description AS snippet,\n" +
+			"group_concat(keyword) as keyword, count(keyword) AS cnt,\n" +
+			"SUM(weight) AS sweight,\n" +
+			// there is no program data in an fsi3 DB
+			"'N' AS is_program,\n" +
+			"CASE WHEN length(fsi.path) > 0 " +
+				"AND fsi.path IS NOT NULL THEN 0 ELSE 1 END " +
+				"AS is_course\n" +
+			"FROM " + dbinfo.prefix + "fsi JOIN " +
+				dbinfo.prefix + "fsi_keywords ON fsi.path = fsi_keywords.path\n" +
+			"WHERE keyword LIKE ? GROUP BY fsi.path\n" +
+			"ORDER BY is_course ASC, fsi.path DESC, cnt DESC, sweight DESC";
+	}
+	else {
+		var sql =
+			"SELECT code, path, fsearch.title, summary,\n" +
+					"offsets(fsearchtext) as offsets,\n" +
+					"snippet(fsearchtext) as snippet,\n" +
+					"CASE WHEN length(code) > 0 " +
+						"AND code IS NOT NULL THEN 1 ELSE 0 END " +
+						"AS is_course\n" +
+			"FROM " + dbinfo.prefix + "fsearchtext JOIN " +
+				dbinfo.prefix + "fsearch ON docid = key\n" +
+				"WHERE fsearchtext MATCH ?\n";
+		if (args.scontext == "programs") {
+			if (dbinfo.fsi3)
+				ribbit_debug("scontext=programs not supported in fsi3 DBs");
+			else
+				sql += " AND is_program = 'Y'\n";
+		}
+		if (args.scontext == "courses")
+			sql += " AND is_course = 1\n";
+	}
+	if (args.caturl) {
+		var catDesc = getCatObjRJS(catalogCfg, args.caturl).desc;
+		if (catDesc) {
+			retArr.push('<div class="search-message"><p>Showing results for ' +
+				escxml(catDesc) + ' only. <a href="' + escurl(pagename) + '?' +
+				args.queryStr.replace(/&?([fg]s)?caturl=[^&]+/i, '') +
+				'">Show all results.</a></p></div>');
+		}
+		// For a course, the path field contains a string like /foo/bar/baz/
+		// where /foo, /bar, and /baz are the roots of catalogs associated with
+		// that course via the catalog and coursetype attrs in
+		// localsteps/default.tcf. Courses not matched by any coursetype will have
+		// path '/'.
+		sql += " AND (path LIKE '" + dbesc(dbinfo.db, args.caturl) +
+			"%' OR (is_course = 1";
+		// no whereclause would mean no coursetypes associated with this catalog,
+		// so we should omit this part to include all courses
+		if (getCatObjRJS(catalogCfg, args.caturl).whereclause) {
+			sql += " AND path IS NOT NULL AND path != '/' AND " +
+				"path LIKE '%" + dbesc(dbinfo.db, args.caturl) + "%'\n";
+		}
+		sql += "))\n";
+	}
+	if (!dbinfo.fsi3) {
+		// list pages before courses...
+		sql += " ORDER BY is_course ASC, " +
+			// ...but otherwise trust leeprank
+			"leeprank(matchinfo(fsearchtext)) DESC\n";
+	}
+	sql += " LIMIT " + reslimit;
+	var hitcount = 0;
+	var results = dbquery(dbinfo.db, sql, [args.search]);
+	if (results && results.length) {
+		hitcount = results.length;
+		if (results.length === reslimit) {
+			ribbit_debug("Results for '" + args.search + "' limited to " +
+				reslimit + " -- there may have been more\n");
+		}
+		if (dbinfo.fsi3) {
+			results.forEach(function(res, i, results) {
+				// WUSTL, and perhaps others, have redundant data in their old
+				// archive DBs, e.g., "/foo/" as well as "/foo//" with an extra / at
+				// the end.  As long as the fsi3 sql above orders & groups by path
+				// we should be able to just do this:
+				if (i === results.length-1 ||
+						res.path !== results[i+1].path + '/') {
+					retArr.push(showResult(res, archivepath, args.caturl, false));
+				}
+				else {
+					hitcount--;
+				}
+			});
+		}
+		else {
+			// fsi4 DB
+			buildRanks(results, args.search);
+			results.forEach(function(res) {
+				if (res.rank.cols[0])
+					retArr.push(showResult(res, archivepath, args.caturl, true));
+				else
+					retArr.push(showResult(res, archivepath, args.caturl, false));
+			});
+		}
+	}
+	else {
+		retArr.push(notfoundstr);
+		if (results === null) {
+			ribbit_debug("DB error querying " +
+				(dbinfo.prefix || "fsinjector.sqlite.") +
+				' ' + dberr(dbinfo.db) + "\nsql was: " + sql);
+		}
+	}
+	retArr.push('</div>');
+	return { html: retArr.join(''), count: hitcount };
+}
+
+function buildRanks(results, searchStr) {
+	// Do any additional sorting needed.
+	// Add a rank object to each result, containing:
+	// 	hits - how many times any of the words in the search param were found
+	// 	words - how many of the words in the search param were found
+	// 	cols[] - an array of three integers indicating how many of the hits
+	// 		were found in the title, headlines, and body (in that order)
+	//
+	searchStr = (searchStr || '').toLowerCase().replace(/\+/g, ' ');
+	results.forEach(function(res) {
+		var words = { };
+		var cols = [ ];
+		// See https://www.sqlite.org/fts3.html#offsets
+		var terms = res.offsets.split(' ');
+		for (var i=0; i < terms.length; i+= 4) {
+			if (words[terms[i+1]])
+				words[terms[i+1]]++;
+			else
+				words[terms[i+1]] = 1;
+			if (cols[terms[i]])
+				cols[+(terms[i])]++;
+			else
+				cols[+(terms[i])] = 1;
+		}
+		res.rank = { hits: Math.floor(terms.length / 4),
+				words:Object.keys(words).length, cols: cols };
+	});
+	// If there's only one course result, list it at the top.
+	if (results.length > 1 &&						// there's more than one result
+			results[results.length-1].code &&	// the last one is a course
+			!results[results.length-2].code &&	// previous-to-last one is a page
+			// ...and the one course result's code exactly matches the entire
+			// search string
+			results[results.length-1].code.toLowerCase() === searchStr) {
+		var theOneCourse = results.pop();
+		results.unshift(theOneCourse);
+	}
+}
+
+function showResult(res, archivepath, caturl, summary) {
+	// Refers to global publicurl
+	var retArr = [];
+	retArr.push('<div class="searchresult ');
+	if (!res.summary)
+		summary = false;
+	// var fullcourse will be set true if this is a course result and
+	// fsi4CourseDraw !== "legacy", meaning the entire course draw will be in the
+	// summary field
+	var fullcourse = false;
+	if (res.code) {
+		// course result
+		retArr.push('search-courseresult">');
+		if (res.title === "__title_in_body__") {
+			fullcourse = true;
+		}
+		else {
+			retArr.push('<h2>' + res.title + '</h2>');
+		}
+	}
+	else {
+		// page result
+		var catDesc = '';
+		retArr.push('search-pageresult">');
+		// append catalog description if we aren't restricting results to one
+		// catalog
+		if (!caturl) {
+			catDesc = getCatObjRJS(catalogCfg, res.path).desc;
+		}
+		var href = res.path;
+		// always add archivepath when available, if it's not already there
+		// (early versions of fsearch_build added it right in the DB)
+		if (archivepath) {
+			if (!archiverootRE.test(href))
+				href = archivepath + href;
+		}
+		// always display publicurl
+		var displaypath = publicurl + href;
+		// whenever there's an archivepath we also want publicurl in the href,
+		// since archives don't usually exist anywhere else
+		if (archivepath)
+			href = displaypath;
+		retArr.push('<h2><a href="' + escurl(href) + '">' +
+				escxml(res.title) + '</a></h2>\n');
+		if (catDesc) {
+			retArr.push("<h3 class=\"search-catdesc\">" + escxml(catDesc) +
+				"</h3>\n");
+		}
+		retArr.push('<p class="search-url"><a href="' +
+			escurl(href) + '">' +
+			escxml(displaypath) + '</a></p>');
+		if (summary && res.summary) {
+			res.summary = eschtml(res.summary);
+		}
+	}
+	if (fullcourse)
+		retArr.push(res.summary);
+	else if (summary)
+		retArr.push('<p class="search-summary">' + res.summary + '</p>');
+	else
+		retArr.push('<p class="search-snippet">' + res.snippet + '</p>');
+	retArr.push('</div>\n');
+	return retArr.join('');
+}
+
+/**
+ * printArchiveLinks assumes basehref has been escaped by escurl prior to
+ * being provided to this function
+ */
+function printArchiveLinks(basehref, printEd, edArr, allResults, format) {
+	var html = [];
+	if (format === "ul")
+		html.push('<ul>\n');
+	else {
+		html.push('<div id="search-archive-selector">\n' +
+			'\t<form action="" id="archive-selector">\n' +
+			'\t\t<label for="edition-select">Change Edition</label>\n' +
+			'\t\t\t<select name="edition" id="edition-select">\n');
+	}
+	edArr.forEach(function(ed, i) {
+		var hits = allResults[ed].count;
+		if (format === "ul") {
+			// suppress archives with no hits from the UL
+			if (hits === 0)
+				return;
+			html.push('\t<li><a href="');
+		}
+		else {
+			html.push('\t\t\t\t<option ');
+			if (hits === 0)
+				html.push('disabled ');
+			if (ed === printEd)
+				html.push('selected ');
+			html.push('value="');
+		}
+		html.push(basehref + (i ? '&edition=' + encodeURIComponent(ed) : '') + '">' + escxml(ed) +
+			' (' + escxml(hits) + ' result' + (hits !== 1 ? 's' : '') + ')');
+		if (format === "ul")
+			html.push('</a></li>\n');
+		else
+			html.push('</option>\n');
+	});
+	if (format === "ul")
+		html.push('</ul>\n');
+	else {
+		html.push('\t\t\t</select>\n' +
+			'\t\t<button type="submit">Go</button>\n' +
+			'\t</form>\n' +
+			'</div>\n');
+	}
+	return html.join('');
+}
+
+function findFsi4(edition){
+	// Examine (and if edition is passed in, attach) fsinjector.sqlite and
+	// 	ensure it supports FSI4.
+	// If the file isn't found, return false.
+	// Otherwise, return object with properties:
+	// 	db			db name
+	// 	prefix	string to add to beginning of all table names in the db
+	// 	fsi3		true iff fsi4 is not supported by the db
+	var res;
+	var retObj = {
+		db: "fsinjector",
+		prefix: "",
+		fsi3: false
+	}
+	var dbFile = "";
+	if (edition) {
+		// attach edition-specific DB
+		var dbFile = "/ribbit/fsinjector" + edition + ".sqlite";
+		if (!finfo(dbFile)) {
+			ribbit_debug("WARNING: " + dbFile + " not found");
+			return false;
+		}
+		var attachedTable = "fs" + edition.replace(/[^\d]+/g, '');
+		res = dbattach('pagedb', dbFile, attachedTable);
+		if (!res) {
+			ribbit_debug('SEVERE: cannot attach ' + dbFile + ': ' +
+				dberr("pagedb"));
+			return false;
+		}
+		retObj.db = "pagedb";
+		retObj.prefix = attachedTable + '.';
+	}
+	// see if DB supports FSI4
+	res = dbquery(retObj.db,
+		"select * from " + retObj.prefix + "sqlite_master " +
+			"where type='table' and name='fsearch'");
+	if (!res || !res.length) {
+		// ribbit_debug((dbFile || retObj.db) +
+			// " does not support FSI4. Falling back to FSI3.");
+		retObj.fsi3 = true;
+	}
+	return retObj;
+}
+
+function getAllDBs(lateEd, earlyEd) {
+	// Take in two edition strings and return findFsi4 data for the range
+	// of editions spanned by the two of them.
+	// Return false only when lateEd all by itself looks invalid.
+	var ret = {
+		// contains properties named for edition strings,
+		// each containing a db metadata object returned by findFsi4()
+		dbinfoObj: {},
+		// array of edition strings to ensure order within dbinfoObj, most
+		// current (lateEd) first then counting backward to earlyEd
+		editionArr: []
+	};
+	// validate format of edition range
+	var lateEdObj = getEditionObj(lateEd);
+	var earlyEdObj = getEditionObj(earlyEd);
+	if (lateEdObj) {
+		ret.dbinfoObj[lateEd] = findFsi4();
+		ret.editionArr.push(lateEd);
+	}
+	if (!lateEdObj || !ret.dbinfoObj[lateEd]) {
+		// either the lateEd string couldn't be parsed by getYearObj(), or
+		// something went wrong with findFsi4()
+		ribbit_debug("FATAL: could not parse current edition: " + lateEd);
+		return false;
+	}
+	if (!earlyEdObj) {
+		ribbit_debug("Ignoring 'showarchivesbackto' -- bad edition format: " +
+			earlyEd);
+		return ret;
+	}
+	// Without the ability to inspect ribbit.cfg, all editions need to span
+	// the same range of years (probably one year). They cannot Jump Around;
+	// that is a House of Pain.
+	var lateEdSpan = lateEdObj.getPubCycleSpan();
+	var earlyEdSpan = earlyEdObj.getPubCycleSpan();
+	if (!lateEdSpan || lateEdSpan !== earlyEdSpan ||
+			!lateEdObj.matchFormat(earlyEdObj.year)) {
+		ribbit_debug("Ignoring 'showarchivesbackto' -- couldn't compare " +
+			earlyEd + " to " + lateEd);
+		return ret;
+	}
+	var archHistLen = lateEdObj.year.left - earlyEdObj.year.left;
+	for (var i=1; i <= archHistLen; i++) {
+		var ed = lateEdObj.subtractAndPrint(i);
+		var edObj = getEditionObj(ed);
+		if (!edObj) {
+			ribbit_debug("derived bad edition format somehow: " + ed);
+			continue;
+		}
+		if (ret.dbinfoObj[ed]) {
+			ribbit_debug("derived same edition twice somehow: " + ed);
+			continue;
+		}
+		var dbinfo = findFsi4(ed);
+		if (dbinfo) {
+			ret.dbinfoObj[ed] = dbinfo;
+			ret.editionArr.push(ed);
+		}
+	}
+	return ret;
+}
+
+function getEditionObj(editionStr) {
+	// Library of functions to validate, store, & do arithmetic on edition
+	// strings:
+	// 	1999-00
+	// 	migration2015-16
+	// 	2016-2017
+	//	Alpha characters are currently stripped and ignored, except to store
+	//	them in...
+	//	this.editionStr						// the original passed-in string
+	//	this.year : {left, right,			// four-digit integers
+	//		leftDigitCnt, rightDigitCnt}	// the original digit counts
+	var calc = {};
+	calc.editionFormatRE = /(\d+)-(\d+)/;
+
+	// Return an object of integers: {
+	// 	left, (four digits)
+	// 	right, (four digits)
+	// 	leftDigitCnt,
+	// 	rightDigitCnt
+	// }
+	// If called with no edition, return this.year.
+	// Otherwise, validate edition string and return false if
+	// the format does not match this.editionStr.
+	calc.getYearObj = function(edition) {
+		if (!edition && this.year)
+			return this.year;
+		if (typeof(edition) !== "string")
+			argArr[i] = String.toString(arg);
+		var arr = this.editionFormatRE.exec(edition);
+		this.editionFormatRE.lastIndex = 0;
+		if (!arr || arr.length !== 3)
+			return false;
+		var year = {left: arr[1], leftDigitCnt: arr[1].length,
+			right: arr[2], rightDigitCnt: arr[2].length};
+		// convert each year to 4-digit ints
+		var arr = ["left", "right"];
+		for (var i=0; i < arr.length; i++) {
+			var which = arr[i];
+			if (year[which].length === 2) {
+				// Support 2-digit editions back to 1990
+				// TODO: update this by 2089
+				if (year[which][0] === '9')
+					year[which] = "19" + year[which];
+				else
+					year[which] = "20" + year[which];
+			}
+			if (year[which].length !== 4) {
+				// trip warning below
+				year.right = -1;
+				break;
+			}
+			year[which] = Number(year[which]);
+		}
+		if (year.left >= year.right)
+			return false;
+		return year;
+	}
+
+	// Subtract left year from right, even for e.g., (2016-17).
+	// Return integer -- or false if they're reversed or it's hard to parse.
+	// edition arg is optional; default is to use this.year
+	calc.getPubCycleSpan = function(edition) {
+		var year = false;
+		if (edition)
+			year = this.getYearObj(edition);
+		else if (this.year)
+			year = this.year;
+		if (!year)
+			return 0;
+		return year.right - year.left;
+	}
+
+	// Take in integer. Subtract it from both years of stored editionStr.
+	// Return new edition string in same format.
+	calc.subtractAndPrint = function(subtrahend) {
+		var left = String(this.year.left - subtrahend);
+		var right = String(this.year.right - subtrahend);
+		left = left.substring(4 - this.year.leftDigitCnt);
+		right = right.substring(4 - this.year.rightDigitCnt);
+		return left + '-' + right;
+	}
+
+	// Take in an edition string or year object.
+	// Return true if the passed-in editionStr matches the format of this.year,
+	// or false otherwise.
+	calc.matchFormat = function(edition) {
+		var newEd = edition;
+		if (typeof(edition) === "object" && !edition.left) {
+			ribbit_debug("bad year object passed to matchFormat()");
+			return false;
+		}
+		if (typeof(edition) === "string")
+			newEd = this.getYearObj(editionStr);
+		if (newEd.leftDigitCnt !== this.year.leftDigitCnt ||
+				newEd.rightDigitCnt !== this.year.rightDigitCnt) {
+			// format mismatch vs the initialized value
+			return false;
+		}
+		else
+			return true;
+	}
+
+	//
+	// Initialization
+	//
+	// 'year' is an object of integers: {
+	// 	left, (four digits)
+	// 	right, (four digits)
+	// 	leftDigitCnt,
+	// 	rightDigitCnt
+	// }
+	calc.year = calc.getYearObj(editionStr);
+	if (!calc.year)
+		return false;
+	calc.editionStr = editionStr;
+	return calc;
+}
+
+function ribbit_debug(msg) {
+	msg = "CAT SiteSearch: " + msg;
+	print_debug(msg + '\n');
+	print_doc("<!-- " + escxml(msg) + " -->\n");
+}
+
+function getCatObjRJS(catalogCfg, path) {
+	// Return catalog label from the catalog TCF attr.
+	if (!catalogCfg || !path || !/^\//.test(path))
+		return '';
+	var basepath = path.replace(/[^\/]+$/, '').
+		replace(/^(\/[^\/]*).*$/, "$1");
+	if (basepath !== '/')
+		basepath += '/';
+	return catalogCfg[basepath] || {};
+}
+
+})();

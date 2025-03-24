@@ -1,0 +1,1066 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Operations Research and Management Science</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<abouttheprogramtext name="About the Program">
+<![CDATA[
+<h3>Bachelor of Arts (BA)</h3>
+<p>The Operations Research and Management Science (ORMS) major is designed for students in the College of Letters &amp; Science. It provides a solid foundation in the quantitative, model building, and problem-solving skills of operations research and management science. It also gives students the flexibility to learn more about a particular field of interest to them in which they can apply these skills.</p>
+<p>The major is very math intensive and is appropriate for students who enjoy and are good at mathematics, computers, and solving practical, multidisciplinary problems. </p>
+<h3>Declaring the Major</h3>
+<p>The ORMS major is impacted. To be considered for admission, students should have a minimum of a 3.2 overall grade point average (GPA) in the prerequisite courses.  For admission,  request to be added to the email list at <a href="https://ieor.berkeley.edu/undergraduate-resources/orms/">https://ieor.berkeley.edu/undergraduate-resources/orms/</a></p>
+<p><strong>Unit Cap/Semester Cap</strong></p>
+<p>Students who entered Berkeley as a freshman must apply for admission by the end of their fifth semester (does not include summers or withdrawn semesters) or prior to the accumulation of 80 units (does not include units earned in high school, but does include units in-progress at the time of application); whichever comes second. For most students, this is the fifth semester.</p>
+<p>Transfer students must <span>apply for admission by the end of their first semester. Summer session prior to the academic year does not count as the first semester.</span></p>
+<p><strong>Prerequisite Coursework</strong></p>
+<p>All four prerequisite classes (<span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="UGBA 10">UGBA 10</span></span>, and either <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="ECON 1">ECON 1</span></span>, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="ECON 2">ECON 2</span></span> or <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="ECON C3">ECON C3</span></span>) must be completed prior to acceptance to the major and all must be taken for a letter grade. Students should apply to the major during the semester in which they are enrolled in their final prerequisites. Students should have a minimum of a 3.2 UC Berkeley GPA in the four prerequisite courses.  <em>For students applying to the major with prerequisite coursework completed Spring 2020 to Spring 2021, please see the <a href="https://ieor.berkeley.edu/undergraduate-resources/orms/" target="_blank">ORMS website</a> for alternate prerequisite GPA calculations of coursework not taken for a letter grade. </em> </p>
+<p>Many factors are considered in determining admission. The main criterion, however, is academic performance as measured by the Berkeley GPA in the prerequisite courses.  <span>Since this major is capped, planning for an alternate major is recommended. There is an Operations Research concentration in the Math Department that might be a good choice if students are not admitted to the ORMS major.</span></p>
+<h3>Honors Program</h3>
+<p>Students with a grade point average (GPA) of at least 3.5 overall and 3.7 in the major upper division coursework should consider participating in the ORMS honors program. To graduate with honors, a student must find a faculty sponsor appropriate for an original research project that he or she wishes to do and enroll in two semesters (6 units) of the honors thesis courses <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="IND ENG H196A">IND ENG H196A</span></span> and <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="IND ENG H196B">IND ENG H196B</span></span></p>
+<p>Alternatively, a student may take two approved graduate courses in Operations Research or a related field, and achieve at least an A- in each course. Courses used for the honors program cannot be used to fulfill the requirements for the ORMS major or any IEOR graduate program. The student must also maintain a minimum 3.5 overall GPA and 3.7 in the major at the time of graduation.</p>
+<h3>Minor Program</h3>
+<p>There is no minor program in Operations Research and Management Science.  However, students interested in an ORMS minor, may be interested in the <a href="http://guide.berkeley.edu/2022-23/undergraduate/degree-programs/industrial-engineering-operations-research/#minorrequirementstext">Industrial Engineering and Operations Research minor</a>.</p>
+]]>
+</abouttheprogramtext>
+<majorrequirementstext name="Major Requirements">
+<![CDATA[
+<p>In addition to the University, campus, and college requirements, listed on the College Requirements tab, students must fulfill the below requirements specific to their major program.</p>
+<h3>General Guidelines</h3>
+<ol>
+	<li>All courses taken to fulfill the major requirements below must be taken for graded credit, other than courses listed which are offered on a <em>Pass/No Pass </em>basis only. Other exceptions to this requirement are noted as applicable.  Exceptions for the Spring 2020 to Spring 2021 semesters are listed on the <a href="https://ieor.berkeley.edu/undergraduate-resources/orms/">ORMS website</a>.</li>
+	<li>No more than one upper division course may be used to simultaneously fulfill requirements for a student's major and minor programs, with the exception of minors offered outside of the College of Letters &amp; Science.</li>
+	<li>A minimum grade point average (GPA) of 2.0 must be maintained in both upper and lower division courses used to fulfill the major requirements.</li>
+</ol>
+<p>For information regarding residence requirements and unit requirements, please see the College Requirements tab.</p>
+<h3>Lower Division Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span></td><td>Multivariable Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></td><td>Linear Algebra and Differential Equations</td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="EECS 16A">EECS 16A</span></td><td colspan="2"> Designing Information Devices and Systems I</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="ECON 1">ECON 1</span></td><td>Introduction to Economics</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="ECON 2">ECON 2</span></td><td colspan="2"> Introduction to Economics--Lecture Format</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="ECON C3">ECON C3</span></td><td colspan="2"> Introduction to Environmental Economics and Policy</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span></td><td>Introduction to Computer Programming for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="COMPSCI 61A">COMPSCI 61A</span></td><td colspan="2"> The Structure and Interpretation of Computer Programs</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="COMPSCI C8">COMPSCI C8</span><br/><span style="margin-left:20px;" class="blockindent">&amp; <span class="code_bubble" data-code-bubble="COMPSCI C88C">C88C</span></span></td><td colspan="2"> Foundations of Data Science<br/><span style="margin-left:20px;" class="blockindent">and Computational Structures in Data Science</span></td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="UGBA 10">UGBA 10</span></td><td>Principles of Business</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<h3>Upper Division Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span></td><td>Probability and Risk Analysis for Engineers</td><td class="hourscol">4</td></tr>
+<tr class="orclass even firstrow"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span></td><td colspan="2"> Concepts of Probability</td></tr>
+<tr class="orclass even firstrow"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="STAT C140">STAT C140</span></td><td colspan="2"> Probability for Data Science</td></tr>
+<tr class="orclass even firstrow"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="DATA C140">DATA C140</span></td><td colspan="2"> Probability for Data Science</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 173">IND ENG 173</span></td><td>Introduction to Stochastic Processes <sup>1</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">One of the following:</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="IND ENG 160">IND ENG 160</span></div></td><td>Nonlinear and Discrete Optimization [3]</td><td class="hourscol"/></tr>
+<tr class="orclass odd"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <span class="code_bubble" data-code-bubble="IND ENG 162">IND ENG 162</span></div></td><td colspan="2"> Linear Programming and Network Flows</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Two of the following:</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="IND ENG 142">IND ENG 142</span></div></td><td>Introduction to Machine Learning and Data Analytics [3-4]</td><td class="hourscol"/></tr>
+<tr class="orclass odd"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <span class="code_bubble" data-code-bubble="IND ENG 165">IND ENG 165</span></div></td><td colspan="2"> Engineering Statistics, Quality Control, and Forecasting</td></tr>
+<tr class="orclass odd"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <span class="code_bubble" data-code-bubble="IND ENG 174">IND ENG 174</span></div></td><td colspan="2"> Simulation for Enterprise-Scale Systems</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Four clustered electives (see below for sample clusters):</span></td><td class="hourscol">12</td></tr>
+<tr class="odd lastrow"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">ORMS majors, with the signed advance approval of their faculty advisers, select a minimum of four upper division elective courses to form a coherent cluster, or concentration, in an area where Operations Research is applied. Courses in other departments may count toward this requirement if they have substantial relevant content at an appropriately advanced level. These courses must be taken for a letter grade.</span></div></td><td class="hourscol"/></tr>
+</tbody></table>
+
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent">Students will receive no credit for <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="IND ENG 173">IND ENG 173</span></span> after taking <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="IND ENG 161">IND ENG 161</span></span>, or for <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span></span> after taking <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span></span> or <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="STAT C140">STAT C140</span></span>.</p></dd></dl>
+<h3>Sample Clusters</h3>
+<p><strong>Decision Making in Economic Systems</strong></p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="ECON 101A">ECON 101A</span></td><td>Microeconomics (Math Intensive)</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="ECON 101B">ECON 101B</span></td><td>Macroeconomics (Math Intensive)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="ECON 104">ECON 104</span></td><td>Advanced Microeconomic Theory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="ECON 141">ECON 141</span></td><td>Econometrics (Math Intensive)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="ECON C142">ECON C142</span></td><td>Applied Econometrics and Public Policy</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="ECON C110">ECON C110</span></td><td>Game Theory in the Social Sciences</td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="UGBA 143">UGBA 143</span></td><td colspan="2"> Game Theory and Business Decisions</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="STAT 155">STAT 155</span></td><td colspan="2"> Game Theory</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 142">IND ENG 142</span></td><td>Introduction to Machine Learning and Data Analytics</td><td class="hourscol">3</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="IND ENG 165">IND ENG 165</span></td><td colspan="2"> Engineering Statistics, Quality Control, and Forecasting</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="IND ENG 174">IND ENG 174</span></td><td colspan="2"> Simulation for Enterprise-Scale Systems</td></tr>
+<tr class="odd lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 104">MATH 104</span></td><td>Introduction to Analysis</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+<p><strong>Decision Making in Industrial and Service Systems</strong></p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="ECON C110">ECON C110</span></td><td>Game Theory in the Social Sciences</td><td class="hourscol">3-4</td></tr>
+<tr class="orclass even firstrow"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="UGBA 143">UGBA 143</span></td><td colspan="2"> Game Theory and Business Decisions</td></tr>
+<tr class="orclass even firstrow"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="STAT 155">STAT 155</span></td><td colspan="2"> Game Theory</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 115">IND ENG 115</span></td><td>Industrial and Commercial Data Systems</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 130">IND ENG 130</span></td><td>Methods of Manufacturing Improvement</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 150">IND ENG 150</span></td><td>Production Systems Analysis</td><td class="hourscol">3</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="UGBA 141">UGBA 141</span></td><td colspan="2"> Production and Operations Management</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 151">IND ENG 151</span></td><td>Service Operations Design and Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 153">IND ENG 153</span></td><td>Logistics Network Design and Supply Chain Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 160">IND ENG 160</span></td><td>Nonlinear and Discrete Optimization</td><td class="hourscol">3</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="IND ENG 162">IND ENG 162</span></td><td colspan="2"> Linear Programming and Network Flows</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 165">IND ENG 165</span></td><td>Engineering Statistics, Quality Control, and Forecasting</td><td class="hourscol">3</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="IND ENG 142">IND ENG 142</span></td><td colspan="2"> Introduction to Machine Learning and Data Analytics</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="IND ENG 174">IND ENG 174</span></td><td colspan="2"> Simulation for Enterprise-Scale Systems</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 166">IND ENG 166</span></td><td>Decision Analytics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 170">IND ENG 170</span></td><td>Industrial Design and Human Factors</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="UGBA 102B">UGBA 102B</span></td><td>Managerial Accounting</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<p><strong>Decision Making in Societal Systems</strong></p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="ECON 101A">ECON 101A</span></td><td>Microeconomics (Math Intensive)</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="ECON 101B">ECON 101B</span></td><td>Macroeconomics (Math Intensive)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="ECON C110">ECON C110</span></td><td>Game Theory in the Social Sciences</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="UGBA 143">UGBA 143</span></td><td colspan="2"> Game Theory and Business Decisions</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="STAT 155">STAT 155</span></td><td colspan="2"> Game Theory</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 165">IND ENG 165</span></td><td>Engineering Statistics, Quality Control, and Forecasting</td><td class="hourscol">3</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="IND ENG 142">IND ENG 142</span></td><td colspan="2"> Introduction to Machine Learning and Data Analytics</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="IND ENG 174">IND ENG 174</span></td><td colspan="2"> Simulation for Enterprise-Scale Systems</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 166">IND ENG 166</span></td><td>Decision Analytics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="SOCIOL 101">SOCIOL 101</span></td><td>Sociological Theory I</td><td class="hourscol">5</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="SOCIOL 105">SOCIOL 105</span></td><td>Research Design and Sociological Methods</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="SOCIOL 106">SOCIOL 106</span></td><td>Quantitative Sociological Methods</td><td class="hourscol">4</td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="SOCIOL 119S">SOCIOL 119S</span></td><td>Organizational Strategy and Design: A Sociological Perspective</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+<p><strong>Algorithmic Decision Making </strong></p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 61B">COMPSCI 61B</span></td><td>Data Structures (This is a prerequisite and does not count toward the four courses.)</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 170">COMPSCI 170</span></td><td>Efficient Algorithms and Intractable Problems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 172">COMPSCI 172</span></td><td>Computability and Complexity</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 174">COMPSCI 174</span></td><td>Combinatorics and Discrete Probability</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 115">IND ENG 115</span></td><td>Industrial and Commercial Data Systems</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 142">IND ENG 142</span></td><td>Introduction to Machine Learning and Data Analytics</td><td class="hourscol">3</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="IND ENG 165">IND ENG 165</span></td><td colspan="2"> Engineering Statistics, Quality Control, and Forecasting</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="IND ENG 174">IND ENG 174</span></td><td colspan="2"> Simulation for Enterprise-Scale Systems</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 160">IND ENG 160</span></td><td>Nonlinear and Discrete Optimization</td><td class="hourscol">3</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="IND ENG 162">IND ENG 162</span></td><td colspan="2"> Linear Programming and Network Flows</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="IND ENG 166">IND ENG 166</span></td><td>Decision Analytics</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 110">MATH 110</span></td><td>Linear Algebra</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+]]>
+</majorrequirementstext>
+<collegerequirementstext name="College Requirements">
+<![CDATA[
+ <p>Undergraduate students must fulfill the following requirements in addition to those required by their major program.</p> <p>For detailed lists of courses that fulfill college requirements, please review the <a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/">College of Letters &amp; Sciences</a> page in this Guide. For College advising appointments, please visit the <a href="https://lsadvising.berkeley.edu/home">L&amp;S Advising</a> Pages. </p> <h3>University of California Requirements</h3> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/entry-level-writing-requirement/"><span id="docs-internal-guid-82322469-d403-b6fc-99fe-5be6e0865dad">Entry Level Writing</span></a></h5> <p><span id="docs-internal-guid-82322469-d403-c602-c395-1fb0f53c604b">All students who will enter the University of California as freshmen must demonstrate their command of the English language by fulfilling the Entry Level Writing requirement. Fulfillment of this requirement is also a prerequisite to enrollment in all reading and composition courses at UC Berkeley. </span></p> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/american-history-institutions-requirement/"><span id="docs-internal-guid-82322469-d403-ed90-bc30-8e7c7e9092f7">American History and American Institutions</span></a></h5> <p><span id="docs-internal-guid-82322469-d403-fe3e-933e-7102e097ef4b">The American History and Institutions requirements are based on the principle that a US resident graduated from an American university, should have an understanding of the history and governmental institutions of the United States.</span></p> <h3><span>Berkeley Campus Requirement</span></h3> <h5><a href="http://americancultures.berkeley.edu/students/courses"><span id="docs-internal-guid-82322469-d404-3abc-dc51-fc563caacff1">American Cultures</span></a></h5> <p><span id="docs-internal-guid-82322469-d404-47e1-1ad4-b918d33461cf">All undergraduate students at Cal need to take and pass this course in order to graduate. The requirement offers an exciting intellectual environment centered on the study of race, ethnicity and culture of the United States. AC courses offer students opportunities to be part of research-led, highly accomplished teaching environments, grappling with the complexity of American Culture.</span></p> <h3><span>College of Letters &amp; Science Essential Skills Requirements</span></h3> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/quantitative-reasoning-requirement/"><span id="docs-internal-guid-82322469-d404-a7b1-d295-ee03b476bcfe">Quantitative Reasoning</span></a></h5> <p><span id="docs-internal-guid-82322469-d404-cbac-1c7a-d74abefae398">The Quantitative Reasoning requirement is designed to ensure that students graduate with basic understanding and competency in math, statistics, or computer science. The requirement may be satisfied by exam or by taking an approved course.</span></p> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/foreign-language-requirement/"><span id="docs-internal-guid-82322469-d404-ff23-6ff3-47abec092456">Foreign Language</span></a></h5> <p><span id="docs-internal-guid-82322469-d405-12d9-db19-1b37f6639ef7">The Foreign Language requirement may be satisfied by demonstrating proficiency in reading comprehension, writing, and conversation in a foreign language equivalent to the second semester college level, either by passing an exam or by completing approved course work.</span></p> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/reading-composition-requirement/"><span id="docs-internal-guid-82322469-d405-3e15-2491-27223f91e87d">Reading and Composit</span>ion</a></h5> <p><span id="docs-internal-guid-82322469-d405-4ef4-4b87-0d26195a0d3c">In order to provide </span>a solid foundation in reading, writing, and critical thinking the College requires two semesters of lower division work in composition in sequence. Students must complete parts A &amp; B reading and composition courses in sequential order by the end of their fourth semester.</p> <h3>College of Letters &amp; Science 7 Course Breadth Requirements</h3> <h5><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/#breadthrequirementstext"><span id="docs-internal-guid-79a9fe70-d405-7c7e-e34f-837b91cc1d58">Breadth Requirements</span></a></h5> <p><span id="docs-internal-guid-82322469-d405-9db4-c30e-bca05ecf44f3">The undergraduate breadth requirements provide Berkeley students with a rich and varied educational experience outside of their major program. As the foundation of a liberal arts education, breadth courses give students a view into the intellectual life of the University while introducing them to a multitude of perspectives and approaches to research and scholarship. Engaging students in new disciplines and with peers from other majors, the breadth experience strengthens interdisciplinary connections and context that prepares Berkeley graduates to understand and solve the complex issues of their day.</span></p> <h3><span id="docs-internal-guid-abca8c8f-d405-c4ad-0be7-1638c654345c">Unit Requirements</span></h3> <ul> 	<li> 	<p>120 total units</p> 	</li> 	<li> 	<p>Of the 120 units, 36 must be upper division units</p> 	</li> 	<li>Of the 36 upper division units, 6 must be taken in courses offered outside your major department</li> </ul> <h5><span id="docs-internal-guid-2bb674c5-d406-43a4-39ed-40d6e86d6760">Residence Requirements</span></h5> <p><span id="docs-internal-guid-82322469-d406-8d38-492a-067b2e0bac2d">For units to be considered in &quot;residence,&quot; you must be registered in courses on the Berkeley campus as a student in the College of Letters &amp; Science. Most students automatically fulfill the residence requirement by attending classes here for four years. In general, there is no need to be concerned about this requirement, unless you go abroad for a semester or year or want to take courses at another institution or through UC Extension during your senior year. In these cases, you should make an appointment to meet an adviser to determine how you can meet the Senior Residence Requirement.</span></p> <p><span id="docs-internal-guid-82322469-d406-a2e5-35d5-82895d287218">Note: Courses taken through UC Extension do not count toward residence.</span></p> <h5><span id="docs-internal-guid-44b2bced-d406-cb13-a0f5-0c6f75ed8972">Senior Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d406-e3bd-f620-e9bef1331f97">After you become a senior (with 90 semester units earned toward your BA degree), you must complete at least 24 of the remaining 30 units in residence in at least two semesters. To count as residence, a semester must consist of at least 6 passed units. Intercampus Visitor, EAP, and UC Berkeley-Washington Program (UCDC) units are excluded.</span></p> <p><span id="docs-internal-guid-82322469-d406-f7f7-c9da-c2732368bc4e">You may use a Berkeley Summer Session to satisfy one semester of the Senior Residence requirement, provided that you successfully complete 6 units of course work in the Summer Session and that you have been enrolled previously in the college.</span></p> <h5><span id="docs-internal-guid-abb18f5b-d407-0e0f-9d41-83c0ea3c3c7b">Modified Senior Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d407-3956-aeef-b67b71969fca">Participants in the UC Education Abroad Program (EAP), Berkeley Summer Abroad, or the UC Berkeley Washington Program (UCDC) may meet a Modified Senior Residence requirement by completing 24 (excluding EAP) of their final 60 semester units in residence. At least 12 of these 24 units must be completed after you have completed 90 units.</span></p> <h5><span id="docs-internal-guid-62f287bf-d407-4ca6-5bbd-2d1393418d66">Upper Division Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d407-6060-9575-98782777275a">You must complete in residence a minimum of 18 units of upper division courses (excluding UCEAP units), 12 of which must satisfy the requirements for your major.</span></p>
+]]>
+</collegerequirementstext>
+<studentlearninggoalstext name="Student Learning Goals">
+<![CDATA[
+<h3>Learning Goals for the Major</h3>
+<p>All Operations Research and Management Science (ORMS) graduates are expected to acquire the following general skills and knowledge:</p>
+<ol>
+	<li>Ability to apply mathematics and science to the solution of societal problems.</li>
+	<li>Ability to design and conduct experiments, analyze, and interpret data.</li>
+	<li>Ability to design system and operating policies to meet desired needs.</li>
+	<li>Ability to function on multidisciplinary teams and communicate effectively.</li>
+	<li>Ability to identify, formulate, and solve societal system problems.</li>
+	<li>Understanding of professional and ethical responsibility.</li>
+	<li>Recognize the need for and ability to engage in life-long learning.</li>
+	<li>Knowledge of contemporary issues.</li>
+	<li>Ability to use techniques, skills, and modern tools in practice.</li>
+</ol>
+<h3>Skills</h3>
+<p>The ORMS major in the IEOR Department has four general objectives for the Bachelor of Arts degree program. The department aims for the BA degree graduates to become skilled in the following:</p>
+<ol>
+	<li>Quantitative modeling and analysis of a broad array of systems-level decision problems concerned with economic efficiency, productivity, and quality.</li>
+	<li>Development and creative use of analytical and computational methods for solving these problems.</li>
+	<li>Collection and analysis of data and the use of database and decision-support tools.</li>
+	<li>Comprehension and analysis of risk and uncertainty.</li>
+</ol>
+<p>In addition, graduates will obtain the broader skills, background, and knowledge necessary to be effective life-long professionals who understand the impact of systems in a societal context in a rapidly changing global economy.</p>
+<p><span>Specific outcomes of the BA degree program are as follows:</span></p>
+<ol>
+	<li>Develop scientific, quantitative, model building, and problem solving skills through core courses in mathematics, statistics, operations research, and management sciences.</li>
+	<li>Learn how to apply these skills and tools effectively for operational, tactical, and strategic decisions in an area of choice.</li>
+	<li>Pursue graduate study in operations research and the management sciences.</li>
+</ol>
+]]>
+</studentlearninggoalstext>
+<majormaptext name="Major Map">
+<![CDATA[
+<p><span>Major Maps help undergraduate students discover academic, co-curricular, and discovery opportunities at UC Berkeley based on intended major or field of interest. Developed by the Division of Undergraduate Education in collaboration with academic departments, these experience maps will help you:</span></p>
+<ul>
+	<li>
+	<p><strong><span id="docs-internal-guid-5ef7b472-7fff-6cd0-248d-aaa2f43a2929">Explore</span></strong> your major and gain a better understanding of your field of study</p>
+	</li>
+	<li>
+	<p><strong><span id="docs-internal-guid-5ef7b472-7fff-6cd0-248d-aaa2f43a2929">Connect</span></strong> with people and programs that inspire and sustain your creativity, drive, curiosity and success</p>
+	</li>
+	<li>
+	<p><strong><span id="docs-internal-guid-5ef7b472-7fff-6cd0-248d-aaa2f43a2929">Discover</span></strong> opportunities for independent inquiry, enterprise, and creative expression</p>
+	</li>
+	<li>
+	<p><strong><span id="docs-internal-guid-5ef7b472-7fff-6cd0-248d-aaa2f43a2929">Engage</span></strong> locally and globally to broaden your perspectives and change the world</p>
+	</li>
+	<li><strong><span id="docs-internal-guid-5ef7b472-7fff-6cd0-248d-aaa2f43a2929">Reflect</span></strong> on your academic career and prepare for life after Berkeley</li>
+</ul>
+<p><span id="docs-internal-guid-d71893c3-7fff-0026-643a-dcc4d58f355a">Use the major map below as a guide to planning your undergraduate journey and designing your own unique Berkeley experience.</span></p>
+<p><strong><span id="docs-internal-guid-d71893c3-7fff-0026-643a-dcc4d58f355a"><a href="https://ue.berkeley.edu/sites/default/files/operations_research_and_management_science.pdf">View the Operations Research and Management Science Major Map PDF.</a></span></strong></p>
+]]>
+</majormaptext>
+<coursestext name="Courses">
+<![CDATA[
+<h3>Operations Research and Management Science</h3>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng24" data-toggle="#cb_indeng24">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 24</span> 
+<span class="title">Freshman Seminars</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng24">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester.</span><br/>
+ <a href="" class="btn-readmore"><span>Freshman Seminars:</span> Read More [+]</a></p>
+<div id="946" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Provide an introduction to the field of Industrial Engineering and Operations Research through a series of lectures.</p><p><strong>Student Learning Outcomes:</strong> Learn more about Industrial Engineering and Operations Research.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman Seminars:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng66" data-toggle="#cb_indeng66">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 66</span> 
+<span class="title">A Bivariate Introduction to IE and OR</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng66">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2016<br/>
+This Freshman-level Introductory course will provide an intuitive overview of the fundamental problems addressed and methods in the fields of Industrial Engineering and Operations Research including Constrained Optimization, Human Factors, Data Analytics, Queues and Chains, and Linear Programming. The course will focus on two-dimensional, i.e., bivariate, examples where the problems and methods are amenable to visualization and geometric intuition. The course will discuss</span><span class="deschide"> applications such as dieting, scheduling, and transportation. This course will not require pre-requisites and will present the core concepts in a self-contained manner that is accessible to Freshmen to provide the foundation for future coursework.</span><br/>
+ <a href="" class="btn-readmore"><span>A Bivariate Introduction to IE and OR:</span> Read More [+]</a></p>
+<div id="988" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> •<br/>
+Provide a broad survey of the important topics in IE and OR, and develop intuition about problems, algorithms, and abstractions using bivariate examples (2D).<br/>
+•<br/>
+Describe different mathematical abstractions used in IEOR (e.g., graphs, queues, Markov chains), and how to use these abstractions to model real-world problems.<br/>
+•<br/>
+Introduce students to the data analysis process including: developing a hypothesis, acquiring data, processing the data, testing the hypothesis, and presenting results.<br/>
+•<br/>
+Provide students with concrete examples of how the mathematical tools from the class apply to real problems such as dieting, scheduling, and transportation.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Course restricted to Freshman students.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Goldberg</p></div>
+<p><a href="" class="btn-readless"><span>A Bivariate Introduction to IE and OR:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng98" data-toggle="#cb_indeng98">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 98</span> 
+<span class="title">Supervised Group Study and Research</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng98">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2019, Fall 2015, Spring 2015<br/>
+Supervised group study and research by lower division students.</span><br/>
+ <a href="" class="btn-readmore"><span>Supervised Group Study and Research:</span> Read More [+]</a></p>
+<div id="788" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-3 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One to three hours of directed group study per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Group Study and Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng99" data-toggle="#cb_indeng99">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 99</span> 
+<span class="title">Supervised Independent Study and Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng99">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Prior to 2007<br/>
+Supervised independent study for lower division students.</span><br/>
+ <a href="" class="btn-readmore"><span>Supervised Independent Study and Research:</span> Read More [+]</a></p>
+<div id="990" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Freshman or sophomore standing and consent of instructor</p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1.5-7.5 hours of independent study per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-6 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> One to four hours of independent study per week. One and one-half to six hours of independent study per week for 10 weeks. One and one-half to seven and one-half hours of independent study per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study and Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng115" data-toggle="#cb_indeng115">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 115</span> 
+<span class="title">Industrial and Commercial Data Systems</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng115">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+Design and implementation of databases, with an emphasis on industrial and commercial applications. Relational algebra, SQL, normalization. Students work in teams with local companies on a database design project. WWW design and queries.</span><br/>
+ <a href="" class="btn-readmore"><span>Industrial and Commercial Data Systems:</span> Read More [+]</a></p>
+<div id="803" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture and two hours of laboratory/project per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Goldberg</p></div>
+<p><a href="" class="btn-readless"><span>Industrial and Commercial Data Systems:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng120" data-toggle="#cb_indeng120">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 120</span> 
+<span class="title">Principles of Engineering Economics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng120">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023<br/>
+Economic analysis for engineering decision making: Capital flows, effect of time and interest rate. Different methods of evaluation of alternatives. Minimum-cost life and replacement analysis. Depreciation and taxes. Uncertainty; preference under risk; decision analysis. Capital sources and their effects. Economic studies. Formerly Engineering 120.</span><br/>
+ <a href="" class="btn-readmore"><span>Principles of Engineering Economics:</span> Read More [+]</a></p>
+<div id="129" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive 2 units for 120 after taking Civil Engineering 167. Students will not receive credit after taking Engineering 120.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> 8 weeks - 4 hours of lecture and 2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture and one hour of discussion per week. Four hours of lecture and two hours of discussion per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Adler</p></div>
+<p><a href="" class="btn-readless"><span>Principles of Engineering Economics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng130" data-toggle="#cb_indeng130">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 130</span> 
+<span class="title">Methods of Manufacturing Improvement</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng130">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+Analytical techniques for the improvement of manufacturing performance along the dimensions of productivity, quality, customer service, and throughput. Techniques for yield analysis, process control, inspection sampling, equipment efficiency analysis, cycle time reduction, and on-time delivery improvement. Applications on semiconductor manufacturing or other industrial settings.</span><br/>
+ <a href="" class="btn-readmore"><span>Methods of Manufacturing Improvement:</span> Read More [+]</a></p>
+<div id="833" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span>, <span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span>, or <span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span> (<span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span> may be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Leachman</p></div>
+<p><a href="" class="btn-readless"><span>Methods of Manufacturing Improvement:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng135" data-toggle="#cb_indeng135">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 135</span> 
+<span class="title">Applied Data Science with Venture Applications</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng135">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Fall 2021<br/>
+This highly-applied course surveys a variety of key of concepts and tools that are useful for designing and building applications that process data signals of information. The course introduces modern open source, computer programming tools, libraries, and code samples that can be used to implement data applications. The mathematical concepts highlighted in this course include filtering, prediction, classification, decision-making, Markov chains</span><span class="deschide">, LTI systems, spectral analysis, and frameworks for learning from data. Each math concept is linked to implementation using Python using libraries for math array functions (NumPy), manipulation of tables (Pandas), long term storage (SQL, JSON, CSV files), natural language (NLTK), and ML frameworks.</span><br/>
+ <a href="" class="btn-readmore"><span>Applied Data Science with Venture Applications:</span> Read More [+]</a></p>
+<div id="787" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Students will be able to design and build data sample application systems that can interpret and use data for a wide range of real life applications across many disciplines and industries;<br/>
+implement these concepts within applications with modern open source CS tools.<br/>
+understand relevant mathematical concepts that are used in systems that process data;</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Prerequisites include the ability to write code in Python, and a probability or statistics course. This course is ideal for students who have taken <span class="code_bubble" data-code-bubble="COMPSCI C8">COMPSCI C8</span> / <span class="code_bubble" data-code-bubble="DATA C8">DATA C8</span> / <span class="code_bubble" data-code-bubble="INFO C8">INFO C8</span> / <span class="code_bubble" data-code-bubble="STAT C8">STAT C8</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructor:</strong> Sidhu</p></div>
+<p><a href="" class="btn-readless"><span>Applied Data Science with Venture Applications:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng142" data-toggle="#cb_indeng142">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 142</span> 
+<span class="title">Introduction to Machine Learning and Data Analytics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng142">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+This course introduces students to key techniques in machine learning and data analytics through a diverse set of examples using real datasets from domains such as e-commerce, healthcare, social media, sports, the Internet, and more. Through these examples, exercises in R, and a comprehensive team project, students will gain experience understanding and applying techniques such as linear regression, logistic regression, classification and regression</span><span class="deschide"> trees, random forests, boosting, text mining, data cleaning and manipulation, data visualization, network analysis, time series modeling, clustering, principal component analysis, regularization, and large-scale learning.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Machine Learning and Data Analytics:</span> Read More [+]</a></p>
+<div id="730" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> 1.<br/>
+To expose students to a variety of statistical learning methods, all of which are relevant in useful in wide range of disciplines and applications.<br/>2.<br/>
+To carefully present the statistical and computational assumptions, trade-offs, and intuition underlying each method discussed so that students will be trained to determine which techniques are most appropriate for a given problem.<br/>3.<br/>
+Through a series of real-world examples, students will learn to identify opportunities to leverage the capabilities of data analytics and will see how data analytics can provide a competitive edge for companies.<br/>4.<br/>
+To train students in how to actually apply each method that is discussed in class, through a series of labs and programming exercises.<br/>5.<br/>
+For students to gain some project-based practical data science experience, which involves identifying a relevant problem to be solved or question to be answered, gathering and cleaning data, and applying analytical techniques.<br/>6.<br/>
+To introduce students to advanced topics that are important to the successful application of machine learning methods in practice, include how methods for prediction are integrated with optimization models and modern optimization techniques for large-scale learning problems.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> IEOR 165 or equivalent course in statistics. Prior exposure to optimization is helpful but not strictly necessary. Some programming experience/literacy is expected</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructors:</strong> Grigas, Paul</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Machine Learning and Data Analytics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng145" data-toggle="#cb_indeng145">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 145</span> 
+<span class="title">Fundamentals of Revenue Management</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng145">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2022<br/>
+Revenue management (RM) is the decision science of efficiently selling a fixed supply of various goods and services when the demand is heterogeneous and uncertain. This undergraduate course will focus on fundamental models and algorithms for RM. Broad usefulness of concepts will be demonstrated through applications in airline reservation systems, retail, advertising, e-commerce and school-student assignments.</span><br/>
+ <a href="" class="btn-readmore"><span>Fundamentals of Revenue Management:</span> Read More [+]</a></p>
+<div id="3" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> IndEng 162, IndEng 169 and either IndEng 173 Or IndEng 172 (or equivalent introductory courses in mathematical programming and probability). Familiarity with algorithm design and mathematical maturity recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Udwani</p></div>
+<p><a href="" class="btn-readless"><span>Fundamentals of Revenue Management:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng150" data-toggle="#cb_indeng150">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 150</span> 
+<span class="title">Production Systems Analysis</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng150">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2020, Fall 2019, Fall 2018<br/>
+Quantitative models for operational and tactical decision making in production systems, including production planning, inventory control, forecasting, and scheduling.</span><br/>
+ <a href="" class="btn-readmore"><span>Production Systems Analysis:</span> Read More [+]</a></p>
+<div id="286" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="IND ENG 160">IND ENG 160</span>, <span class="code_bubble" data-code-bubble="IND ENG 173">IND ENG 173</span>, <span class="code_bubble" data-code-bubble="IND ENG 162">IND ENG 162</span>, <span class="code_bubble" data-code-bubble="IND ENG 165">IND ENG 165</span>, and <span class="code_bubble" data-code-bubble="ENGIN 120">ENGIN 120</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Yano</p></div>
+<p><a href="" class="btn-readless"><span>Production Systems Analysis:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng151" data-toggle="#cb_indeng151">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 151</span> 
+<span class="title">Service Operations Design and Analysis</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng151">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2022, Fall 2021, Fall 2020<br/>
+This course is concerned with improving processes and designing facilities for service businesses such as banks, health care organizations, telephone call centers, restaurants, and transportation providers. Major topics in the course include design of service processes, layout and location of service facilities, demand forecasting, demand management, employee scheduling, service quality management, and capacity planning.</span><br/>
+ <a href="" class="btn-readmore"><span>Service Operations Design and Analysis:</span> Read More [+]</a></p>
+<div id="486" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="IND ENG 162">IND ENG 162</span>, <span class="code_bubble" data-code-bubble="IND ENG 173">IND ENG 173</span>, and a course in statistics</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Service Operations Design and Analysis:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng153" data-toggle="#cb_indeng153">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 153</span> 
+<span class="title">Logistics Network Design and Supply Chain Management</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng153">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2022, Fall 2021, Spring 2021<br/>
+We will focus primarily on both quantitative and qualitative issues which arise in the integrated design and management of the entire logistics network. Models and solution techniques for facility location and logistics network design will be considered. In addition, qualitative issues in distribution network structuring, centralized versus decentralized network control, variability in the supply chain, strategic partnerships, and product design</span><span class="deschide"> for logistics will be considered through discussions and cases.</span><br/>
+ <a href="" class="btn-readmore"><span>Logistics Network Design and Supply Chain Management:</span> Read More [+]</a></p>
+<div id="546" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="IND ENG 160">IND ENG 160</span>, <span class="code_bubble" data-code-bubble="IND ENG 162">IND ENG 162</span> or senior standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Kaminsky</p></div>
+<p><a href="" class="btn-readless"><span>Logistics Network Design and Supply Chain Management:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng156" data-toggle="#cb_indeng156">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 156</span> 
+<span class="title">Healthcare Analytics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng156">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Not yet offered<br/>
+With the growing complexity of providing healthcare, it is increasingly important to design and manage health systems using engineering and analytics perspectives. This course will cover topics related to healthcare analytics, including: optimizing chronic disease management, designing matching markets for health systems, developing predictive analytics models, and managing resource utilization.</span><br/>
+ <a href="" class="btn-readmore"><span>Healthcare Analytics:</span> Read More [+]</a></p>
+<div id="75" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Courses in mathematical modeling (such as <span class="code_bubble" data-code-bubble="IND ENG 160">IND ENG 160</span> and <span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span>) and computer programming (such as CS C8 or CS 61A) are recommended</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="IND ENG 156">IND ENG 156</span> after completing <span class="code_bubble" data-code-bubble="IND ENG 256">IND ENG 256</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructor:</strong> Aswani</p></div>
+<p><a href="" class="btn-readless"><span>Healthcare Analytics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng160" data-toggle="#cb_indeng160">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 160</span> 
+<span class="title">Nonlinear and Discrete Optimization</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng160">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+This course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton's method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling, classification with support vector machines.</span><br/>
+ <a href="" class="btn-readmore"><span>Nonlinear and Discrete Optimization:</span> Read More [+]</a></p>
+<div id="520" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span> and <span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Atamturk</p></div>
+<p><a href="" class="btn-readless"><span>Nonlinear and Discrete Optimization:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng162" data-toggle="#cb_indeng162">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 162</span> 
+<span class="title">Linear Programming and Network Flows</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng162">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+This course addresses modeling and algorithms for optimization of linear constrained optimization problems. The simplex method; theorems of duality; complementary slackness. Applications in production planning and resource allocation. Graph and network problems as linear programs with integer solutions. Algorithms for selected network flow problems. Transportation and logistics problems. Dynamic programming and its role in applications to shortest</span><span class="deschide"> paths, project management and equipment replacement.</span><br/>
+ <a href="" class="btn-readmore"><span>Linear Programming and Network Flows:</span> Read More [+]</a></p>
+<div id="709" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span> and <span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Hochbaum</p></div>
+<p><a href="" class="btn-readless"><span>Linear Programming and Network Flows:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng164" data-toggle="#cb_indeng164">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 164</span> 
+<span class="title">Introduction to Optimization Modeling</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng164">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Prior to 2007<br/>
+Designed for students from any science/engineering major, this upper-division course will introduce students to optimization models, and train them to use software tools to model and solve optimization problems. The main goal is to develop proficiency in common optimization modeling languages, and learn how to integrate them with underlying optimization solvers. Students will work primarily on modeling exercises, which will develop confidence in modeling and solve</span><span class="deschide"> optimization methods using software packages, and will require some programming.<br/>
+Review of linear and nonlinear optimization models, including optimization problems with discrete decision variables. Applications to practical problems from engineering and data science.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Optimization Modeling:</span> Read More [+]</a></p>
+<div id="751" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> •<br/>
+To introduce students to the core concepts of optimization<br/>
+<br/>•<br/>
+To train them in the art and science of using software tools to model and solve optimization problems.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> No prerequisites except some Python programming skills, which can be met by <span class="code_bubble" data-code-bubble="COMPSCI C8">COMPSCI C8</span> (or any other Python-based course)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Optimization Modeling:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng165" data-toggle="#cb_indeng165">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 165</span> 
+<span class="title">Engineering Statistics, Quality Control, and Forecasting</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng165">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+This course will introduce students to basic statistical techniques such as parameter estimation, hypothesis testing, regression analysis, analysis of variance. Applications in forecasting and quality control.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Engineering Statistics, Quality Control, and Forecasting:</span> Read More [+]</a></p>
+<div id="980" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span>, or <span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span>, or an equivalent course in probability theory</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="IND ENG 165">IND ENG 165</span> after completing <span class="code_bubble" data-code-bubble="STAT 135">STAT 135</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> 6 weeks - 7.5 hours of lecture and 2.5 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week. Seven and one-half hours of lecture and two and one-half hours of discussion per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Engineering Statistics, Quality Control, and Forecasting:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng166" data-toggle="#cb_indeng166">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 166</span> 
+<span class="title">Decision Analytics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng166">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2022, Spring 2021<br/>
+Introductory course on the theory and applications of decision analysis. Elective course that provides a systematic evaluation of decision-making problems under uncertainty. Emphasis on the formulation, analysis, and use of decision-making techniques in engineering, operations research and systems analysis. Includes formulation of risk problems and probabilistic risk assessments. Graphical methods and computer software using event trees, decision</span><span class="deschide"> trees, and influence diagrams that focus on model design.</span><br/>
+ <a href="" class="btn-readmore"><span>Decision Analytics:</span> Read More [+]</a></p>
+<div id="803" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span> or <span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Oren, Righter</p></div>
+<p><a href="" class="btn-readless"><span>Decision Analytics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng169" data-toggle="#cb_indeng169">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 169</span> 
+<span class="title">Integer Optimization</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng169">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2022, Spring 2021, Fall 2020<br/>
+This course addresses modeling and algorithms for integer programming problems, which are constrained optimization problems with integer-valued variables. Flexibility of integer optimization formulations; if-then constraints, fixed-costs, etc. Branch and Bound; Cutting plane methods; polyhedral theory. Applications in production planning, resource allocation, power generation, network design. Alternate formulations for integer optimization:</span><span class="deschide"> strength of Linear Programming relaxations. Algorithms for integer optimization problems. Specialized strategies by integer programming solvers.</span><br/>
+ <a href="" class="btn-readmore"><span>Integer Optimization:</span> Read More [+]</a></p>
+<div id="891" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> •<br/>
+Enable the students to recognize when problems can be modeled as integer optimization problems.<br/>•<br/>
+Familiarize students in leading methodologies for solving integer optimization problems, and techniques in these methodologies.<br/>•<br/>
+To acquire skills in the best modeling approach that is suitable to the practical problem at hand.<br/>•<br/>
+To train students in modeling of integer optimization problems;<br/>•<br/>
+To train the students in the selection of appropriate techniques to be used for integer optimization problems.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span>, <span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span>, and background in Python and programming</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Rajan</p></div>
+<p><a href="" class="btn-readless"><span>Integer Optimization:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng170" data-toggle="#cb_indeng170">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 170</span> 
+<span class="title">Industrial Design and Human Factors</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng170">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+This course surveys topics related to the design of products and interfaces ranging from alarm clocks, cell phones, and dashboards to logos, presentations, and web sites. Design of such systems requires familiarity with human factors and ergonomics, including the physics and perception of color, sound, and touch, as well as familiarity with case studies and contemporary practices in interface design and usability testing. Students will solve</span><span class="deschide"> a series of design problems individually and in teams.</span><br/>
+ <a href="" class="btn-readmore"><span>Industrial Design and Human Factors:</span> Read More [+]</a></p>
+<div id="291" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Goldberg</p></div>
+<p><a href="" class="btn-readless"><span>Industrial Design and Human Factors:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng171" data-toggle="#cb_indeng171">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 171</span> 
+<span class="title">Berkeley Changemaker: Ethical and Effective Entrepreneurship in High Tech</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng171">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Fall 2020<br/>
+This course emphasizes the three Berkeley Changemaker pillars of critical thinking, effective communication, and productive collaboration. It combines critical examination of entrepreneurial challenges with strategic, ethical, and leadership theories. It develops verbal and collaborative leadership skills, through flipped classroom and intense case discussions, a team project, and a formal final presentation of the project. The case discussions</span><span class="deschide"> in particular will develop effective listening, real-time analysis, and verbal leadership skills. The project will challenge you to analyze a current or historical ethical challenge in a high technology industry,<br/>
+or analyze the ethical implications of your own entrepreneurial plans.</span><br/>
+ <a href="" class="btn-readmore"><span>Berkeley Changemaker: Ethical and Effective Entrepreneurship in High Tech:</span> Read More [+]</a></p>
+<div id="677" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Students who fully engage with this class will strengthen their in-the-moment abilities to listen, learn, analyze, and convince. They will size up high tech business and entrepreneurial<br/>
+opportunities with new perspectives, both strategic and ethical. They will gain practice in applying strategic and ethical frameworks to entrepreneurship and business decisions in high<br/>
+technology. They will learn how to understand and build upon criticism in real-time, and lead discussions on contentious issues towards productive, inclusive, and mutually beneficial<br/>
+outcomes. They will become an entrepreneur who not only sees how innovation can solve society’s problems, but can furthermore convince and lead others in accomplishing and<br/>
+implementing a solution.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="IND ENG 171">IND ENG 171</span> after completing <span class="code_bubble" data-code-bubble="UGBA 105">UGBA 105</span>.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week. Six hours of lecture per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructor:</strong> Fleming</p></div>
+<p><a href="" class="btn-readless"><span>Berkeley Changemaker: Ethical and Effective Entrepreneurship in High Tech:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng172" data-toggle="#cb_indeng172">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 172</span> 
+<span class="title">Probability and Risk Analysis for Engineers</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng172">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+This is an introductory course in probability designed to develop a good understanding of uncertain phenomena and the mathematical tools used to model and analyze it. Applications will be given in such areas as reliability theory, risk theory, inventory theory, financial models, and computer science, among others. To complement the theory, the course also covers the basics of stochastic simulation. This course is a probability course and cannot</span><span class="deschide"> be used to fulfill any engineering unit or elective requirements.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Probability and Risk Analysis for Engineers:</span> Read More [+]</a></p>
+<div id="905" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Students will learn how to model random phenomena and learn about a variety of areas where it is important to estimate the likelihood of uncertain events. Students will also learn how to use computer simulation to replicate and analyze these events.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Students should have a solid knowledge of calculus, including multiple variable integration, such as <span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span> and <span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span> or <span class="code_bubble" data-code-bubble="MATH 16A">MATH 16A</span> and <span class="code_bubble" data-code-bubble="MATH 16B">MATH 16B</span>, as well as programming experience in Matlab or Python</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span> after completing <span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span>, or STAT 140. A deficient grade in <span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span> may be removed by taking STAT 140.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> 6 weeks - 7.5 hours of lecture and 2.5 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week. Seven and one-half hours of lecture and two and one-half hours of discussion per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Probability and Risk Analysis for Engineers:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng173" data-toggle="#cb_indeng173">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 173</span> 
+<span class="title">Introduction to Stochastic Processes</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng173">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+This is an introductory course in stochastic models. It builds upon a basic course in probability theory and extends the concept of a single random variable into collections of random variables known as stochastic processes. The course focuses on discrete-time Markov chains, Poisson process, continuous-time Markov chains, and renewal theory. It also discusses applications to queueing theory, risk analysis and reliability theory. Along with</span><span class="deschide"> the theory, the course covers stochastic simulation techniques that will allow students to go beyond the models and applications discussed in the course.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Stochastic Processes:</span> Read More [+]</a></p>
+<div id="471" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Students will learn how to model random phenomena that evolves over time, as well as the simulation techniques that enable the replication of such problems using a computer. By discussing various applications in science and engineering, students will be able to model many real world problems where uncertainty plays an important role.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Students should have taken a probability course, such as <span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span> or <span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span>, and should have programming experience in Matlab or Python</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Ind Eng 173 after taking Ind Eng 161.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture and two hours of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Stochastic Processes:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng174" data-toggle="#cb_indeng174">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 174</span> 
+<span class="title">Simulation for Enterprise-Scale Systems</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng174">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+Introductory course on design, programming, and statistical analysis of simulation methods and tools for enterprise-scale systems such as traffic and computer networks, health-care and financial systems, and factories. Topics include the types of problems that can be solved by such methods. Programming material includes the theory behind random variable generation for a variety of common variables. Advanced techniques such as variance reduction</span><span class="deschide">, simulation optimization, or meta-modeling are considered. Student teams implement an enterprise-scale simulation in a semester-length design project.</span><br/>
+ <a href="" class="btn-readmore"><span>Simulation for Enterprise-Scale Systems:</span> Read More [+]</a></p>
+<div id="828" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> •<br/>
+Exposure students to state-of-art advanced simulation techniques. •<br/>
+Note: the course is a mixture of modeling art, analytical science, and computational technology.<br/>•<br/>
+Have students communicate their ideas and solutions effectively in written reports.<br/>•<br/>
+Insure students become familiar with the fundamental similarities and differences among simulation software packages.<br/>•<br/>
+Introduce students to modern techniques for developing computer simulations of stochastic discrete-event models and experimenting with such models to better design and operate dynamic systems.<br/>•<br/>
+Introduce the different technologies used to develop simulation models and simulator products in order to become critical consumers of simulation study results.<br/>•<br/>
+Teach strengths and weaknesses of different approaches for a foundation for selecting methodologies.<br/>•<br/>
+Teach students how to model random processes and experiment with simulated systems.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="IND ENG 165">IND ENG 165</span>; <span class="code_bubble" data-code-bubble="IND ENG 173">IND ENG 173</span>; <span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span> or <span class="code_bubble" data-code-bubble="STAT 134">STAT 134</span></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for <span class="code_bubble" data-code-bubble="IND ENG 174">IND ENG 174</span> after completing IND ENG 131. A deficient grade in <span class="code_bubble" data-code-bubble="IND ENG 174">IND ENG 174</span> may be removed by taking IND ENG 131.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructor:</strong> Zheng</p></div>
+<p><a href="" class="btn-readless"><span>Simulation for Enterprise-Scale Systems:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng180" data-toggle="#cb_indeng180">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 180</span> 
+<span class="title">Senior Project</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng180">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+Application of systems analysis and industrial engineering to the analysis, planning, and/or design of industrial, service, and government systems. Consideration of technical and economic aspects of equipment and process design. Students work in teams under faculty supervision. Topics vary yearly.</span><br/>
+ <a href="" class="btn-readmore"><span>Senior Project:</span> Read More [+]</a></p>
+<div id="442" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 160, 162, 165, 173, Engineering 120, and three other Industrial Engineering and Operations Research electives</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 6 hours of fieldwork per week</p><p><strong>Summer:</strong> 10 weeks - 3 hours of lecture and 9 hours of fieldwork per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture and six hours of fieldwork per week. Three hours of lecture and nine hours of fieldwork per week for 10 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Senior Project:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng190a" data-toggle="#cb_indeng190a">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 190A</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng190a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2018, Fall 2016, Spring 2016<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).</span><br/>
+ <a href="" class="btn-readmore"><span>Advanced Topics in Industrial Engineering and Operations Research:</span> Read More [+]</a></p>
+<div id="749" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1.5-7.5 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-6 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Seminar per week for 15 weeks. One and one-half to Six hours of Seminar per week for 10 weeks. One and one-half to Seven and one-half hours of Seminar per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Advanced Topics in Industrial Engineering and Operations Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng190b" data-toggle="#cb_indeng190b">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 190B</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research: Entrepreneurial Marketing and Finance</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng190b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2017, Spring 2014, Fall 2013<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).</span><br/>
+ <a href="" class="btn-readmore"><span>Advanced Topics in Industrial Engineering and Operations Research: Entrepreneurial Marketing and Finance:</span> Read More [+]</a></p>
+<div id="732" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1.5-7.5 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-6 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Seminar per week for 15 weeks. One and one-half to Six hours of Seminar per week for 10 weeks. One and one-half to Seven and one-half hours of Seminar per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Advanced Topics in Industrial Engineering and Operations Research: Entrepreneurial Marketing and Finance:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng190c" data-toggle="#cb_indeng190c">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 190C</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng190c">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).</span><br/>
+ <a href="" class="btn-readmore"><span>Advanced Topics in Industrial Engineering and Operations Research:</span> Read More [+]</a></p>
+<div id="350" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1.5-7.5 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-6 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Seminar per week for 15 weeks. One and one-half to Six hours of Seminar per week for 10 weeks. One and one-half to Seven and one-half hours of Seminar per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Advanced Topics in Industrial Engineering and Operations Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng190d" data-toggle="#cb_indeng190d">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 190D</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng190d">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2017, Fall 2014, Spring 2014<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).</span><br/>
+ <a href="" class="btn-readmore"><span>Advanced Topics in Industrial Engineering and Operations Research:</span> Read More [+]</a></p>
+<div id="523" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1.5-7.5 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-6 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Seminar per week for 15 weeks. One and one-half to Six hours of Seminar per week for 10 weeks. One and one-half to Seven and one-half hours of Seminar per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Advanced Topics in Industrial Engineering and Operations Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng190f" data-toggle="#cb_indeng190f">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 190F</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng190f">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2013, Spring 2012, Spring 2011<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).</span><br/>
+ <a href="" class="btn-readmore"><span>Advanced Topics in Industrial Engineering and Operations Research:</span> Read More [+]</a></p>
+<div id="874" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1.5-7.5 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-6 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Seminar per week for 15 weeks. One and one-half to Six hours of Seminar per week for 10 weeks. One and one-half to Seven and one-half hours of Seminar per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Advanced Topics in Industrial Engineering and Operations Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng190g" data-toggle="#cb_indeng190g">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 190G</span> 
+<span class="title">Advanced Topics in Industrial Engineering and Operations Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng190g">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+The 190 series cannot be used to fulfill any engineering requirement (engineering units, courses, technical electives, or otherwise).</span><br/>
+ <a href="" class="btn-readmore"><span>Advanced Topics in Industrial Engineering and Operations Research:</span> Read More [+]</a></p>
+<div id="579" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of seminar per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1.5-7.5 hours of seminar per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-6 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Seminar per week for 15 weeks. One and one-half to Six hours of Seminar per week for 10 weeks. One and one-half to Seven and one-half hours of Seminar per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Advanced Topics in Industrial Engineering and Operations Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng190h" data-toggle="#cb_indeng190h">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 190H</span> 
+<span class="title">Cases in Global Innovation</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng190h">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2021, Spring 2011<br/>
+This course is designed primarily for upper-level undergraduate and graduate students interested in examining the major challenges and success factors entrepreneurs and innovators face in globalizing a company, product, or service. Over the duration of this course, students will examines case studies of early, mid-stage, and large-scale enterprises as they seek to start a new venture, introduce a new product or service, or capitalize on global economic</span><span class="deschide"> trends to enhance their existing business. The course content exposes students interested in internationally oriented careers to the strategic thinking involved in international engagement and expansion. Cases will include both U.S. companies seeking to enter emerging markets and emerging market companies looking to expand within their own nations or into markets in developed nations. The course is focused around intensive study of actual business situations through rigorous case-study analysis.</span><br/>
+ <a href="" class="btn-readmore"><span>Cases in Global Innovation:</span> Read More [+]</a></p>
+<div id="199" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Junior or Senior standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 8 weeks - 2 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Cases in Global Innovation:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng190i" data-toggle="#cb_indeng190i">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 190I</span> 
+<span class="title">Cases in Global Innovation: China</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng190i">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Prior to 2007<br/>
+This course is designed primarily for upper-level undergraduate and graduate students interested in examining the major challenges and success factors entrepreneurs and innovators face in globalizing a company product or service, with a focus on China. Over the duration of this course, students will examine case studies of foreign companies seeking to start a new venture, introduce a new product or service to the China market, or domestic Chinese companies seeking</span><span class="deschide"> to adapt a U.S. or western business model to the China market. The course content exposes students interested in internationally oriented careers to the strategic thinking involved in international engagement and expansion and the particularities of the China market and their contrast with the U.S. market. The course is focused around intensive study of actual business situations through rigorous case-study analysis and the course size is limited to 30.</span><br/>
+ <a href="" class="btn-readmore"><span>Cases in Global Innovation: China:</span> Read More [+]</a></p>
+<div id="397" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Junior or senior standing. Recommended, but not required to be taken after or along with Engineering 198</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Sidhu</p></div>
+<p><a href="" class="btn-readless"><span>Cases in Global Innovation: China:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng190k" data-toggle="#cb_indeng190k">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 190K</span> 
+<span class="title">Cases in Global Innovation: South Asia</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng190k">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Prior to 2007<br/>
+This course is designed primarily for upper-level undergraduate and graduate students interested in examining the major challenges and success factors entrepreneurs and innovators face in conducting business, globalizing a company product or service, or investing in South Asia. Over the duration of this course, students will examine case studies of foreign companies seeking to start a new venture, introduce a new product or service to the South Asian market, or</span><span class="deschide"> South Asian companies seeking to adapt a U.S or western business model. The course will put this into the larger context of the political, economic, and social climate in several South Asian countries and explore the constraints to doing business, as well as the policy changes that have allowed for a more conducive business environment.</span><br/>
+ <a href="" class="btn-readmore"><span>Cases in Global Innovation: South Asia:</span> Read More [+]</a></p>
+<div id="582" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Junior or senior standing. Recommended but not required to be taken after or along with Engineering 198</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructor:</strong> Sidhu</p></div>
+<p><a href="" class="btn-readless"><span>Cases in Global Innovation: South Asia:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indengh196a" data-toggle="#cb_indengh196a">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG H196A</span> 
+<span class="title">Operations Research and Management Science Honors Thesis</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indengh196a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2022<br/>
+Individual study and research for at least one academic year on a special problem approved by a member of the faculty; preparation of the thesis on broader aspects of this work.</span><br/>
+ <a href="" class="btn-readmore"><span>Operations Research and Management Science Honors Thesis:</span> Read More [+]</a></p>
+<div id="153" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Open only to students in the honors program</p><p><strong>Credit Restrictions:</strong> Course may be repeated for credit with consent of instructor.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Independent study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Operations Research and Management Science Honors Thesis:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indengh196b" data-toggle="#cb_indengh196b">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG H196B</span> 
+<span class="title">Operations Research and Management Science Honors Thesis</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indengh196b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Prior to 2007<br/>
+Individual study and research for at least one academic year on a special problem approved by a member of the faculty; preparation of the thesis on broader aspects of this work.</span><br/>
+ <a href="" class="btn-readmore"><span>Operations Research and Management Science Honors Thesis:</span> Read More [+]</a></p>
+<div id="791" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Open only to students in the honors program</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Independent study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Operations Research and Management Science Honors Thesis:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng197" data-toggle="#cb_indeng197">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 197</span> 
+<span class="title">Undergraduate Field Research in Industrial Engineering</span> 
+<span class="hours">1 - 12 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng197">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Fall 2022, Spring 2022<br/>
+Students work on a field project under the supervision of a faculty member. Course does not satisfy unit or residence requirements for bachelor's degree.</span><br/>
+ <a href="" class="btn-readmore"><span>Undergraduate Field Research in Industrial Engineering:</span> Read More [+]</a></p>
+<div id="929" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Completion of two semesters of coursework</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-12 hours of fieldwork per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>6 weeks - 2.5-30 hours of fieldwork per week<br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1.5-22.5 hours of fieldwork per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-18 hours of fieldwork per week</p><!--<p class=""><strong>Additional Format:</strong> Forty-five hours of academic work per unit per term. Forty-five hours of academic work per unit per term.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Undergraduate Field Research in Industrial Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng198" data-toggle="#cb_indeng198">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 198</span> 
+<span class="title">Directed Group Studies for Advanced Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng198">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2022, Fall 2021<br/>
+Group studies of selected topics. Semester course unit value and contact hours will have a one-to-one ratio.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Studies for Advanced Undergraduates:</span> Read More [+]</a></p>
+<div id="213" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Senior standing in Engineering</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Directed group study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Studies for Advanced Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indeng199" data-toggle="#cb_indeng199">
+<h3 class="courseblocktitle">
+<span class="code">IND ENG 199</span> 
+<span class="title">Supervised Independent Study</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indeng199">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2022, Fall 2021, Fall 2020<br/>
+Supervised independent study. Enrollment restrictions apply.</span><br/>
+ <a href="" class="btn-readmore"><span>Supervised Independent Study:</span> Read More [+]</a></p>
+<div id="595" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor and major adviser</p><p><strong>Credit Restrictions:</strong> Course may be repeated for a maximum of four units per semester.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>6 weeks - 2.5-10 hours of independent study per week<br/><span style="width: 15px; display: inline-block;"/>8 weeks - 2-7.5 hours of independent study per week<br/><span style="width: 15px; display: inline-block;"/>10 weeks - 1.5-6 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> One to four hours of independent study per week. One and one-half to six hours of independent study per week for 10 weeks. Two to seven and one-half hours of independent study per week for 8 weeks. Two and one-half to ten hours of independent study per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Industrial Engin and Oper Research/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+]]>
+</coursestext>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><h4>Faculty</h4><p class="facitem"><strong>Ilan Adler, <i>Professor</i>. </strong>Financial engineering, optimization theory, combinatorial probability models.<br/><a href="http://vcresearch.berkeley.edu/node/13998"target="_blank">Research Profile</a></p><p class="facitem"><strong>Anil Jayanti Aswani, <i>Assistant Professor</i>. </strong></p><p class="facitem"><strong>Alper Atamturk, <i>Professor</i>. </strong>Logistics, integer programming, computational optimization, robust optimization.<br/><a href="http://vcresearch.berkeley.edu/node/13999"target="_blank">Research Profile</a></p><p class="facitem"><strong>Laurent El Ghaoui, <i>Professor</i>. </strong>Decision-making under uncertainty, convex optimization, robust solutions, semidefinite programming, exhaustive simulation.<br/><a href="http://vcresearch.berkeley.edu/node/15019"target="_blank">Research Profile</a></p><p class="facitem"><strong>Lee Fleming, <i>Professor</i>. </strong>Invention, innovation, patents, big data, leadership.<br/><a href="http://vcresearch.berkeley.edu/node/16450"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ken Goldberg, <i>Professor</i>. </strong>Robotics, art, social media, new media, automation.<br/><a href="http://vcresearch.berkeley.edu/node/14251"target="_blank">Research Profile</a></p><p class="facitem"><strong>Paul Grigas, <i>Assistant Professor</i>. </strong>Large-scale convex optimization, statistical machine learning, and data-driven decision making.<br/><a href="https://www.ocf.berkeley.edu/~pgrigas/"target="_blank">Research Profile</a></p><p class="facitem"><strong>Xin Guo, <i>Professor</i>. </strong>Financial engineering, industrial engineering and operations, stochastic processes and applications, stochastic control, semi-martingale and filteration expansions, credit risk, (ir)reversible investment.<br/><a href="http://vcresearch.berkeley.edu/node/14760"target="_blank">Research Profile</a></p><p class="facitem"><strong>Dorit S. Hochbaum, <i>Professor</i>. </strong>Data mining, integer programming, discrete optimization, network flow techniques, clustering, image segmentation, machine vision, pattern recognition.<br/><a href="http://vcresearch.berkeley.edu/node/14852"target="_blank">Research Profile</a></p><p class="facitem"><strong>Philip M. Kaminsky, <i>Professor</i>. </strong>Biotechnology, logistics, distribution, algorithms, planning, optimization, control, manufacturing, semiconductors, scheduling, biomanufacturing, probabilistic methods, production scheduling, supply chain management, operations management, logistic.<br/><a href="http://vcresearch.berkeley.edu/node/14349"target="_blank">Research Profile</a></p><p class="facitem"><strong>Javad Lavaei, <i>Associate Professor</i>. </strong>Control theory, optimization theory, power systems, and data science.<br/><a href="http://ieor.berkeley.edu/~lavaei/"target="_blank">Research Profile</a></p><p class="facitem"><strong>Robert C. Leachman, <i>Professor</i>. </strong>Logistics, manufacturing, semiconductors, scheduling, supply chain systems, dynamic production models, production planning and scheduling.<br/><a href="http://vcresearch.berkeley.edu/node/14996"target="_blank">Research Profile</a></p><p class="facitem"><strong>Shmuel S. Oren, <i>Professor Emeritus</i>. </strong>Economics, algorithms, financial engineering, risk management, planning, optimization, operation of electric power systems, market based coordination of network systems, trading instruments.<br/><a href="http://vcresearch.berkeley.edu/node/15364"target="_blank">Research Profile</a></p><p class="facitem"><strong>Rhonda L. Righter, <i>Professor</i>. </strong>Modeling, optimization, stochastic systems, systems with uncertainty.<br/><a href="http://vcresearch.berkeley.edu/node/14207"target="_blank">Research Profile</a></p><p class="facitem"><strong>Lee W. Schruben, <i>Professor</i>. </strong>Health care systems, simulation, optimization of simulation system response, foundations of simulation modeling, supply chains, experimental designs, biopharmaceuticals, Production.<br/><a href="http://vcresearch.berkeley.edu/node/15313"target="_blank">Research Profile</a></p><p class="facitem"><strong>Zuo-Jun Shen, <i>Professor</i>. </strong>Logistics, supply chain design and management, inventory management, auction mechanism design.<br/><a href="http://vcresearch.berkeley.edu/node/14218"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ikhlaq Sidhu, <i>Adjunct Professor</i>. </strong>Technology management, industrial engineering and operations, technology commerialization, interdisciplinary engineering.<br/><a href="http://vcresearch.berkeley.edu/node/15449"target="_blank">Research Profile</a></p><p class="facitem"><strong>Candace Yano, <i>Professor</i>. </strong>Inventory control, production planning, distribution systems planning, integrated production-quality models, integrated manufacturing-marketing models.<br/><a href="http://vcresearch.berkeley.edu/node/15643"target="_blank">Research Profile</a></p><p class="facitem"><strong>Zeyu Zheng, <i>Assistant Professor</i>. </strong></p><h4>Lecturers</h4><p class="facitem"><strong>David Law, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Mehdi Maghsoodnia, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Kenneth Sandy, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Ken Singer, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Naeem Zafar, <i>Lecturer</i>. </strong></p><h4>Emeritus Faculty</h4><p class="facitem"><strong>Richard E. Barlow, <i>Professor Emeritus</i>. </strong>Industrial engineering and operations, reliability theory, statistical data analysis, Bayesian probability modeling.<br/><a href="http://vcresearch.berkeley.edu/node/14126"target="_blank">Research Profile</a></p><p class="facitem"><strong>Stuart E. Dreyfus, <i>Professor Emeritus</i>. </strong>Neural networks, dynamic programming, limits of operations research modeling, cognitive ergonomics.<br/><a href="http://vcresearch.berkeley.edu/node/14127"target="_blank">Research Profile</a></p><p class="facitem"><strong>C. Roger Glassey, <i>Professor Emeritus</i>. </strong>Simulation of manufacturing systems, production planning and scheduling, mathematical optimization.<br/><a href="http://vcresearch.berkeley.edu/node/14264"target="_blank">Research Profile</a></p><p class="facitem"><strong>Robert M. Oliver, <i>Professor Emeritus</i>. </strong>Risk management, operations research, industrial engineering, prediction of rare events, default and fraud detection, credit risk scoring, analysis tools, computer software, acquisition and negotiation strategies.<br/><a href="http://vcresearch.berkeley.edu/node/15361"target="_blank">Research Profile</a></p><p class="facitem"><strong>Sheldon M. Ross, <i>Professor Emeritus</i>. </strong>Financial engineering, simulations, stochastics, statistical analysis.<br/><a href="http://vcresearch.berkeley.edu/node/15287"target="_blank">Research Profile</a></p><p class="facitem"><strong>J. George Shanthikumar, <i>Professor Emeritus</i>. </strong>Scheduling, production system modelling and analysis, queueing theory and applications, reliability and probability theory, sequencing, simulation methodology, stochastic processes and modelling.<br/><a href="http://vcresearch.berkeley.edu/node/14000"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ronald W. Wolff, <i>Professor Emeritus</i>. </strong>Stochastic processes, queueing theory, queuing network, transmission systems.<br/><a href="http://vcresearch.berkeley.edu/node/15712"target="_blank">Research Profile</a></p>]]>
+</faculty>
+</courseleaf>
+

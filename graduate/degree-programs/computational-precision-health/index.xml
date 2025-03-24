@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Computational Precision Health</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<abouttheprogramtext name="About the Program">
+<![CDATA[
+<p>Computational Precision Health (CPH) is an exploding field across both academia and industry. This rapidly evolving field integrates the tremendous advances in data science and data availability that have occurred over the past decades with expertise in clinical medicine, public health, and health care systems to enable a paradigm shift in the ways we treat and prevent disease. Advances in data and analytics open the door to faster deployment of more effective health interventions, but this potential can only be achieved if the underlying computational and analytic tools are conceived, tested, and validated for the health and health care needs of diverse individuals and communities. The field of Computational Precision Health aims to realize this potential.</p>
+<h3>PhD</h3>
+<p><strong>A new PhD in Computational Precision Health will begin enrollment in fall 2023.</strong></p>
+<div>
+<p><span id="m_1824354006075102651gmail-docs-internal-guid-65c5c139-7fff-5c83-71a1-4cc8eb7c6063">The PhD in Computational Precision Health leverages and bridges the complementary expertise and incredible resources of UC Berkeley and UCSF to create an unparalleled and truly unique learning environment. Students in the PhD in Computational Precision Health will develop skills and expertise in both the</span> computational sciences (machine learning and AI, natural language processing, statistical inference and modeling, data standards, parallel computing and data at scale, etc.) and health sciences (clinical decision sciences and cognitive informatics, clinical delivery, clinical research, implementation science, health information policy, etc.) </p>
+ 
+<p><span id="m_1824354006075102651gmail-docs-internal-guid-65c5c139-7fff-5c83-71a1-4cc8eb7c6063">Students will develop the ability to work in interdisciplinary teams from ideation to development, testing, and validation in the real world. Coursework will be complemented by extensive and early interaction with world-class faculty—through research rotations, seminar series, and practicums—at the intersection of computation and health, and will develop proficiency in cross-disciplinary research and communication. A focus on diversity, equity and inclusion, human-centered design accommodating diverse users, and the ethical implications and societal impacts of the work will be embedded throughout the program. </span></p>
+</div>
+<div> </div>
+<div>Fall 2023 PhD Applications are open September 15, 2022–January 6, 2023.</div>
+<div> </div>
+<div><span id="m_1824354006075102651gmail-docs-internal-guid-4b0fa9cd-7fff-c256-5511-d9003cfe60af">More details on curriculum and CPH courses can be found </span>on our website: <a href="https://computationalhealth.berkeley.edu/" target="_blank">computationalhealth.berkeley.edu</a>.</div>
+<h3>Designated Emphasis</h3>
+<p>The Designated Emphasis in CPH is administered by the joint UC Berkeley/UCSF Computational Precision Health Augmented Graduate Group. The UCB CPH DE allows PhD students from affiliated UCB programs to incorporate CPH courses and advising into their PhD. CPH DE students will receive a solid grounding in the fundamentals of computational precision health, with training in the application of computation to the practice of medicine and public health. Students will be part of an interdisciplinary, intercampus community of UC Berkeley and UCSF scholars with diverse academic backgrounds, providing unique cross-campus opportunities, including direct exposure to the clinical care and health science environment offered at UCSF.</p>
+]]>
+</abouttheprogramtext>
+<admissionstext name="Admissions">
+<![CDATA[
+<p>Please apply at least two semesters before your Qualifying Examination by submitting the following materials to the Computational Precision Health Program, by emailing the documents below to <a href="http://guide.berkeley.edu/graduate/degree-programs/computational-precision-health/mailto:cph.info@berkeley.edu">cph.info@berkeley.edu</a>.</p>
+<ul>
+	<li><a href="https://docs.google.com/forms/d/1SCQm5lYQz0uGmVlGm5shgkBuX9u2_qkGXI9Prn8Q1YM/edit" target="_blank">Petition for Admission to the Designated Emphasis in Computational Precision Health</a>.</li>
+	<li>Letter of intent summarizing your research interests and background in Computational Precision Health. When possible, the letter should include one or more CPH Core Graduate Group faculty members from your home campus as potential DE advisors.</li>
+	<li>Letter of recommendation from a CPH Graduate Group Core or Affiliate faculty member, ideally from your home campus. DE students will be assigned a CPH DE Advisor at time of acceptance to the DE program. The DE Advisor will be a Core member of the Graduate Group from your home campus and cannot be the same person as the student’s Dissertation Advisor.</li>
+</ul>
+]]>
+</admissionstext>
+<designatedemphasisrequirementstext name="Designated Emphasis Requirements">
+<![CDATA[
+<h3>Curriculum/Coursework</h3>
+<p>Students admitted to the CPH DE program must complete two semesters of the CPH Doctoral Seminar, and at least 3 courses from the core course list below, in the following two domain areas:</p>
+<ol>
+	<li>Health and Public Health Sciences</li>
+	<li>Computing and Statistical Sciences</li>
+</ol>
+<p>In order to ensure that the DE confers sufficient additional breadth beyond a student’s home program, students in a primarily computational PhD program (for example, Bioengineering, Electrical Engineering and Computer Science, Computer Science, Statistics, Biostatistics, Computational Biology, Industrial Engineering and Operations Research) will be required to take at least two courses in the health domain; those in Epidemiology and Health Policy will be required to take at least two courses in the Computational Sciences domain. <span>For those students outside of computational PhD programs, the DE Advisor will provide guidance on the appropriate balance of courses between the two domains. </span></p>
+<h3><span>Core Courses </span></h3>
+<p><span>Qualifying courses are listed below. Additional courses falling within the two domains below may also qualify, to be approved by the student’s DE advisor. </span></p>
+<h4><span>1. Health and Public Health Science</span></h4>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td colspan="2"><span class="courselistcomment">Clinical Reasoning and Personalized Medicine: diagnosis and treatment, evidence-based medicine</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH W250B">PB HLTH W250B</span></td><td>Epidemiologic Methods II</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH W226C">PB HLTH W226C</span></td><td>Economics of Population Health</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH 255D">PB HLTH 255D</span></td><td>Methods in Social Epidemiology</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH 222A">PB HLTH 222A</span></td><td>Biomedical Innovation Policy</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="PB HLTH 235">PB HLTH 235</span></td><td>Impact Evaluation for Health Professionals</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<h4><span>2. Computing and Statistical Sciences</span></h4>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 289A">COMPSCI 289A</span></td><td>Introduction to Machine Learning</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI 286A">COMPSCI 286A</span></td><td>Introduction to Database Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="COMPSCI C281A">COMPSCI C281A/STAT C241A</span></td><td>Statistical Learning Theory</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT 156">STAT 156</span></td><td>Causal Inference</td><td class="hourscol">4</td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="STAT 154">STAT 154</span></td><td>Modern Statistical Prediction and Machine Learning</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+<p><span>In some cases, for example, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="STAT 154">STAT 154</span></span> and <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="STAT 156">STAT 156</span></span>/<span class="sc_courseinline"><span class="code_bubble" data-code-bubble="STAT 256">STAT 256</span></span>, an upper division undergraduate course may be acceptable for the DE. This is due to the desire to accommodate students from non-computational PhD programs who may not have the programming, mathematics or statistics prerequisites for corresponding graduate-level coursework. </span></p>
+<h3><span>CPH Doctoral Seminar </span></h3>
+<p><span>In addition, students will participate in at least 2 semesters of the CPH Doctoral Seminar. The seminar will consist of a combination of journal club-style discussion of recent literature in Computational Precision Health, and guest faculty speakers drawn from across the CPH Graduate Group and beyond. This seminar will be held in conjunction with UCSF DE CPH students. </span></p>
+<h3><span>Elective Courses </span></h3>
+<p><span>No Elective courses are required for the Designed Emphasis, but the DE Advisor may guide students on additional courses to supplement their training in this field. </span></p>
+<h3><span>UC Berkeley Affiliated Programs</span></h3>
+<p><strong><a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/bioengineering/"><span>PhD in Bioengineering </span></a></strong></p>
+<p><a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/electrical-engineering-computer-sciences/"><strong><span>PhD in Electrical Engineering and Computer Sciences</span></strong></a></p>
+<p><strong><a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/computer-science/"><span>PhD in Computer Science </span></a></strong></p>
+<p><strong><a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/biostatistics/"><span>PhD in Biostatistics </span></a></strong></p>
+<p><strong><a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/statistics/"><span>PhD in Statistics </span></a></strong></p>
+<p><strong><a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/computational-biology/"><span>PhD in Computational Biology </span></a></strong></p>
+<p><a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/epidemiology/"><strong><span>PhD in Epidemiology </span></strong></a></p>
+<p><strong><a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/health-policy/"><span>PhD in Health Policy </span></a></strong></p>
+<p><a href="http://guide.berkeley.edu/archive/2022-23/graduate/degree-programs/industrial-engineering/"><strong><span>PhD in Industrial Engineering and Operations Research </span></strong></a></p>
+<h3><span>Normative Time</span></h3>
+<p><span>No additional time can be added to the normative time of your home department.</span></p>
+]]>
+</designatedemphasisrequirementstext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Computational Precision Health (CPH)</title>
+
+
+<text>
+<![CDATA[  
+<h3>Courses</h3>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cph215" data-toggle="#cb_cph215">
+<h3 class="courseblocktitle">
+<span class="code">CPH 215</span> 
+<span class="title">Lab Rotation</span> 
+<span class="hours">1 - 8 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cph215">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Not yet offered<br/>
+For first-year CPH graduate students, this course will provide an introduction to experimental methods and research approaches in the different areas of Computational Precision Health. Ten week laboratory rotations spread out over the fall and spring semesters (summer will be on a needed basis). Research is conducted under the direction of an individual faculty member.</span><br/>
+ <a href="" class="btn-readmore"><span>Lab Rotation:</span> Read More [+]</a></p>
+<div id="782" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Student will be able to identify an appropriate lab setting for conducting their dissertation research.<br/>Students will be able to apply one or more computational or analytic methods to specified problems.<br/>
+<br/>Students will be able to identify and define a real-world problem in computational terms.<br/>
+<br/>Students will review, evaluate, and select appropriate computational or analytic methods for specified problems.<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Instructor permission required</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 10 weeks - 5-26 hours of laboratory per week</p><p><strong>Summer:</strong> 10 weeks - 2-21 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Five to twenty six hours of laboratory per week for 10 weeks. Two to twenty one hours of laboratory per week for 10 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Precision Health/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Lab Rotation:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cph270" data-toggle="#cb_cph270">
+<h3 class="courseblocktitle">
+<span class="code">CPH 270</span> 
+<span class="title">Computational Precision Health Seminar</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cph270">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023<br/>
+Computational precision health is a rapidly evolving field at the intersection of the computational (to include computer science, data science, and statistics) and the health sciences (clinical medicine, population health, clinical research). The seminar series will consist of a combination of journal club-style discussion of recent literature in Computational Precision Health, guest faculty speakers drawn from across the program’s faculty and beyond, presentations</span><span class="deschide"> by second-year students on work completed during lab rotations, and presentations by third-year students on “work in progress” on active dissertation research. Each cohort of PhD and DE students will have their own breakout sections to build community within that year.</span><br/>
+ <a href="" class="btn-readmore"><span>Computational Precision Health Seminar:</span> Read More [+]</a></p>
+<div id="276" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction. Students may enroll in multiple sections of this course within the same semester.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 10 weeks - 1.5 hours of lecture and 1.5 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> One and one-half hours of lecture and one and one-half hours of discussion per week for 10 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Precision Health/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Computational Precision Health Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cph299" data-toggle="#cb_cph299">
+<h3 class="courseblocktitle">
+<span class="code">CPH 299</span> 
+<span class="title">Individual Research</span> 
+<span class="hours">1 - 12 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cph299">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023<br/>
+Individual research under the supervision of a faculty member</span><br/>
+ <a href="" class="btn-readmore"><span>Individual Research:</span> Read More [+]</a></p>
+<div id="187" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0-0 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Zero hour of independent study per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Computational Precision Health/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Individual Research:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

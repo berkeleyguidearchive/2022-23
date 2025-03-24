@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Colleges, Schools, &amp; Divisions</title>
+
+
+<text>
+<![CDATA[  
+<h2>Colleges and Schools</h2>
+<p><strong>The following offer majors and minors, and are responsible for awarding Bachelor's Degrees.</strong></p>
+<ul class="department-thumb-list clearfix">
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/chemistry/">College of Chemistry</a></li>
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/engineering/">College of Engineering</a></li>
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/environmental-design/">College of Environmental Design</a></li>
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/letters-science/">College of Letters &amp; Science</a></li>
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/natural-resources/">Rausser College of Natural Resources</a></li>
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/haas-business/">Haas School of Business</a></li>
+</ul>
+<h2>Divisions</h2>
+<p><strong>The following house majors and minors available to undergraduate students.</strong></p>
+<ul class="department-thumb-list clearfix">
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/ls-arts-humanities-division/">Arts &amp; Humanities Division</a></li>
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/ls-biological-sciences-humanities-division/">Biological Sciences Division</a></li>
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/ls-mathematical-physical-sciences-division/">Mathematical &amp; Physical Sciences Division</a></li>
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/ls-social-sciences-division/">Social Sciences Division</a></li>
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/ls-undergraduate-studies-division/">Undergraduate Studies Division</a></li>
+	<li class="department"><a href="http://guide.berkeley.edu/2022-23/undergraduate/colleges-schools/data-science-division/">Division of Computing, Data Science, and Society</a></li>
+</ul>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

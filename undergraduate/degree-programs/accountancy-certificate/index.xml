@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Professional Accountancy</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<aboutthecertificatetext name="About the Certificate">
+<![CDATA[
+<p><span>The Berkeley Charter of Professional Accountancy (BCPA) is a unique program that provides comprehensive accounting coursework with professional networking events. In just two summers, students can complete all of the coursework needed to satisfy the 30 accounting subjects units for CPA licensure in California. Students can earn the BCPA certificate by completing four courses (14-16 units) in one summer. </span></p>
+<p><span>Classes are taught by full-time faculty from the Haas School of Business. Class lectures are held on weekday evenings (starting at 6:00pm) on the Berkeley Campus at the Haas School of Business. The program includes office visits to top international accounting firms, networking events with recruiters and professionals, and support throughout the recruiting process. </span><span id="docs-internal-guid-73279a1b-7fff-6680-f252-7cd7f4dcaa71">BCPA alums have secured internship and full-time positions at Deloitte, EY, KPMG, PwC, and other national firms in the areas of auditing, taxation, and consulting.</span></p>
+<p><span id="docs-internal-guid-73279a1b-7fff-6680-f252-7cd7f4dcaa71">Admission to the program is open to anyone interested in pursuing a career in accounting, finance, economics, or consulting. Students from any major and institution are encouraged to apply.</span></p>
+]]>
+</aboutthecertificatetext>
+<newitemtext name="Certificate Requirements">
+<![CDATA[
+<p><span id="docs-internal-guid-ba26966c-7fff-a1a9-2353-5c023cf3c81d">Students take four courses over 12 weeks (one summer). Courses must be taken for a letter grade and students must receive a C- or above to receive a certificate of completion. </span></p>
+<p><span id="docs-internal-guid-a4cb80d9-7fff-b5ee-19e7-033b3521ad62">Students have the option to earn the certificate by completing only one summer — two are not required. </span></p>
+<h3><span id="docs-internal-guid-05db54ec-7fff-df24-d03f-7696f35f47d2">Summer I: Introductory BCPA</span></h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="UGBA 102A">UGBA 102A</span></td><td>Financial Accounting</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="UGBA 102B">UGBA 102B</span></td><td>Managerial Accounting</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="UGBA 120AA">UGBA 120AA</span></td><td>Intermediate Financial Accounting 1</td><td class="hourscol">4</td></tr>
+<tr class="odd lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="UGBA 122">UGBA 122</span></td><td>Financial Information Analysis</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+<div> </div>
+<h3>Summer II: <span id="docs-internal-guid-9087f8ec-7fff-41a0-7b68-ad434b35471a">Advanced BCPA</span></h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="UGBA 120AB">UGBA 120AB</span></td><td>Intermediate Financial Accounting 2</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="UGBA 120B">UGBA 120B</span></td><td>Advanced Financial Accounting</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="UGBA 121">UGBA 121</span></td><td>Federal Income Tax Accounting</td><td class="hourscol">4</td></tr>
+<tr class="odd lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="UGBA 126">UGBA 126</span></td><td>Auditing</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+]]>
+</newitemtext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

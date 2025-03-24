@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Computational and Data Science and Engineering</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<abouttheprogramtext name="About the Program">
+<![CDATA[
+<p>The Designated Emphasis (DE) in Computational and Data Science and Engineering Program (CDSE) at the University of California, Berkeley trains students in modeling and high-performance simulation of complex physical systems, as well as in several  aspects of data analysis, statistics, machine learning, data visualization, etc. The CDSE program is committed to the development of new curricula and expanded programs aimed at the development and propagation of the use of tools of scientific computation to enhance  research across multiple disciplines. To that end, the CDSE program will actively support the training and multidisciplinary education of scientists, engineers, and technical specialists who are experts in relevant areas. </p>
+<p>The CDSE program crosses numerous disciplines, and participating departments include all of the departments in the college of engineering, computer science, mathematics, chemistry, astronomy, neuroscience, and political science, among many others. </p>
+<p>Upon graduation, the student receives a “PhD in X with a Designated Emphasis in Computational and Data Science and Engineering” on their transcript and diploma. This designation certifies that she or he has successfully completed a designated emphasis in addition to the departmental requirements for the PhD. Completion of the DE-CDSE will also be posted to the student’s transcript. We encourage interested readers to visit <u><a href="https://data.berkeley.edu/decdse" target="_blank">data.berkeley.edu/decdse</a>.</u></p>
+]]>
+</abouttheprogramtext>
+<admissionstext name="Admissions">
+<![CDATA[
+<p>Applicants must already be students within a Ph.D. program at UC Berkeley.</p>
+<p>Students must be accepted into the program and petition to add the DE-CDSE before taking their <strong>Qualifying Exam</strong>.</p>
+<p class="normal">Applicants for the DE-CDSE program are required to:</p>
+<ul>
+	<li class="normal">Submit an online application; for access to the application, please see the <a href="https://data.berkeley.edu/decdse" target="_blank">program's website</a>.
+	<ul>
+		<li class="normal">With this form, the student must specify their proposed area of CDSE study and list which<a href="https://data.berkeley.edu/decdse_students" target="_blank"> three courses</a> they will take to fulfill the requirements.</li>
+		<li class="normal">Curriculum Vitae (CV)</li>
+		<li class="normal">Transcripts (most recent copy of all undergraduate and graduate transcripts) </li>
+		<li class="normal">Letter of recommendation from their advisor</li>
+		<li class="normal">One-page statement about why they are applying to the program</li>
+	</ul>
+	</li>
+</ul>
+<p class="normal"><span>For further information regarding admission to graduate programs at UC Berkeley, please see the </span><a href="http://grad.berkeley.edu/admissions/" target="_blank">Graduate Division's Admissions website</a><span>.</span></p>
+]]>
+</admissionstext>
+<designatedemphasisrequirementstext name="Designated Emphasis Requirements">
+<![CDATA[
+<h3>Coursework/Curriculum</h3>
+<p>The student must take one course from each of the categories below; all courses taken to fulfill the DE requirements must be taken for a letter grade.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Category 1: Mathematical Tools</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following:</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 221">MATH 221</span></div></td><td>Advanced Matrix Computations [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 228A">MATH 228A</span></div></td><td>Numerical Solution of Differential Equations [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MATH 228B">MATH 228B</span></div></td><td>Numerical Solution of Differential Equations [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 204">STAT 204</span></div></td><td>Probability for Applications [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 210A">STAT 210A</span></div></td><td>Theoretical Statistics [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 210B">STAT 210B</span></div></td><td>Theoretical Statistics [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 215A">STAT 215A</span></div></td><td>Statistical Models: Theory and Application [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 215B">STAT 215B</span></div></td><td>Statistical Models: Theory and Application [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 232">STAT 232</span></div></td><td>Experimental Design [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT C239A">STAT C239A</span></div></td><td>The Statistics of Causal Inference in the Social Science [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 240">STAT 240</span></div></td><td>Nonparametric and Robust Methods [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT C241A">STAT C241A/COMPSCI C281A</span></div></td><td>Statistical Learning Theory [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT C241B">STAT C241B/COMPSCI C281B</span></div></td><td>Advanced Topics in Learning and Decision Making [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 243">STAT 243</span></div></td><td>Introduction to Statistical Computing [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 244">STAT 244</span></div></td><td>Statistical Computing [4]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="STAT 248">STAT 248</span></div></td><td>Analysis of Time Series [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">A course not listed, by petition to the program director</span></div></td><td class="hourscol"/></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Category 2: High Performance Computing</span></td><td class="hourscol"/></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select one of the following:</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI C267">COMPSCI C267</span></div></td><td>Applications of Parallel Computers [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="COMPSCI 294">COMPSCI 294</span></div></td><td>Special Topics [4] (Software Engineering for Scientific Computing)</td><td class="hourscol"/></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">CS294-73 is the new course, “Software Engineering for Scientific Computing”.</span></div></td><td class="hourscol"/></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">A course not listed, by petition to the program director</span></div></td><td class="hourscol"/></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Category 3: Application area</span></td><td class="hourscol"/></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Application area courses that utilize the above tools in a significant manner</span> <sup>1</sup></td><td class="hourscol"/></tr>
+</tbody></table>
+
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent">The student proposes this course, including a detailed syllabus documenting the use of mathematics and computation in an application area.</p></dd></dl>
+<h3>Qualifying Exam</h3>
+<p>Students must have a DE-CDSE component in their qualifying exam, with a DE-CDSE faculty member on the exam committee.</p>
+<h3>Dissertation</h3>
+<p>At least one member of the DE-CDSE faculty be on the dissertation committee.</p>
+]]>
+</designatedemphasisrequirementstext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

@@ -1,0 +1,902 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+<title>Materials Science and Engineering</title>
+
+
+<text>
+<![CDATA[  
+<xml/>
+  
+]]>
+</text>
+<abouttheprogramtext name="About the Program">
+<![CDATA[
+<h3>Bachelor of Science (BS)</h3>
+<p>Materials Scientists and Engineers are involved in every aspect of technology, ranging from the design of materials appropriate for use in integrated circuits and biological applications to those materials needed for energy generation (both conventional energy sources and green sources) and for building bridges, roads, and buildings.</p>
+<p>Upon graduation, students are prepared for a number of different careers paths. Many go on to graduate studies at prestigious universities. Others head directly into the workforce as engineers in Silicon Valley (e.g. Agilent and Applied Materials), the biotechnology sector (e.g. Genentech), and engineers in the Aerospace field (e.g. Boeing). </p>
+<p><span>The objectives of the undergraduate program in Materials Science and Engineering (MSE) are to educate graduates who have the following skills:</span></p>
+<ul>
+	<li>Knowledge of the fundamental science and engineering principles relevant to materials design, development and engineering application</li>
+	<li>Understanding of the relationship between nano/microstructure, characterization, properties and processing and design of materials</li>
+	<li>Have the experimental and computational skills for a professional career or graduate study in materials</li>
+	<li>Possess a knowledge of the significance of research, the value of continued learning, and environmental/social issues surrounding materials</li>
+	<li>Ability to communicate effectively, to work in teams, and to assume positions as leaders</li>
+</ul>
+<p>This major program leads to a Bachelor of Science (BS) degree.</p>
+<h3>Admission to the Major</h3>
+<p>Prospective undergraduates to the College of Engineering will apply for admission to a specific program in the College. For further information, please see the <a href="https://engineering.berkeley.edu/admissions/undergraduate-admissions/">College of Engineering's website</a>.</p>
+<p>Admission to Engineering via a Change of College application for current UC Berkeley students is highly unlikely and very competitive as there few, if any, spaces that open in the College each year to students admitted to other colleges at UC Berkeley. For further information regarding a Change of College to Engineering, please see the <a href="https://engineering.berkeley.edu/admissions/undergraduate-admissions/change-of-college/">College's website</a>.</p>
+<h3>Five-Year BS/MS Program</h3>
+<p>The five-year combined Bachelor of Science/Master of Science program augments the existing four-year undergraduate program with a fifth year of graduate study that provides a professionally oriented component, preparing students for careers in engineering or engineering management within the business, government, and/or industrial sectors. In this program, students earn a bachelor's degree and subsequently, a Master of Science degree under Plan II (without thesis) of the Academic Senate. This five-year program emphasizes interdisciplinary study through an independent project coupled to coursework. The program is open to undergraduate materials science and engineering majors (both single or joint majors) only. For further information regarding this program, please see the <a href="https://mse.berkeley.edu/five-year-bs-ms/">department's website</a>.</p>
+<h3>Minor Program</h3>
+<p>The department offers a minor in Materials Science and Engineering that is open to all students who are not majoring in MSE and who have completed the necessary prerequisites. To be eligible for the program, students are required to have a minimum overall grade point average (GPA) of 2.5 and a minimum GPA of 2.5 in the prerequisite courses. For information regarding the prerequisites, please see the Minor Requirements tab on this page.</p>
+<p>To apply for the minor, submit the <a href="https://mse.berkeley.edu/wp-content/uploads/2020/02/mse-minor-2.4.20.pdf">Petition for Admission to the Undergraduate Minor</a> to the undergraduate adviser after completion of the prerequisite courses. Upon completion of the minor requirements, submit a <a href="https://mse.berkeley.edu/wp-content/uploads/2020/02/confirmation-of-completion-mse-minor-2.4.20.pdf">Petition for Completion of the Undergraduate Minor</a> to the undergraduate adviser.</p>
+<h3>Joint Majors</h3>
+<p>The Department of Materials Science and Engineering also offers four joint majors, with other departments in the College of Engineering, and one joint major with a department in the College of Chemistry. For further information on these programs, please see the links below:<br/>
+<a href="http://guide.berkeley.edu/2022-23/undergraduate/degree-programs/chemical-engineering-materials-science-joint-major/">Chemical Engineering/Materials Science and Engineering</a> (Department of Chemical and Biomolecular Engineering, College of Chemistry)<br/>
+<a href="http://guide.berkeley.edu/2022-23/undergraduate/degree-programs/bioengineering-materials-science-engineering-joint-major/">Bioengineering/Materials Science and Engineering</a> (Department of Bioengineering)<br/>
+<a href="http://guide.berkeley.edu/2022-23/undergraduate/degree-programs/electrical-engineering-computer-sciences-materials/">Electrical Engineering and Computer Sciences/Materials Science and Engineering</a> (Department of Electrical Engineering and Computer Sciences)<br/>
+<a href="http://guide.berkeley.edu/2022-23/undergraduate/degree-programs/materials-science-engineering-mechanical-joint-major/">Materials Science and Engineering/Mechanical Engineering</a> (Department of Mechanical Engineering)<br/>
+<a href="http://guide.berkeley.edu/2022-23/undergraduate/degree-programs/materials-science-engineering-nuclear-joint-major/">Materials Science and Engineering/Nuclear Engineering</a> (Department of Nuclear Engineering)</p>
+]]>
+</abouttheprogramtext>
+<majorrequirementstext name="Major Requirements">
+<![CDATA[
+<p>In addition to the University, campus, and college requirements, students must fulfill the below requirements specific to their major program.</p>
+<h3>General Guidelines</h3>
+<ol>
+	<li>
+	<p>All technical courses taken in satisfaction of major requirements must be taken for a letter grade.</p>
+	</li>
+	<li>
+	<p>No more than one upper division course may be used to simultaneously fulfill requirements for a student’s major and minor programs.</p>
+	</li>
+	<li>
+	<p>A minimum overall grade point average (GPA) of 2.0 is required for all work undertaken at UC Berkeley.</p>
+	</li>
+	<li>
+	<p>A minimum GPA of 2.0 is required for all technical courses taken in satisfaction of major requirements.</p>
+	</li>
+</ol>
+<p>For information regarding residence requirements and unit requirements, please see the College Requirements tab.</p>
+<p>For a detailed plan of study by year and semester, please see the Plan of Study tab.</p>
+<h3><span>Lower Division Requirements</span></h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span></td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span></td><td>Multivariable Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 89">PHYSICS 89</span></td><td>Introduction to Mathematical Physics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="CHEM 1A">CHEM 1A</span><br/><span style="margin-left:20px;" class="blockindent">&amp; <span class="code_bubble" data-code-bubble="CHEM 1AL">1AL</span></span></td><td>General Chemistry<br/><span style="margin-left:20px;" class="blockindent">and General Chemistry Laboratory</span> <sup>1</sup></td><td class="hourscol">5</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="CHEM 4A">CHEM 4A</span></td><td colspan="2"> General Chemistry and Quantitative Analysis</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="CHEM 1B">CHEM 1B</span></td><td>General Chemistry <sup>1</sup></td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <span class="code_bubble" data-code-bubble="CHEM 4B">CHEM 4B</span></td><td colspan="2"> General Chemistry and Quantitative Analysis</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7C">PHYSICS 7C</span></td><td>Physics for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span></td><td>Introduction to Computer Programming for Scientists and Engineers</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 40">ENGIN 40</span></td><td>Engineering Thermodynamics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span><br/><span style="margin-left:20px;" class="blockindent">&amp; <span class="code_bubble" data-code-bubble="MAT SCI 45L">45L</span></span></td><td>Properties of Materials<br/><span style="margin-left:20px;" class="blockindent">and Properties of Materials Laboratory</span></td><td class="hourscol">4</td></tr>
+<tr class="even lastrow"><td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85/CIV ENG C30</span></td><td>Introduction to Solid Mechanics</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent"> <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="CHEM 4A">CHEM 4A</span></span> and <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="CHEM 4B">CHEM 4B</span></span> are designed for students majoring in chemistry or a closely-related field.</p></dd></dl>
+<h3>Upper Division Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td colspan="2"><span class="courselistcomment">Math/Stat/Data Elective</span> <sup>1</sup></td><td class="hourscol">3-4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 102">MAT SCI 102</span></td><td>Bonding, Crystallography, and Crystal Defects</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 103">MAT SCI 103</span></td><td>Phase Transformations and Kinetics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 104">MAT SCI 104</span><br/><span style="margin-left:20px;" class="blockindent">&amp; <span class="code_bubble" data-code-bubble="MAT SCI 104L">104L</span></span></td><td>Materials Characterization<br/><span style="margin-left:20px;" class="blockindent">and Materials Characterization Laboratory</span></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 111">MAT SCI 111</span></td><td>Properties of Electronic Materials</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 112">MAT SCI 112</span></td><td>Corrosion (Chemical Properties)</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 113">MAT SCI 113</span></td><td>Mechanical Behavior of Engineering Materials</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 130">MAT SCI 130</span></td><td>Experimental Materials Science and Design</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 151">MAT SCI 151</span></td><td>Polymeric Materials</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment"><span class="code_bubble" data-code-bubble="MAT SCI 120">MAT SCI 120</span> series course</span></td><td class="hourscol">3-4</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Upper Division Engineering Elective</span> <sup>2</sup></td><td class="hourscol">3-4</td></tr>
+</tbody></table>
+
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent">Math/Stat/Data Elective - Choose one of the following:</p> <ul> 	<li>any upper division MATH course (except C103, 151, 152, 153, 160, and any course numbered 190 or higher)</li> 	<li>any upper division STAT course (except 157, or any course numbered 190 or higher)</li> 	<li><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span></span> - Probability and Risk Analysis for Engineers</li> 	<li><span class="sc_courseinline"><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="COMPSCI C100">COMPSCI C100</span></span></span>/<span class="sc_courseinline"><span class="code_bubble" data-code-bubble="DATA C100">DATA C100</span></span>/<span class="sc_courseinline"><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="STAT C100">STAT C100</span></span> - Principles &amp; Techniques of Data Science</span></li> 	<li>ENGIN 117 - Methods of Engineering Analysis</li> </ul></dd><dt> <sup> 2 </sup> </dt><dd start-indent="3%"><p class="noindent">An upper division engineering elective, of at least 3 units, is chosen in consultation with the student's faculty adviser. Students may use three units of credit for work on a research project in <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MAT SCI H194">MAT SCI H194</span></span> (Honors Undergraduate Research). Other letter-graded research courses may be approved by petition. Typically, this elective should be offered by a department within the College of Engineering or from the Department of Chemical &amp; Biomolecular Engineering.</p> <p class="noindent">Upper division engineering electives cannot include:</p> <ul> 	<li>Any course taken on a <em>Pass/No Pass</em> basis</li> 	<li>Any course that counts as H/SS</li> 	<li>Any of the following courses: BIOENG 100; DESINV courses (except <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="DES INV 190E">DES INV 190E</span></span>); ENGIN 125, 157AC, 180, 183 series, 185, 187, 195 series; INDENG 172, 185, 186, 190 series, 191, 192, 195; MECENG 190K, 191AC, 191K.</li> </ul></dd></dl>
+]]>
+</majorrequirementstext>
+<minorrequirementstext name="Minor Requirements">
+<![CDATA[
+<p>Minor programs are areas of concentration requiring fewer courses than an undergraduate major. These programs are optional but can provide depth and breadth to a UC Berkeley education. The College of Engineering does not offer additional time to complete a minor, but it is usually possible to finish within the allotted time with careful course planning. Students are encouraged to meet with their ESS adviser to discuss the feasibility of completing a minor program.</p>
+<p>All the engineering departments offer minors. Students may also consider pursuing a minor in another school or college.</p>
+<h3>General Guidelines</h3>
+<ol>
+	<li>
+	<p>All minors must be declared no later than one semester before a student's Expected Graduation Term (EGT). If the semester before EGT is fall or spring, the deadline is the last day of RRR week. If the semester before EGT is summer, the deadline is the final Friday of Summer Sessions. To declare a minor, contact the department advisor for information on requirements, and the declaration process.</p>
+	</li>
+	<li>
+	<p>All courses taken to fulfill the minor requirements must be taken for graded credit, unless course is only offered on a Pass/No Pass basis</p>
+	</li>
+	<li>
+	<p>A minimum overall grade point average (GPA) of 2.5 and a minimum GPA of 2.5 in the prerequisite courses is required for acceptance into the minor program.</p>
+	</li>
+	<li>
+	<p>A minimum grade point average (GPA) of 2.5 is required for courses used to fulfill the minor requirements.</p>
+	</li>
+	<li>
+	<p>No more than one upper division course may be used to simultaneously fulfill requirements for a student’s major and minor programs.</p>
+	</li>
+	<li>Completion of the minor program cannot delay a student’s graduation.</li>
+</ol>
+<p>          *For Bioengineering majors, ENGIN 40 can be substituted with CHEM 120B or CHEM C130/MCB C100A.<br/>
+          *For Chemical Engineering majors, ENGIN 40 can be substituted with CHM ENG 141.<br/>
+          *Chemical Engineering majors must also take two courses from MAT SCI 104, MAT SCI 111-113, and MAT SCI 117-125.<br/>
+          *For Mechanical Engineering majors, ENGIN 40 can be substituted with MEC ENG 40.</p>
+<h3>Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Prerequisites</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span></td><td>Properties of Materials</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 45L">MAT SCI 45L</span></td><td>Properties of Materials Laboratory</td><td class="hourscol">1</td></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 40">ENGIN 40</span></td><td>Engineering Thermodynamics</td><td class="hourscol">4</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Upper Division Requirements</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 102">MAT SCI 102</span></td><td>Bonding, Crystallography, and Crystal Defects</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 103">MAT SCI 103</span></td><td>Phase Transformations and Kinetics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following:</span></td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 104">MAT SCI 104</span><br/><span style="margin-left:20px;" class="blockindent">&amp; <span class="code_bubble" data-code-bubble="MAT SCI 104L">104L</span></span></div></td><td>Materials Characterization<br/><span style="margin-left:20px;" class="blockindent">and Materials Characterization Laboratory</span></td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 111">MAT SCI 111</span></div></td><td>Properties of Electronic Materials [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 112">MAT SCI 112</span></div></td><td>Corrosion (Chemical Properties) [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 113">MAT SCI 113</span></div></td><td>Mechanical Behavior of Engineering Materials [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 117">MAT SCI 117</span></div></td><td>Properties of Dielectric and Magnetic Materials [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI C118">MAT SCI C118</span></div></td><td>Biological Performance of Materials [4]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 120">MAT SCI 120</span></div></td><td>Materials Production [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 121">MAT SCI 121</span></div></td><td>Metals Processing [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 122">MAT SCI 122</span></div></td><td>Ceramic Processing [3]</td><td class="hourscol"/></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 125">MAT SCI 125</span></div></td><td>Thin-Film Materials Science [3]</td><td class="hourscol"/></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 123">MAT SCI 123</span></div></td><td>ELECTRONIC MATERIALS PROCESSING [4]</td><td class="hourscol"/></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="code_bubble" data-code-bubble="MAT SCI 151">MAT SCI 151</span></div></td><td>Polymeric Materials [3]</td><td class="hourscol"/></tr>
+</tbody></table>
+
+]]>
+</minorrequirementstext>
+<collegerequirementstext name="College Requirements">
+<![CDATA[
+ <h3><strong>Students in the College of Engineering must complete no fewer than 120 semester units with the following provisions: </strong></h3> <ol> 	<li>Completion of the requirements of <a href="https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/major-programs/" target="_blank">one engineering major program</a> of study. </li> 	<li>A minimum overall grade point average of 2.00 (C average) and a minimum 2.00 grade point average in upper division technical coursework required of the major.</li> 	<li>The final 30 units and two semesters must be completed in residence in the College of Engineering on the Berkeley campus.</li> 	<li>All technical courses (math, science, and engineering) that can fulfill requirements for the student's major must be taken on a letter graded basis (unless they are only offered P/NP). </li> 	<li>Entering freshmen are allowed a maximum of eight semesters to complete their degree requirements. Entering junior transfers are allowed five semesters to complete their degree requirements. Summer terms are optional and do not count toward the maximum. Students are responsible for planning and satisfactorily completing all graduation requirements within the maximum allowable semesters. </li> 	<li>Adhere to all <a href="https://engineering.berkeley.edu/students/undergraduate-guide/policies-procedures/" target="_blank">college policies and procedures </a>as they complete degree requirements.</li> 	<li>Complete the lower division program before enrolling in upper division engineering courses. </li> </ol> <h3><strong>Humanities and Social Sciences (H/SS) Requirement</strong></h3> <p style="margin-left:22.5pt">To promote a rich and varied educational experience outside of the technical requirements for each major, the College of Engineering has a six-course <a href="http://engineering.berkeley.edu/student-services/degree-requirements/humanities-and-social-sciences" target="_blank">Humanities and Social Sciences breadth requirement</a>, which must be completed to graduate. This requirement, built into all the engineering programs of study, includes two Reading and Composition courses (R&amp;C), and four additional courses within which a number of specific conditions must be satisfied. See the <a href="https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/humanities-and-social-sciences/" target="_blank">humanities and social sciences</a> section of our website for details.</p> <h3><strong>Class Schedule Requirements</strong></h3> <ul> 	<li>Minimum units per semester: 12.0</li> 	<li>Maximum units per semester:  20.5</li> 	<li>Minimum technical courses: College of Engineering undergraduates must include at least two letter graded technical courses (of at least 3 units each) in their semester program. Every semester students are expected to make satisfactory progress in their declared major. Satisfactory progress is determined by the student's Engineering Student Services Advisor. (Note: For most majors, <a href="https://engineering.berkeley.edu/academics/undergraduate-guide/policies-procedures/scholarship-progress#ac12282" target="_blank">normal progress</a> will require enrolling in 3-4 technical courses each semester). Students who are not in compliance with this policy by the end of the fifth week of the semester are subject to a registration block that will delay enrollment for the following semester. </li> 	<li>All technical courses (math, science, engineering) that satisfy requirements for the major must be taken on a letter-graded basis (unless only offered as P/NP).</li> </ul> <h3><strong>Minimum Academic (Grade) Requirements</strong></h3> <ul> 	<li>Minimum overall and semester grade point averages of 2.00 (C average) are required of engineering undergraduates. Students will be subject to dismissal from the University if during any fall or spring semester their overall UC GPA falls below a 2.00, or their semester GPA is less than 2.00. </li> 	<li>Students must achieve a minimum grade point average of 2.00 (C average) in upper division technical courses required for the major curriculum each semester.</li> 	<li>A minimum overall grade point average of 2.00 and a minimum 2.00 grade point average in upper division technical course work required for the major are required to earn a Bachelor of Science in the College of Engineering.</li> </ul> <h3><strong>Unit Requirements</strong></h3> <p>To earn a Bachelor of Science in Engineering, students must complete at least 120 semester units of courses subject to certain guidelines:</p> <ul> 	<li>Completion of the requirements of one engineering<a href="https://engineering.berkeley.edu/students/undergraduate-guide/degree-requirements/major-programs/" target="_blank"> major program</a> of study. </li> 	<li>A maximum of 16 units of special studies coursework (courses numbered 97, 98, 99, 197, 198, or 199) is allowed to count towards the B.S. degree, and no more than 4 units in any single term can be counted.</li> 	<li>A maximum of 4 units of physical education from any school attended will count towards the 120 units.</li> 	<li> 	<p>Passed (P) grades may account for no more than one third of the total units completed at UC Berkeley, Fall Program for Freshmen (FPF), UC Education Abroad Program (UCEAP), or UC Berkeley Washington Program (UCDC) toward the 120 overall minimum unit requirement. <span>Transfer credit is not factored into the limit. This includes transfer units from outside of the UC system, other UC campuses, credit-bearing exams, as well as UC Berkeley Extension XB units.</span></p> 	</li> </ul> <h3><strong>Normal Progress</strong></h3> <p>Students in the College of Engineering must enroll in a full-time program and make <a href="https://engineering.berkeley.edu/students/undergraduate-guide/policies-procedures/scholarship-progress/#ac12282" target="_blank">normal progress</a> each semester toward the bachelor's degree. The continued enrollment of students who fail to achieve minimum academic progress shall be subject to the approval of the dean. (Note: Students with official accommodations established by the Disabled Students' Program, with health or family issues, or with other reasons deemed appropriate by the dean may petition for an exception to normal progress rules.) </p>
+]]>
+</collegerequirementstext>
+<ucandcampusrequirementstext name="UC and Campus Requirements">
+<![CDATA[
+ <h3>University of California Requirements</h3> <p><a href="http://guide.berkeley.edu/2022-23/undergraduate/education/#earningyourdegreetext" target="_blank">Entry Level Writing</a></p> <p>All students who will enter the University of California as freshmen must demonstrate their command of the English language by satisfying the Entry Level Writing Requirement (ELWR). <span style="font-size:1em">The </span><a href="https://admission.universityofcalifornia.edu/elwr/requirements/test-scores-grades.html" style="font-size: 1em;">UC Entry Level Writing Requirement website</a><span style="font-size:1em"> provides information on how to satisfy the requirement</span></p> <p><a href="http://guide.berkeley.edu/2022-23/undergraduate/education/#earningyourdegreetext" target="_blank">American History and American Institutions</a></p> <p>The American History and Institutions (AH&amp;I) requirements are based on the principle that a US resident graduated from an American university should have an understanding of the history and governmental institutions of the United States.</p> <h3>Campus Requirement</h3> <p><a href="http://guide.berkeley.edu/2022-23/undergraduate/education/#earningyourdegreetext" target="_blank">American Cultures</a></p> <p><span id="docs-internal-guid-c47924ad-7fff-1b30-99f8-3c345cb2b997">The American Cultures requirement is a Berkeley campus requirement, one that all undergraduate students at Berkeley need to pass in order to graduate. You satisfy the requirement by passing, with a grade not lower than C- or P, an American Cultures course. You may take an American Cultures course any time during your undergraduate career at Berkeley. The requirement was instituted in 1991 to introduce students to the diverse cultures of the United States through a comparative framework. Courses are offered in more than fifty departments in many different disciplines at both the lower and upper division level.</span></p> <div> </div>
+]]>
+</ucandcampusrequirementstext>
+<sampleplanofstudytext name="Plan of Study">
+<![CDATA[
+<p>For more detailed information regarding the courses listed below (e.g., elective information, GPA requirements, etc.), please see the College Requirements and Major Requirements tabs.</p>
+<table class="sc_plangrid"><tr class="plangridyear firstrow"><th align="right" colspan="4">Freshman</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="CHEM 4A">CHEM 4A</span> or <span class="code_bubble" data-code-bubble="CHEM 1A"> 1A</span> <i><b>and</b></i> <span class="code_bubble" data-code-bubble="CHEM 1AL"> 1AL</span><sup>1</sup></td><td class="hourscol">5</td><td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1B">MATH 1B</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MATH 1A">MATH 1A</span></td><td class="hourscol">4</td><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span></td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span><sup>2</sup></td><td class="hourscol">3</td><td class="codecol"><span class="code_bubble" data-code-bubble="CHEM 1B">CHEM 1B</span> or <span class="code_bubble" data-code-bubble="CHEM 4B"> 4B</span><sup>1</sup></td><td class="hourscol">4-5</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 45L">MAT SCI 45L</span><sup>2</sup></td><td class="hourscol">1</td><td class="codecol">Humanities/Social Sciences course<sup>3</sup></td><td class="hourscol">3-4</td></tr><tr class="even">
+<td class="codecol">Reading &amp; Composition Part A Course<sup>3</sup></td><td class="hourscol">4</td><td colspan="2"> </td></tr><tr class="plangridsum"><td> </td><td class="hourscol">17</td><td> </td><td class="hourscol">15-17</td></tr><tr class="plangridyear"><th align="right" colspan="4">Sophomore</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MATH 53">MATH 53</span></td><td class="hourscol">4</td><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 89">PHYSICS 89</span><sup>4</sup></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span></td><td class="hourscol">4</td><td class="codecol"><span class="code_bubble" data-code-bubble="PHYSICS 7C">PHYSICS 7C</span></td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 7">ENGIN 7</span></td><td class="hourscol">4</td><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 151">MAT SCI 151</span></td><td class="hourscol">3</td></tr><tr class="odd">
+<td class="codecol">Reading &amp; Composition Part B Course<sup>3</sup></td><td class="hourscol">4</td><td class="codecol">Humanities/Social Sciences course<sup>3</sup></td><td class="hourscol">3-4</td></tr><tr class="plangridsum"><td> </td><td class="hourscol">16</td><td> </td><td class="hourscol">14-15</td></tr><tr class="plangridyear"><th align="right" colspan="4">Junior</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="ENGIN 40">ENGIN 40</span></td><td class="hourscol">4</td><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 103">MAT SCI 103</span></td><td class="hourscol">3</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span></td><td class="hourscol">3</td><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 104">MAT SCI 104</span><br/><span style="margin-left:20px;" class="blockindent">&amp; <span class="code_bubble" data-code-bubble="MAT SCI 104L">104L</span></span></td><td class="hourscol">4</td></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 102">MAT SCI 102</span></td><td class="hourscol">3</td><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 111">MAT SCI 111</span></td><td class="hourscol">4</td></tr><tr class="odd">
+<td class="codecol">Math/Stat/Data Elective<sup>5</sup></td><td class="hourscol">3-4</td><td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 112">MAT SCI 112</span></td><td class="hourscol">3</td></tr><tr class="even">
+<td class="codecol">Free Elective<sup>6</sup></td><td class="hourscol">4</td><td colspan="2"> </td></tr><tr class="plangridsum"><td> </td><td class="hourscol">17-18</td><td> </td><td class="hourscol">14</td></tr><tr class="plangridyear"><th align="right" colspan="4">Senior</th></tr><tr class="plangridterm"><th align="right" style="width: 40%;">Fall</th><th style="width: 10%;" class="hourscol">Units</th><th align="right" style="width: 40%;">Spring</th><th style="width: 10%;" class="hourscol">Units</th></tr><tr class="even">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 113">MAT SCI 113</span></td><td class="hourscol">3</td><td class="codecol">Upper Division Engineering Elective<sup>7</sup></td><td class="hourscol">3-4</td></tr><tr class="odd">
+<td class="codecol"><span class="code_bubble" data-code-bubble="MAT SCI 130">MAT SCI 130</span></td><td class="hourscol">3</td><td class="codecol">Humanities/Social Science Course<sup>4</sup></td><td class="hourscol">3-4</td></tr><tr class="even">
+<td class="codecol">MAT SCI 120 Series Course</td><td class="hourscol">3-4</td><td class="codecol">Free Electives<sup>6</sup></td><td class="hourscol">6-8</td></tr><tr class="odd">
+<td class="codecol">Humanities/Social Science Course<sup>4</sup></td><td class="hourscol">3-4</td><td colspan="2"> </td></tr><tr class="even">
+<td class="codecol">Free Elective<sup>6</sup></td><td class="hourscol">3</td><td colspan="2"> </td></tr><tr class="plangridsum"><td> </td><td class="hourscol">15-17</td><td> </td><td class="hourscol">12-16</td></tr><tr class="plangridtotal lastrow"><td colspan="4">Total Units: 120-130</td></tr></table>
+<dl class="sc_footnotes" aria-label="Footnotes"><dt> <sup> 1 </sup> </dt><dd start-indent="3%"><p class="noindent"> <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="CHEM 4A">CHEM 4A</span></span> and <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="CHEM 4B">CHEM 4B</span></span> are intended for students majoring in chemistry or a closely-related field.</p></dd><dt> <sup> 2 </sup> </dt><dd start-indent="3%"><p class="noindent"><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span></span>/<span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MAT SCI 45L">MAT SCI 45L</span></span> can be taken in either the fall or spring semesters of the first year. Both offerings deliver the same fundamental content. The fall offering draws more examples from hard materials (e.g. semiconductors, metals and ceramics), whereas the spring offering will draw more examples from soft materials (e.g. polymers and biomaterials).</p></dd><dt> <sup> 3 </sup> </dt><dd start-indent="3%"><p class="noindent">The Humanities/Social Sciences (H/SS) requirement includes two approved Reading &amp; Composition (R&amp;C) courses and four additional approved courses, with which a number of specific conditions must be satisfied. R&amp;C courses must be taken for a letter grade (C- or better required). The first half (R&amp;C Part A) must be completed by the end of the freshman year; the second half (R&amp;C Part B) must be completed by no later than the end of the sophomore year. The remaining courses may be taken at any time during the program. See <a href="https://engineering.berkeley.edu/academics/undergraduate-guide/degree-requirements/humanities-and-social-sciences">engineering.berkeley.edu/hss</a> for complete details and a list of approved courses.</p></dd><dt> <sup> 4 </sup> </dt><dd start-indent="3%"><p class="noindent">Please note that <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="PHYSICS 89">PHYSICS 89</span></span> is meant to replace <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></span>. As such, students should be well prepared for any class listing <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MATH 54">MATH 54</span></span> as a prerequisite and often the departments offering those courses do not officially enforce their prerequisites in the system so there should not be an issue with enrollment.</p></dd><dt> <sup> 5 </sup> </dt><dd start-indent="3%"><p class="noindent">Math/Stat/Data Elective - Choose one of the following:</p> <ul> 	<li>any upper division MATH course (except C103, 151, 152, 153, 160, and any course numbered 190 or higher)</li> 	<li>any upper division STAT course (except 157, or any course numbered 190 or higher)</li> 	<li><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="ENGIN 117">ENGIN 117</span></span> - Methods of Engineering Analysis</li> 	<li><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="IND ENG 172">IND ENG 172</span></span> - Probability and Risk Analysis for Engineers</li> 	<li><span class="sc_courseinline"><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="COMPSCI C100">COMPSCI C100</span></span></span>/<span class="sc_courseinline"><span class="code_bubble" data-code-bubble="DATA C100">DATA C100</span></span>/<span class="sc_courseinline"><span class="sc_courseinline"><span class="code_bubble" data-code-bubble="STAT C100">STAT C100</span></span> - Principles &amp; Techniques of Data Science</span></li> </ul></dd><dt> <sup> 6 </sup> </dt><dd start-indent="3%"><p class="noindent">Free electives can be any technical or non-technical course, any course of your interest offered by any department. There are no restrictions.</p></dd><dt> <sup> 7 </sup> </dt><dd start-indent="3%"><p class="noindent">Students must complete an upper division engineering elective, of at least 3 units, chosen in consultation with the student’s faculty adviser. The engineering elective cannot be: any course taken on a P/NP basis; <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="BIO ENG 100">BIO ENG 100</span></span>; DESINV courses (except <a href="http://guide.berkeley.edu/2022-23/search/?P=DES%20INV%20190E">DES INV 190E</a>); ENGIN 125, 157AC, 180, 183 series, 185, 187, 195 series; INDENG 172, 185, 186, 190 series, 191, 192, 195; MECENG 190K, 191AC, 191K. Students may use three units of credit for work on a research project in MATSCI H194 (Honors Undergraduate Research) for the engineering elective. Other letter graded research courses may be approved by petition. Typically, this elective should be offered by a department within the College of Engineering or from the Department of Chemical &amp; Biomolecular Engineering.</p></dd></dl>
+]]>
+</sampleplanofstudytext>
+<studentlearninggoalstext name="Student Learning Goals">
+<![CDATA[
+<h3>Learning Goals of the Major</h3>
+<h4>Measured Curricular Outcomes</h4>
+<p>The program is designed around a set of curricular outcomes. Specifically, upon completion of our ABET accredited program in Materials Science and Engineering, the graduate will possess the following skills:</p>
+<ol>
+	<li>
+	<p>1. An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.</p>
+	<p>2. An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.</p>
+	<p>3. An ability to communicate effectively with a range of audiences.</p>
+	<p>4. An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.</p>
+	<p>5. An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.</p>
+	<p>6. An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.</p>
+	<p>7. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.</p>
+	</li>
+</ol>
+<h3>Educational Objectives for Graduates</h3>
+<p>Stated succinctly, graduates from the program will have the following skills: </p>
+<ol>
+	<li>Use the fundamental science and engineering principles relevant to materials that include the relationships between nano/microstructure, characterization, properties, processing, performance and design of materials.</li>
+	<li>Use their knowledge of the significance of research, the value of continued learning and environmental/social issues surrounding materials.</li>
+	<li>Use the technical and communication skills developed in the program as a foundation for careers in engineering, research and development, the pursuit of advanced education and other professional careers.</li>
+	<li>Use lifelong learning skills to develop knowledge and skills, to pursue new areas of expertise and careers, and to take advantage of professional development opportunities.</li>
+	<li>Become leaders in their fields who will contribute to bettering society.</li>
+</ol>
+]]>
+</studentlearninggoalstext>
+<majormaptext name="Major Map">
+<![CDATA[
+<p><span>Major Maps help undergraduate students discover academic, co-curricular, and discovery opportunities at UC Berkeley based on intended major or field of interest. Developed by the Division of Undergraduate Education in collaboration with academic departments, these experience maps will help you:</span></p>
+<ul>
+	<li>
+	<p><strong><span id="docs-internal-guid-5ef7b472-7fff-6cd0-248d-aaa2f43a2929">Explore</span></strong> your major and gain a better understanding of your field of study</p>
+	</li>
+	<li>
+	<p><strong><span id="docs-internal-guid-5ef7b472-7fff-6cd0-248d-aaa2f43a2929">Connect</span></strong> with people and programs that inspire and sustain your creativity, drive, curiosity and success</p>
+	</li>
+	<li>
+	<p><strong><span id="docs-internal-guid-5ef7b472-7fff-6cd0-248d-aaa2f43a2929">Discover</span></strong> opportunities for independent inquiry, enterprise, and creative expression</p>
+	</li>
+	<li>
+	<p><strong><span id="docs-internal-guid-5ef7b472-7fff-6cd0-248d-aaa2f43a2929">Engage</span></strong> locally and globally to broaden your perspectives and change the world</p>
+	</li>
+	<li><strong><span id="docs-internal-guid-5ef7b472-7fff-6cd0-248d-aaa2f43a2929">Reflect</span></strong> on your academic career and prepare for life after Berkeley</li>
+</ul>
+<p><span id="docs-internal-guid-d71893c3-7fff-0026-643a-dcc4d58f355a">Use the major map below as a guide to planning your undergraduate journey and designing your own unique Berkeley experience.</span></p>
+<p><strong><span id="docs-internal-guid-d71893c3-7fff-0026-643a-dcc4d58f355a"><a href="https://ue.berkeley.edu/sites/default/files/materials_science_and_engineering.pdf">View the Materials Science and Engineering Major Map PDF.</a></span></strong></p>
+]]>
+</majormaptext>
+<academicopportunitiestext name="Academic Opportunities">
+<![CDATA[
+<h3>Undergraduate Research</h3>
+<p>There is nothing more tangible in engineering products than the materials of which they are made, and this fact dominates the research agenda in materials science &amp; engineering around the world. At Berkeley, research programs in new materials synthesis, processing, characterization, integration, and theoretical modeling dominate the laboratory space and multiple servers dedicated to basic and applied research programs in the department, including many that are conducted at the Lawrence Berkeley National Laboratory. Undergraduate students are strongly encouraged to meet with the many faculty members in the department who sponsor student research projects and learn about the many exciting options available to them. Sometimes a new student’s research experience begins by shadowing a senior graduate student to learn the ropes, but sometimes the project is fully unique, and exclusively theirs! Undergraduate students can earn units for their research efforts by enrolling in <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MAT SCI 199">MAT SCI 199</span></span>, which is offered on a <em>Pass/No Pass</em> basis. Another option is an honors thesis project, <span class="sc_courseinline"><span class="code_bubble" data-code-bubble="MAT SCI H194">MAT SCI H194</span></span>, offered to qualified students as a graded course, which can therefore be counted as an upper division technical elective. There are also a number of paid research positions, especially over the summer. Students should not be shy about asking and should consider adding materials research to their undergraduate experience at Berkeley.</p>
+<h3>Student Groups and Organizations</h3>
+<p>The Materials Science &amp; Engineering Association (MSEA) serves a large number of students on the Berkeley campus, including many non-majors, who know that a future in the materials disciplines is an enticing career option. Officers in MSEA sponsor both scholarly and social events to broaden undergraduates’ experiences here, and through a professional connection called Materials Advantage, students can join four national materials societies to launch their professional careers early.</p>
+<p>Undergraduate students in the department are also highly respected members of several engineering student projects because of the materials issues involved. These include the Solar Car (CalSol) project, the Formula SAE race car team, the Human Powered Vehicle team, the Supermileage Vehicle team, and others offering deep immersion in actual engineering design and construction of a functional product. For students interested in shaping a carbon-fiber skin component or welding a 6061 aluminum alloy roll bar component, there are many opportunities to learn these and other valuable skills as a student in MSE.</p>
+]]>
+</academicopportunitiestext>
+<coursestext name="Courses">
+<![CDATA[
+<h3>Materials Science and Engineering</h3>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci24" data-toggle="#cb_matsci24">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 24</span> 
+<span class="title">Freshman Seminar</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci24">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2022, Spring 2020<br/>
+The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments, and topics vary from department to department and semester to semester. Enrollment limited to 20 freshmen.</span><br/>
+ <a href="" class="btn-readmore"><span>Freshman Seminar:</span> Read More [+]</a></p>
+<div id="546" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture/discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final Exam To be decided by the instructor when the class is offered. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci45" data-toggle="#cb_matsci45">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 45</span> 
+<span class="title">Properties of Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci45">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+Application of basic principles of physics and chemistry to the engineering properties of materials. Emphasis on establishing structure, property, processing, and performance interrelationships in metals, ceramics, and polymers. While core concepts are fully covered each semester, examples and contextualization in Fall editions focuses on metals, ceramics, and functional/electronic properties and in Spring editions on polymers and soft-mater</span><span class="deschide">ials.</span><br/>
+ <a href="" class="btn-readmore"><span>Properties of Materials:</span> Read More [+]</a></p>
+<div id="573" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Students should have completed high school AP or honors chemistry and physics</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Martin, Messersmith</p></div>
+<p><a href="" class="btn-readless"><span>Properties of Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci45l" data-toggle="#cb_matsci45l">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 45L</span> 
+<span class="title">Properties of Materials Laboratory</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci45l">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+This course presents laboratory applications of the basic principles introduced in the lecture-based course MSE45 – Properties of Materials.</span><br/>
+ <a href="" class="btn-readmore"><span>Properties of Materials Laboratory:</span> Read More [+]</a></p>
+<div id="433" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for MSE 45L after taking E45L</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructors:</strong> Martin, Messersmith</p></div>
+<p><a href="" class="btn-readless"><span>Properties of Materials Laboratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci102" data-toggle="#cb_matsci102">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 102</span> 
+<span class="title">Bonding, Crystallography, and Crystal Defects</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci102">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+Bonding in solids; classification of metals, semiconductors, and insulators; crystal systems; point, line, and planar defects in crystals; examples of crystallographic and defect analysis in engineering materials; relationship to physical and mechanical properties.</span><br/>
+ <a href="" class="btn-readmore"><span>Bonding, Crystallography, and Crystal Defects:</span> Read More [+]</a></p>
+<div id="380" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Chrzan</p></div>
+<p><a href="" class="btn-readless"><span>Bonding, Crystallography, and Crystal Defects:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci103" data-toggle="#cb_matsci103">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 103</span> 
+<span class="title">Phase Transformations and Kinetics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci103">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+The nature, mechanisms, and kinetics of phase transformations and microstructural changes in the solid state. Atom diffusion in solids. Phase transformations through the nucleation and growth of new matrix or precipitate phases. Martensitic transformations, spinodal decomposition. The use of phase transformations to control microstructure.</span><br/>
+ <a href="" class="btn-readmore"><span>Phase Transformations and Kinetics:</span> Read More [+]</a></p>
+<div id="724" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MAT SCI 102">MAT SCI 102</span> and <span class="code_bubble" data-code-bubble="ENGIN 40">ENGIN 40</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Phase Transformations and Kinetics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci104" data-toggle="#cb_matsci104">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 104</span> 
+<span class="title">Materials Characterization</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci104">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+This 3-unit course will cover basic principles and techniques used for the characterization of engineering materials. The course is designed to introduce undergraduate students to the basic principles of structural, chemical and property characterization techniques. The course is grounded in modern x-ray diffraction and electron microscopy techniques for characterization of the chemical and structural properties of a material. The course</span><span class="deschide"> introduces the fundamental theoretical framework for diffraction, spectrometry and imaging methods.</span><br/>
+ <a href="" class="btn-readmore"><span>Materials Characterization:</span> Read More [+]</a></p>
+<div id="659" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Materials characterization lies at the heart of understanding the property-structure-processing relationships of materials. The goal of the course is to prepare undergraduate students from materials science to understand the basic principles behind material characterization tools and techniques. More specifically, this class will provide students (1) a thorough introduction to the principles and practice of diffraction, (2) introductory exposure to a range of common characterization methods for the determination of structure and composition of solids. A successful student will learn (1) the theory of x-ray and electron diffraction, (2) basic elements of electron microscopy, (3) basic aspects of optical and scanning probe techniques.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MAT SCI 102">MAT SCI 102</span>. A basic knowledge of structure, bonding and crystallography will be assumed</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Scott, Minor</p></div>
+<p><a href="" class="btn-readless"><span>Materials Characterization:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci104l" data-toggle="#cb_matsci104l">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 104L</span> 
+<span class="title">Materials Characterization Laboratory</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci104l">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+This 1-unit laboratory course covers X-ray diffraction (XRD), scanning electron microscopy (SEM), and transmission electron microscopy (TEM), as well as lab writeup protocols and academic integrity. Students will get hands-on experience using the XRD, SEM and TEM equipment to perform microstructural characterization of materials. Students will also design and run their own project on a topic of their choosing.</span><br/>
+ <a href="" class="btn-readmore"><span>Materials Characterization Laboratory:</span> Read More [+]</a></p>
+<div id="135" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> Practical experience on the most common materials characterization equipment for structural and chemical analysis of materials. Introduction to laboratory procedures and independent projects.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MAT SCI 102">MAT SCI 102</span>; and <span class="code_bubble" data-code-bubble="MAT SCI 104">MAT SCI 104</span> must be taken concurrently. A basic knowledge of structure, bonding and crystallography will be assumed. Undergraduate student in engineering, physics or chemistry</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1.5 hours of laboratory and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of discussion and one and one-half hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructors:</strong> Scott, Minor</p></div>
+<p><a href="" class="btn-readless"><span>Materials Characterization Laboratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci111" data-toggle="#cb_matsci111">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 111</span> 
+<span class="title">Properties of Electronic Materials</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci111">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+Introduction to the physical principles underlying the electric properties of modern solids with emphasis on semiconductors; control of defects and impurities through physical purification, bulk and thin film crystal growth and doping processes, materials basis of electronic and optoelectronic devices (diodes, transistors, semiconductor lasers) and optical fibers; properties of metal and oxide superconductors and their applications.</span><br/>
+ <a href="" class="btn-readmore"><span>Properties of Electronic Materials:</span> Read More [+]</a></p>
+<div id="252" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span>, <span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span>, and <span class="code_bubble" data-code-bubble="PHYSICS 7C">PHYSICS 7C</span>; or <span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span>, <span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span> and consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Dubon, Wu, Yao</p></div>
+<p><a href="" class="btn-readless"><span>Properties of Electronic Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci112" data-toggle="#cb_matsci112">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 112</span> 
+<span class="title">Corrosion (Chemical Properties)</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci112">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+Electrochemical theory of corrosion. Mechanisms and rates in relation to physiochemical and metallurgical factors. Stress corrosion and mechanical influences on corrosion. Corrosion protection by design, inhibition, cathodic protection, and coatings.</span><br/>
+ <a href="" class="btn-readmore"><span>Corrosion (Chemical Properties):</span> Read More [+]</a></p>
+<div id="759" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span> and <span class="code_bubble" data-code-bubble="ENGIN 40">ENGIN 40</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Devine</p></div>
+<p><a href="" class="btn-readless"><span>Corrosion (Chemical Properties):</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci113" data-toggle="#cb_matsci113">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 113</span> 
+<span class="title">Mechanical Behavior of Engineering Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci113">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+This course covers elastic and plastic deformation under static/dynamic loads. Prediction/prevention of failure by yielding, fracture, fatigue, wear and environmental effects are addressed. Design issues of materials selection for load-bearing applications are discussed. Case studies of engineering failures are presented. Topics include engineering materials, structure-property relationships, mechanical behavior of metals, ceramics, polymers and</span><span class="deschide"> composites, complex stress/strain states, stress concentrations, multiaxial loading, plasticity, yield criteria, dislocations, strengthening mechanisms, creep, fracture mechanics and fatigue.</span><br/>
+ <a href="" class="btn-readmore"><span>Mechanical Behavior of Engineering Materials:</span> Read More [+]</a></p>
+<div id="226" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="CIV ENG C30">CIV ENG C30</span>/<span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span> and <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for 113 after taking C113 or Mechanical Engineering C124. Deficiency in C113 or Mechanical Engineering C124 maybe removed by taking 113.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Ritchie</p></div>
+<p><a href="" class="btn-readless"><span>Mechanical Behavior of Engineering Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci117" data-toggle="#cb_matsci117">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 117</span> 
+<span class="title">Properties of Dielectric and Magnetic Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci117">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2021, Spring 2017, Spring 2011<br/>
+Introduction to the physical principles underlying the dielectric and magnetic properties of solids. Processing-microstructure-property relationships of dielectric materials, including piezoelectric, pryoelectric, and ferroelectric oxides, and of magnetic materials, including hard- and soft ferromagnets, ferrites and magneto-optic and -resistive materials. The course also covers the properties of grain boundary devices (including varistors)</span><span class="deschide"> as well as ion-conducting and mixed conducting materials for applications in various devices such as sensors, fuel cells, and electric batteries.</span><br/>
+ <a href="" class="btn-readmore"><span>Properties of Dielectric and Magnetic Materials:</span> Read More [+]</a></p>
+<div id="538" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span>, <span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span>, and <span class="code_bubble" data-code-bubble="PHYSICS 7C">PHYSICS 7C</span>; or <span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span>, <span class="code_bubble" data-code-bubble="PHYSICS 7B">PHYSICS 7B</span>, and consent of instructor. <span class="code_bubble" data-code-bubble="MAT SCI 111">MAT SCI 111</span> is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Properties of Dielectric and Magnetic Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matscic118" data-toggle="#cb_matscic118">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI C118</span> 
+<span class="title">Biological Performance of Materials</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matscic118">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+This course is intended to give students the opportunity to expand their knowledge of topics related to biomedical materials selection and design. Structure-property relationships of biomedical materials and their interaction with biological systems will be addressed. Applications of the concepts developed include blood-materials compatibility, biomimetic materials, hard and soft tissue-materials interactions, drug delivery, tissue engineering</span><span class="deschide">, and biotechnology.</span><br/>
+ <a href="" class="btn-readmore"><span>Biological Performance of Materials:</span> Read More [+]</a></p>
+<div id="478" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> The course is separated into four parts spanning the principles of synthetic materials and surfaces, principles of biological materials, biological performance of materials and devices, and state-of-the-art materials design. Students are required to attend class and master the material therein. In addition, readings from the clinical, life and materials science literature are assigned. Students are encouraged to seek out additional reference material to complement the readings assigned. A mid-term examination is given on basic principles (parts 1 and 2 of the outline). A comprehensive final examination is given as well. <br/>The purpose of this course is to introduce students to problems associated with the selection and function of biomaterials. Through class lectures and readings in both the physical and life science literature, students will gain broad knowledge of the criteria used to select biomaterials, especially in devices where the material-tissue or material-solution interface dominates performance. Materials used in devices for medicine, dentistry, tissue engineering, drug delivery, and the biotechnology industry will be addressed.<br/>
+<br/>This course also has a significant design component (~35%). Students will form small teams (five or less) and undertake a semester-long design project related to the subject matter of the course. The project includes the preparation of a paper and a 20 minute oral presentation critically analyzing a current material-tissue or material-solution problem. Students will be expected to design improvements to materials and devices to overcome the problems identified in class with existing materials.<br/></p><p><strong>Student Learning Outcomes:</strong> <br/>
+Apply math, science &amp; engineering principles to the understanding of soft materials, surface chemistry, DLVO theory, protein adsorption kinetics, viscoelasticity, mass diffusion, and molecular (i.e., drug) delivery kinetics.<br/>
+<br/>
+•<br/>
+Design experiments and analyze data from the literature in the context of the class design project.<br/>
+Apply core concepts in materials science to solve engineering problems related to the selection biomaterials, especially in devices where the material-tissue or material-solution interface dominates performance.<br/>
+Develop an understanding of the social, safety and medical consequences of biomaterial use and regulatory issues associated with the selection of biomaterials in the context of the silicone breast implant controversy and subsequent biomaterials crisis.<br/>
+Work independently and function on a team, and develop solid communication skills (oral, graphic &amp; written) through the class design project.<br/>
+•<br/>
+Understanding of the origin of surface forces and interfacial free energy, and how they contribute to the development of the biomaterial interface and ultimately biomaterial performance.<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span> and <span class="code_bubble" data-code-bubble="BIO ENG 103">BIO ENG 103</span> are required. <span class="code_bubble" data-code-bubble="BIO ENG 102">BIO ENG 102</span> and <span class="code_bubble" data-code-bubble="BIO ENG 104">BIO ENG 104</span> are strongly recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Healy</p><p><strong>Also listed as:</strong> BIO ENG C118</p></div>
+<p><a href="" class="btn-readless"><span>Biological Performance of Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci120" data-toggle="#cb_matsci120">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 120</span> 
+<span class="title">Materials Production</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci120">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2022, Fall 2021, Fall 2020<br/>
+Economic and technological significance of metals and other materials. Elementary geology (composition of lithosphere, mineralization). Short survey of mining and mineral processing techniques. Review of chemical thermodynamics and reaction kinetics. Principles of process engineering including material, heat, and mechanical energy balances. Elementary heat transfer, fluid flow, and mass transfer. Electrolytic production and refining of metals.</span><span class="deschide"> Vapor techniques for production of metals and coatings.</span><br/>
+ <a href="" class="btn-readmore"><span>Materials Production:</span> Read More [+]</a></p>
+<div id="687" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="ENGIN 40">ENGIN 40</span>, <span class="code_bubble" data-code-bubble="MEC ENG 40">MEC ENG 40</span>, <span class="code_bubble" data-code-bubble="CHM ENG 141">CHM ENG 141</span>, <span class="code_bubble" data-code-bubble="CHEM 120B">CHEM 120B</span>, or equivalent thermodynamics course</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Materials Production:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci121" data-toggle="#cb_matsci121">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 121</span> 
+<span class="title">Metals Processing</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci121">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2019, Spring 2015, Spring 2014<br/>
+The principles of metals processing with emphasis on the use of processing to establish microstructures which impart desirable engineering properties. The techniques discussed include solidification, thermal and mechanical processing, powder processing, welding and joining, and surface treatments.</span><br/>
+ <a href="" class="btn-readmore"><span>Metals Processing:</span> Read More [+]</a></p>
+<div id="466" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Gronsky</p></div>
+<p><a href="" class="btn-readless"><span>Metals Processing:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci122" data-toggle="#cb_matsci122">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 122</span> 
+<span class="title">Ceramic Processing</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci122">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2012, Fall 2011, Fall 2010<br/>
+Powder fabrication by grinding and chemical methods, rheological behavior of powder-fluid suspensions, forming methods, drying, sintering, and grain growth. Relation of processing steps to microstructure development.</span><br/>
+ <a href="" class="btn-readmore"><span>Ceramic Processing:</span> Read More [+]</a></p>
+<div id="751" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span> and <span class="code_bubble" data-code-bubble="ENGIN 40">ENGIN 40</span></p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Ceramic Processing:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci123" data-toggle="#cb_matsci123">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 123</span> 
+<span class="title">ELECTRONIC MATERIALS PROCESSING</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci123">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2022, Spring 2021, Spring 2020<br/>
+This 4-unit course starts with a brief review of the fundamentals of solid-state physics including bands and defects in semiconductors and oxides, and then moves to bulk semiconductor crystals growth and processing including doping, diffusion and implantation, and then to thin film deposition and processing methods, and finishes with a discussion of materials analysis and characterization. Recent advances in nanomaterials research will also</span><span class="deschide"> be introduced.</span><br/>
+ <a href="" class="btn-readmore"><span>ELECTRONIC MATERIALS PROCESSING:</span> Read More [+]</a></p>
+<div id="740" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> To prepare students a) for work in semiconductor processing facilities and b) for graduate studies related to thin film processing and relevant materials science topics. <br/>To present the relevant materials science issues in semiconductor and oxide processing. <br/>To provide an introduction into the principles of thin film processing and related technologies.</p><p><strong>Student Learning Outcomes:</strong> Basic knowledge of gas kinetics and vacuum technology, including ideal gas, gas transport theory, definition, creation and measurement of vacuum.<br/>
+Knowledge of electrical and optical properties of thin films.<br/>
+Knowledge of the formation of p-n junction to explain the diode operation and its I-V characteristics. Understanding of the mechanisms of Hall Effect, transport, and C-V measurements, so that can calculate carrier concentration, mobility and conductivity given raw experimental data.<br/>
+The ability to describe major growth techniques of bulk, thin film, and nanostructured semiconductors, with particular emphasis on thin film deposition technologies, including evaporation, sputtering, chemical vapor deposition and epitaxial growths.<br/>
+To have basic knowledge of doping, purification, oxidation, gettering, diffusion, implantation, metallization, lithography and etching in semiconductor processing.<br/>
+To have basic knowledge of electronic material characterization methods: x-ray diffraction, SEM and TEM, EDX, Auger, STM and AFM, Rutherford Back Scattering and SIMS, as well as optical methods including photoluminescence, absorption and Raman scattering.<br/>
+To understand the concepts of bands, bandgap, to distinguish direct and indirect bandgap semiconductors. Understanding of free electron and hole doping of semiconductors to determine Fermi level position.<br/>
+To understand the effect of defects in semiconductors, so that can describe their electronic and optical behaviors, and the methods to eliminate and control them in semiconductors.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MAT SCI 111">MAT SCI 111</span>, <span class="code_bubble" data-code-bubble="PHYSICS 7C">PHYSICS 7C</span>, or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Wu, Yao</p></div>
+<p><a href="" class="btn-readless"><span>ELECTRONIC MATERIALS PROCESSING:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci125" data-toggle="#cb_matsci125">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 125</span> 
+<span class="title">Thin-Film Materials Science</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci125">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+Deposition, processing, and characterization of thin films and their technological applications. Physical and chemical vapor deposition methods. Thin-film nucleation and growth. Thermal and ion processing. Microstructural development in epitaxial, polycrystalline, and amorphous films. Thin-film characterization techniques. Applications in information storage, integrated circuits, and optoelectronic devices. Laboratory demonstrations.</span><br/>
+ <a href="" class="btn-readmore"><span>Thin-Film Materials Science:</span> Read More [+]</a></p>
+<div id="736" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division or graduate standing in Engineering, Physics, Chemistry, or Chemical Engineering; and <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span>. <span class="code_bubble" data-code-bubble="PHYSICS 111A">PHYSICS 111A</span> or <span class="code_bubble" data-code-bubble="PHYSICS 141A">PHYSICS 141A</span> recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Dubon</p></div>
+<p><a href="" class="btn-readless"><span>Thin-Film Materials Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci127" data-toggle="#cb_matsci127">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 127</span> 
+<span class="title">Introduction to Additive Manufacturing: Process, Materials and Designs</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci127">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023<br/>
+Additive manufacturing, the industrial name of 3D printing, pertains to the general class of technologies that, using computer-created (CAD) solid models as input, creates three-dimensional (3D) artifacts through the successive formation of materials. Students will learn the engineering principles and frontiers of additive manufacturing systems and their applications to transforming the rapid prototyping to the paradigm of Additive Manufacturing (AM) for creating</span><span class="deschide"> functional parts, materials and assembly. Students will apply their learning through class projects wherein they will design novel products via AM, design new AM systems and manufacturing strategies for novel materials. Class will also explore advanced design topics enabled by AM</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Additive Manufacturing: Process, Materials and Designs:</span> Read More [+]</a></p>
+<div id="584" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="PHYSICS 7A">PHYSICS 7A</span> (recommended), <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span>, <span class="code_bubble" data-code-bubble="MEC ENG C85">MEC ENG C85</span>/<span class="code_bubble" data-code-bubble="CIV ENG C30">CIV ENG C30</span>, or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructor:</strong> Zheng</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Additive Manufacturing: Process, Materials and Designs:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci129" data-toggle="#cb_matsci129">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 129</span> 
+<span class="title">Experimental Materials Science of Thin Films and Coatings</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci129">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2022<br/>
+This course covers the fundamental experimental materials science and processing<br/>
+of thin film and coatings that incorporates fundamental knowledge of materials transport,<br/>
+accumulation, defects and epitaxy. Through this course, an understanding of the fundamental<br/>
+physical and chemical processes which are involved in crystal growth and thin film fabrication<br/>
+will be gained. Important synthesis and processing techniques used for the fabrication of<br/></span><span class="deschide">
+electronic and photonic devices will be discussed. Finally, it will provide an<br/>
+understanding of how material characteristics are influenced by processing and deposition<br/>
+conditions. This course addresses current challenges and future needs of<br/>
+the semiconductor and coating industries.</span><br/>
+ <a href="" class="btn-readmore"><span>Experimental Materials Science of Thin Films and Coatings:</span> Read More [+]</a></p>
+<div id="603" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> The development of proper protocols for data collection, analysis, and dissemination.<br/>
+To apply this knowledge to scholarly report writing and the hypothesis driven insights and conclusions.<br/>
+To familiarize students with some of the important experimental methods growth of materials.<br/>
+To gain an understanding of how material characteristics are influenced by processing and deposition<br/>
+conditions of thin films and coatings.<br/>
+To gain an understanding of the fundamental physical and chemical processes which are involved in<br/>
+crystal growth and thin film fabrication.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span>, <span class="code_bubble" data-code-bubble="MAT SCI 104">MAT SCI 104</span>, and <span class="code_bubble" data-code-bubble="MAT SCI 125">MAT SCI 125</span>; or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture and three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructor:</strong> Al Balushi</p></div>
+<p><a href="" class="btn-readless"><span>Experimental Materials Science of Thin Films and Coatings:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci130" data-toggle="#cb_matsci130">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 130</span> 
+<span class="title">Experimental Materials Science and Design</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci130">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021<br/>
+This course provides a culminating experience for students approaching completion of the materials science and engineering curriculum. Laboratory experiments are undertaken in a variety of areas from the investigations on semiconductor materials to corrosion science and elucidate the relationships among structure, processing, properties, and performance. The principles of materials selection in engineering design are reviewed.</span><br/>
+ <a href="" class="btn-readmore"><span>Experimental Materials Science and Design:</span> Read More [+]</a></p>
+<div id="374" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Senior standing or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Lecture and Three hours of Laboratory per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Experimental Materials Science and Design:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci136" data-toggle="#cb_matsci136">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 136</span> 
+<span class="title">Materials in Energy Technologies</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci136">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2021, Fall 2019, Fall 2017<br/>
+In many, if not all, technologies, it is materials that play a crucial, enabling role. This course examines potentially sustainable technologies, and the materials properties that enable them. The science at the basis of selected energy technologies are examined and considered in case studies.</span><br/>
+ <a href="" class="btn-readmore"><span>Materials in Energy Technologies:</span> Read More [+]</a></p>
+<div id="131" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Junior or above standing in Materials Science and Engineering or related field</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> Materials Science and Engineering 126</p></div>
+<p><a href="" class="btn-readless"><span>Materials in Energy Technologies:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci140" data-toggle="#cb_matsci140">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 140</span> 
+<span class="title">Nanomaterials for Scientists and Engineers</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci140">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2022, Spring 2020, Spring 2015<br/>
+This course introduces the fundamental principles needed to understand the behavior of materials at the nanometer length scale and the different classes of nanomaterials with applications ranging from information technology to biotechnology. Topics include introduction to different classes of nanomaterials, synthesis and characterization of nanomaterials, and the electronic, magnetic, optical, and mechanical properties of nanomaterials.</span><br/>
+ <a href="" class="btn-readmore"><span>Nanomaterials for Scientists and Engineers:</span> Read More [+]</a></p>
+<div id="950" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="PHYSICS 7C">PHYSICS 7C</span> and <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span>. <span class="code_bubble" data-code-bubble="MAT SCI 102">MAT SCI 102</span> recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Zheng</p></div>
+<p><a href="" class="btn-readless"><span>Nanomaterials for Scientists and Engineers:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matscic150" data-toggle="#cb_matscic150">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI C150</span> 
+<span class="title">Introduction to Materials Chemistry</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matscic150">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Fall 2022, Fall 2021, Spring 2021<br/>
+The application of basic chemical principles to problems in materials discovery, design, and characterization will be discussed. Topics covered will include inorganic solids, nanoscale materials, polymers, and biological materials, with specific focus on the ways in which atomic-level interactions dictate the bulk properties of matter.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Materials Chemistry:</span> Read More [+]</a></p>
+<div id="298" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="CHEM 104A">CHEM 104A</span>. <span class="code_bubble" data-code-bubble="CHEM 104B">CHEM 104B</span> recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Also listed as:</strong> CHEM C150</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Materials Chemistry:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci151" data-toggle="#cb_matsci151">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 151</span> 
+<span class="title">Polymeric Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci151">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2023, Spring 2022, Spring 2021<br/>
+This course is designed for upper division undergraduate and graduate students to gain a fundamental understanding of the science of polymeric materials. Beginning with a treatment of ideal polymeric chain conformations, it develops the thermodynamics of polmyer blends and solutions, the modeling of polymer networks and gelations, the dynamics of polymer chains, and the morphologies of thin films and other dimensionally-restricted structures</span><span class="deschide"> relevant to nanotechnology.</span><br/>
+ <a href="" class="btn-readmore"><span>Polymeric Materials:</span> Read More [+]</a></p>
+<div id="6" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="CHEM 1A">CHEM 1A</span> or <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span>. <span class="code_bubble" data-code-bubble="MAT SCI 103">MAT SCI 103</span> is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Xu</p></div>
+<p><a href="" class="btn-readless"><span>Polymeric Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matscic157" data-toggle="#cb_matscic157">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI C157</span> 
+<span class="title">Nanomaterials in Medicine</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matscic157">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2022, Fall 2021, Fall 2020<br/>
+Nanomedicine is an emerging field involving the use of nanoscale materials for therapeutic and diagnostic purposes. Nanomedicine is a highly interdisciplinary field involving chemistry, materials science, biology and medicine, and has the potential to make major impacts on healthcare in the future. This upper division course is designed for students interested in learning about current developments and future trends in nanomedicine. The overall</span><span class="deschide"> objective of the course is to introduce major aspects of nanomedicine including the selection, design and testing of suitable nanomaterials, and key determinants of therapeutic and diagnostic efficacy. Organic, inorganic and hybrid nanomaterials will be discussed in this course.</span><br/>
+ <a href="" class="btn-readmore"><span>Nanomaterials in Medicine:</span> Read More [+]</a></p>
+<div id="894" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives &amp; Outcomes</strong></p><p><strong>Course Objectives:</strong> To identify an existing or unmet clinical need and identify a nanomedicine that can provide a solution<br/>To learn about chemical approaches used in nanomaterial synthesis and surface modification.<br/>To learn how to read and critique the academic literature.<br/>To understand the interaction of nanomaterials with proteins, cells, and biological systems.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="MAT SCI 45">MAT SCI 45</span> or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Messersmith</p><p><strong>Also listed as:</strong> BIO ENG C157</p></div>
+<p><a href="" class="btn-readless"><span>Nanomaterials in Medicine:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci159" data-toggle="#cb_matsci159">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 159</span> 
+<span class="title">Introduction to Soft Matter</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci159">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2023, Fall 2022<br/>
+Soft matter is ubiquitous in synthetic materials and plays a central role in living systems. This<br/>
+course aims to provide students with an introduction to the physics that govern the structure and<br/>
+dynamics of soft mater systems, including polymers, colloids, surfactants, membranes, and active<br/>
+matter. A particular emphasis will be placed on connecting a microscopic physical picture to the<br/>
+emergent phenomena and properties of interest using</span><span class="deschide"> scaling theory and statistical mechanics.<br/>
+Specific topics will include Brownian motion and colloidal dynamics, the depletion force, polymer<br/>
+chain conformation, rubber elasticity; and surfactant and liquid crystal thermodynamics.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Soft Matter:</span> Read More [+]</a></p>
+<div id="574" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> <span class="code_bubble" data-code-bubble="ENGIN 40">ENGIN 40</span>, <span class="code_bubble" data-code-bubble="MAT SCI 103">MAT SCI 103</span> or equivalent</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternate method of final assessment during regularly scheduled final exam group (e.g., presentation, final project, etc.). </p><p><strong>Instructor:</strong> Omar</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Soft Matter:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matscih194" data-toggle="#cb_matscih194">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI H194</span> 
+<span class="title">Honors Undergraduate Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matscih194">
+
+<p class="courseblockdesc"><span class="descshow ">Terms offered: Fall 2016, Spring 2016, Fall 2015<br/>
+Students who have completed a satisfactory number of advanced courses with a grade-point average of 3.3 or higher may pursue original research under the direction of one of the members of the staff. A maximum of 3 units of H194 may be used to fulfill technical elective requirements in the Materials Science and Engineering program or double majors (unlike 198 or 199, which do not satisfy technical elective requirements). Final report required</span><span class="deschide">.</span><br/>
+ <a href="" class="btn-readmore"><span>Honors Undergraduate Research:</span> Read More [+]</a></p>
+<div id="414" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division technical GPA of 3.3 or higher and consent of instructor and adviser</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p><strong>Summer:</strong> 8 weeks - 1.5-7.5 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Variable format.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Honors Undergraduate Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci195" data-toggle="#cb_matsci195">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 195</span> 
+<span class="title">Special Topics for Advanced Undergraduates</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci195">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2012, Spring 2011, Spring 2010<br/>
+Group study of special topics in materials science and engineering. Selection of topics for further study of underlying concepts and relevent literature, in consultion with appropriate faculty members.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics for Advanced Undergraduates:</span> Read More [+]</a></p>
+<div id="624" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing and good academic standing. (2.0 gpa and above)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of directed group study per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics for Advanced Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci198" data-toggle="#cb_matsci198">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 198</span> 
+<span class="title">Directed Group Studies for Advanced Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci198">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2019, Fall 2018, Spring 2016<br/>
+Group studies of selected topics.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Studies for Advanced Undergraduates:</span> Read More [+]</a></p>
+<div id="723" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing in Engineering</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Directed group study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Studies for Advanced Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci199" data-toggle="#cb_matsci199">
+<h3 class="courseblocktitle">
+<span class="code">MAT SCI 199</span> 
+<span class="title">Supervised Independent Study</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci199">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2023, Spring 2023, Fall 2022<br/>
+Supervised independent study. Enrollment restrictions apply; see the Introduction to Courses and Curricula section of this catalog.</span><br/>
+ <a href="" class="btn-readmore"><span>Supervised Independent Study:</span> Read More [+]</a></p>
+<div id="671" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor and major adviser</p><p><strong>Credit Restrictions:</strong> Course may be repeated for a maximum of four units per semester.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"/>6 weeks - 1-5 hours of independent study per week<br/><span style="width: 15px; display: inline-block;"/>8 weeks - 1-4 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Individual conferences.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+]]>
+</coursestext>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><p class="facitem"><strong>* </strong>Indicates this faculty member is the recipient of the Distinguished Teaching Award.</p><h4>Faculty</h4><p class="facitem"><strong>Joel W. Ager, <i>Adjunct Professor</i>. </strong>Sustainable energy conversion, electronic materials, catalytic and photoelectrocatalytic materials.</p><p class="facitem"><strong>Zakaria Y. Al Balushi, <i>Assistant Professor</i>. </strong>Electronic, Magnetic and Optical Materials, Quantum Materials Synthesis and Optoelectronics.<br/><a href="https://www.mse.berkeley.edu/ourfaculty/zakaria-y-al-balushi"target="_blank">Research Profile</a></p><p class="facitem"><strong>Mark D. Asta, <i>Professor</i>. </strong>Computational materials science.<br/><a href="https://vcresearch.berkeley.edu/faculty/mark-asta"target="_blank">Research Profile</a></p><p class="facitem"><strong>Jillian Banfield, <i>Professor</i>. </strong>Nanoscience, Bioremediation, genomics, biogeochemistry, carbon cycling, geomicrobiology, MARS, minerology.<br/><a href="http://vcresearch.berkeley.edu/node/14396"target="_blank">Research Profile</a></p><p class="facitem"><strong>Robert Birgeneau, <i>Professor</i>. </strong>Physics, phase transition behavior of novel states of matter.<br/><a href="http://vcresearch.berkeley.edu/node/14111"target="_blank">Research Profile</a></p><p class="facitem"><strong>Gerbrand Ceder, <i>Professor</i>. </strong>Energy storage, computational modeling, machine learning.<br/><a href="https://vcresearch.berkeley.edu/faculty/gerbrand-ceder"target="_blank">Research Profile</a></p><p class="facitem"><strong>Daryl Chrzan, <i>Professor</i>. </strong>Materials science and engineering, computational materials science, metals and metallic compounds, defects in solids, growth of nanostructures.<br/><a href="http://vcresearch.berkeley.edu/node/14614"target="_blank">Research Profile</a></p><p class="facitem"><strong>Thomas M. Devine, <i>Professor</i>. </strong>Synthesis of nanomaterials, nuclear power, oil production, secondary batteries for electric vehicles, computer disk drives, and synthesis and characterization of metal oxide nanowires, corrosion resistance of materials.<br/><a href="http://vcresearch.berkeley.edu/node/14001"target="_blank">Research Profile</a></p><p class="facitem"><strong>Oscar D. Dubon, <i>Professor</i>. </strong>Magnetic, optical materials, processing, properties in electronic.<br/><a href="http://vcresearch.berkeley.edu/node/14553"target="_blank">Research Profile</a></p><p class="facitem"><strong>Kevin Healy, <i>Professor</i>. </strong>Bioengineering, biomaterials engineering, tissue engineering, bioinspired materials, tissue and organ regeneration, stem cell engineering, microphysiological systems, organs on a chip, drug screening and discovery, multivalent bioconjugate therapeutics.<br/><a href="http://vcresearch.berkeley.edu/node/14818"target="_blank">Research Profile</a></p><p class="facitem"><strong>Frances Hellman, <i>Professor</i>. </strong>Condensed matter physics and materials science.<br/><a href="http://vcresearch.berkeley.edu/node/14830"target="_blank">Research Profile</a></p><p class="facitem"><strong>Lane W. Martin, <i>Professor</i>. </strong>Complex Oxides, novel electronic materials, thin films, materials processing, materials characterization, memory, logic, information technologies, energy conversion, thermal properties, dielectrics, ferroelectrics, pyroelectrics, piezoelectrics, magnetics, multiferroics, transducers, devices.<br/><a href="http://vcresearch.berkeley.edu/node/16872"target="_blank">Research Profile</a></p><p class="facitem"><strong>Phillip B. Messersmith, <i>Professor</i>. </strong>Biologically inspired materials, regenerative medicine, biointerfacial phenomena, biological materials, medical adhesion, polymers.<br/><a href="https://vcresearch.berkeley.edu/faculty/phillip-messersmith"target="_blank">Research Profile</a></p><p class="facitem"><strong>Andrew M. Minor, <i>Professor</i>. </strong>Metallurgy, nanomechanics, in situ TEM, electron microscopy of soft materials.<br/><a href="http://vcresearch.berkeley.edu/node/14355"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ahmad Omar, <i>Assistant Professor</i>. </strong>Natural and synthetic soft condensed matter systems.<br/><a href="https://vcresearch.berkeley.edu/faculty/ahmad-omar"target="_blank">Research Profile</a></p><p class="facitem"><strong>Kristin A. Persson, <i>Professor</i>. </strong>Lithium-ion Batteries.<br/><a href="http://vcresearch.berkeley.edu/node/16917"target="_blank">Research Profile</a></p><p class="facitem"><strong>R. Ramesh, <i>Professor</i>. </strong>Processing of complex oxide heterostructures, nanoscale characterization/device structures, thin film growth and materials physics of complex oxides, materials processing for devices, information technologies.<br/><a href="http://vcresearch.berkeley.edu/node/15258"target="_blank">Research Profile</a></p><p class="facitem"><strong>Robert O. Ritchie, <i>Professor</i>. </strong>Structural materials, mechanical behavior in biomaterials, creep, fatigue and fracture of advanced metals, intermetallics, ceramics.<br/><a href="http://vcresearch.berkeley.edu/node/15271"target="_blank">Research Profile</a></p><p class="facitem"><strong>Miquel B. Salmeron, <i>Adjunct Professor</i>. </strong>Molecules, lasers, atoms, materials science and engineering, matter, scanning, tunneling, atomic force microscopies, x-ray photoelectron spectroscopy.<br/><a href="http://vcresearch.berkeley.edu/node/14128"target="_blank">Research Profile</a></p><p class="facitem"><strong>Mary Scott, <i>Assistant Professor</i>. </strong>Structural materials, Electronic, Magnetic and Optical Materials, and Chemical and Electrochemical Materials.<br/><a href="https://www.mse.berkeley.edu/ourfaculty/scott-mary"target="_blank">Research Profile</a></p><p class="facitem"><strong>Junqiao Wu, <i>Professor</i>. </strong>Semiconductors, nanotechnology, energy materials.<br/><a href="http://vcresearch.berkeley.edu/node/15638"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ting Xu, <i>Professor</i>. </strong>Polymer, nanocomposite, biomaterial, membrane, directed self-assembly, drug delivery, protein therapeutics, block copolymers, nanoparticles.<br/><a href="http://vcresearch.berkeley.edu/node/14129"target="_blank">Research Profile</a></p><p class="facitem"><strong>Peidong Yang, <i>Professor</i>. </strong>Materials chemistry, sensors, nanostructures, energy conversion, nanowires, miniaturizing optoelectronic devices, photovoltaics, thermoelectrics, solid state lighting.<br/><a href="http://vcresearch.berkeley.edu/node/15642"target="_blank">Research Profile</a></p><p class="facitem"><strong>Jie Yao, <i>Associate Professor</i>. </strong>Optical materials, Nanophotonics, optoelectronics.<br/><a href="http://vcresearch.berkeley.edu/node/16357"target="_blank">Research Profile</a></p><p class="facitem"><strong>Haimei Zheng, <i>Associate Adjunct Professor</i>. </strong>Nanoscience, solid-liquid interfaces, chemical and electrochemical processes, catalysis, nanomaterials characterization, in situ liquid phase electron microscopy.</p><p class="facitem"><strong>Xiaoyu (Rayne) Zheng, <i>Associate Professor</i>. </strong></p><h4>Lecturers</h4><p class="facitem"><strong>Matthew Sherburne, <i>Lecturer</i>. </strong>Computational (DFT, Machine Learning, High Throughput) Materials Science and Engineering applied to the Discovery, Design and Development of materials for sustainability. The main areas are Perovskite for solar energy, Catalytic materials for CO2 reduction (catalytic work also includes biofuels and pharmaceuticals), and 2D materials for clean water.</p><h4>Emeritus Faculty</h4><p class="facitem"><strong>Lutgard De Jonghe, <i>Professor Emeritus</i>. </strong>Ceramic properties, advanced ceramics, silicon carbide, densification studies, microstructure development.<br/><a href="http://vcresearch.berkeley.edu/node/14536"target="_blank">Research Profile</a></p><p class="facitem"><strong>Fiona Doyle, <i>Professor Emeritus</i>. </strong>Electrochemistry, mineral processing, solution processing of materials, interfacial chemistry, extractive metallurgy, remediation of abandoned mines.<br/><a href="http://vcresearch.berkeley.edu/node/14289"target="_blank">Research Profile</a></p><p class="facitem"><strong>James W. Evans, <i>Professor Emeritus</i>. </strong>Production of materials, particularly fluid flow, reaction kinetics, mass transport, electrochemical, electromagnetic phenomena governing processes for producing materials, metals, storing energy.<br/><a href="http://vcresearch.berkeley.edu/node/14002"target="_blank">Research Profile</a></p><p class="facitem"><strong>* Douglas W. Fuerstenau, <i>Professor Emeritus</i>. </strong>Mineral processing, extractive metallurgy, application of surface, colloid chemistry to mineral/water systems, fine particle science, technology, principles of comminution, flotation, pelletizing, hydrometallurg, extraction of metals.<br/><a href="http://vcresearch.berkeley.edu/node/14693"target="_blank">Research Profile</a></p><p class="facitem"><strong>Andreas M. Glaeser, <i>Professor Emeritus</i>. </strong>Ceramic joining, TLP bonding, brazing, reduced-temperature joining, ceramic-metal joining, ceramic processing, surface and interface properties of ceramics, thermal barrier coatings.<br/><a href="http://vcresearch.berkeley.edu/node/14115"target="_blank">Research Profile</a></p><p class="facitem"><strong>* Ronald Gronsky, <i>Professor Emeritus</i>. </strong>Internal structure of materials, engineering applications.<br/><a href="http://vcresearch.berkeley.edu/node/14747"target="_blank">Research Profile</a></p><p class="facitem"><strong>Marshal F. Merriam, <i>Professor Emeritus</i>. </strong></p><p class="facitem"><strong>* J. W. Morris, <i>Professor Emeritus</i>. </strong>Structural materials, computational materials, the limits of strength, deformation mechanisms, non-destructive testing with SQUID microscopy, mechanisms of grain refinement in high strength steels, lead-free solders for microelectronics.<br/><a href="http://vcresearch.berkeley.edu/node/15145"target="_blank">Research Profile</a></p><p class="facitem"><strong>Matthew Tirrell, <i>Professor Emeritus</i>. </strong></p><p class="facitem"><strong>Eicke R. Weber, <i>Professor Emeritus</i>. </strong>Optical materials, magnetic materials, semiconductor thin film growth, device processing in electronic materials.<br/><a href="http://vcresearch.berkeley.edu/node/14004"target="_blank">Research Profile</a></p>]]>
+</faculty>
+</courseleaf>
+
