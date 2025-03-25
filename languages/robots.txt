@@ -1,6 +1,6 @@
 Sitemap: http://guide.berkeley.edu/sitemap.xml
 User-agent: *
-Disallow: /2014-15//
+Disallow: /archive/
 Disallow: /admin/
 Disallow: /azindex/
 Disallow: /catalogcontents/
